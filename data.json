@@ -1,0 +1,102 @@
+{
+  "ideas": [
+    {
+      "date": "2026-05-26",
+      "slug": "001-focus-sleeper",
+      "num": "001",
+      "title": "Focus Sleeper \u2014 AI Sleep & Focus Sound Mixer",
+      "score": 8.2,
+      "path": "ideas/2026-05-26/001-focus-sleeper/idea.md"
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "002-splitsheet",
+      "num": "002",
+      "title": "Splitsheet \u2014 Beautiful Expense Splitting with Receipt OCR",
+      "score": 7.6,
+      "path": "ideas/2026-05-26/002-splitsheet/idea.md"
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "003-interval",
+      "num": "003",
+      "title": "Interval \u2014 Smart Workout Timer with Progressive Overload",
+      "score": 7.4,
+      "path": "ideas/2026-05-26/003-interval/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "001-pasta-shapes-guide",
+      "num": "001",
+      "title": "Pasta Shapes Guide",
+      "score": 8.4,
+      "path": "ideas/2026-05-27/001-pasta-shapes-guide/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "002-scoville-heat-guide",
+      "num": "002",
+      "title": "Scoville Heat Guide",
+      "score": 8.0,
+      "path": "ideas/2026-05-27/002-scoville-heat-guide/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "003-spice-substitution-guide",
+      "num": "003",
+      "title": "Spice Substitution Guide",
+      "score": 7.8,
+      "path": "ideas/2026-05-27/003-spice-substitution-guide/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "001-sleep-hygiene-guide",
+      "num": "001",
+      "title": "Sleep Hygiene Guide",
+      "score": 8.4,
+      "path": "ideas/2026-05-30/001-sleep-hygiene-guide/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "002-contrast-therapy-protocol",
+      "num": "002",
+      "title": "Contrast Therapy Protocol",
+      "score": 7.6,
+      "path": "ideas/2026-05-30/002-contrast-therapy-protocol/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "003-food-shelf-life-guide",
+      "num": "003",
+      "title": "Food Shelf Life Guide",
+      "score": 7.6,
+      "path": "ideas/2026-05-30/003-food-shelf-life-guide/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "001-privacy-rights-tracker",
+      "num": "001",
+      "title": "Privacy Rights Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-05-31/001-privacy-rights-tracker/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "002-lunar-calendar-guide",
+      "num": "002",
+      "title": "Moon Phase \u2014 Lunar Calendar Guide",
+      "score": 7.4,
+      "path": "ideas/2026-05-31/002-lunar-calendar-guide/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "003-digital-wellness-score",
+      "num": "003",
+      "title": "Screen sober \u2014 Digital Wellness Score",
+      "score": 7.6,
+      "path": "ideas/2026-05-31/003-digital-wellness-score/idea.md"
+    }
+  ],
+  "last_updated": "2026-05-31T07:27:00Z",
+  "total": 12
+}
