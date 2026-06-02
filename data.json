@@ -4,7 +4,7 @@
       "date": "2026-05-26",
       "slug": "001-focus-sleeper",
       "num": "001",
-      "title": "Focus Sleeper \u2014 AI Sleep & Focus Sound Mixer",
+      "title": "Focus Sleeper — AI Sleep & Focus Sound Mixer",
       "score": 8.2,
       "path": "ideas/2026-05-26/001-focus-sleeper/idea.md"
     },
@@ -12,7 +12,7 @@
       "date": "2026-05-26",
       "slug": "002-splitsheet",
       "num": "002",
-      "title": "Splitsheet \u2014 Beautiful Expense Splitting with Receipt OCR",
+      "title": "Splitsheet — Beautiful Expense Splitting with Receipt OCR",
       "score": 7.6,
       "path": "ideas/2026-05-26/002-splitsheet/idea.md"
     },
@@ -20,7 +20,7 @@
       "date": "2026-05-26",
       "slug": "003-interval",
       "num": "003",
-      "title": "Interval \u2014 Smart Workout Timer with Progressive Overload",
+      "title": "Interval — Smart Workout Timer with Progressive Overload",
       "score": 7.4,
       "path": "ideas/2026-05-26/003-interval/idea.md"
     },
@@ -84,7 +84,7 @@
       "date": "2026-05-31",
       "slug": "002-lunar-calendar-guide",
       "num": "002",
-      "title": "Moon Phase \u2014 Lunar Calendar Guide",
+      "title": "Moon Phase — Lunar Calendar Guide",
       "score": 7.4,
       "path": "ideas/2026-05-31/002-lunar-calendar-guide/idea.md"
     },
@@ -92,11 +92,35 @@
       "date": "2026-05-31",
       "slug": "003-digital-wellness-score",
       "num": "003",
-      "title": "Screen sober \u2014 Digital Wellness Score",
+      "title": "Screen sober — Digital Wellness Score",
       "score": 7.6,
       "path": "ideas/2026-05-31/003-digital-wellness-score/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "001-creatine-tracker",
+      "num": "001",
+      "title": "CreatineTracker — Daily Creatine Dose & Streak Logger",
+      "score": 8.2,
+      "path": "ideas/2026-06-02/001-creatine-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "002-seed-oil-scanner",
+      "num": "002",
+      "title": "Seed Oil Scan — Offline Seed Oil Food Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-02/002-seed-oil-scanner/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "003-walking-pad-log",
+      "num": "003",
+      "title": "WalkDesk — Under-Desk Walking Pad Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
     }
   ],
-  "last_updated": "2026-05-31T07:27:00Z",
-  "total": 12
+  "last_updated": "2026-06-02",
+  "total": 15
 }
