@@ -119,8 +119,56 @@
       "title": "WalkDesk — Under-Desk Walking Pad Tracker",
       "score": 7.6,
       "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "001-food-holiday-guide",
+      "num": "001",
+      "title": "Food Holiday Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-03/001-food-holiday-guide/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "002-love-island-companion",
+      "num": "002",
+      "title": "Love Island USA S8 Companion",
+      "score": 7.4,
+      "path": "ideas/2026-06-03/002-love-island-companion/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "003-gaming-event-tracker",
+      "num": "003",
+      "title": "Gaming Event Tracker",
+      "score": 7.2,
+      "path": "ideas/2026-06-03/003-gaming-event-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "001-screwworm-watch",
+      "num": "001",
+      "title": "Screwworm Watch — Outbreak Guide & Safety Checklist",
+      "score": 7.6,
+      "path": "ideas/2026-06-04/001-screwworm-watch/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "002-aurora-photo-guide",
+      "num": "002",
+      "title": "Aurora Photo Guide — iPhone Northern Lights Photography",
+      "score": 7.2,
+      "path": "ideas/2026-06-04/002-aurora-photo-guide/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "003-world-cup-meals-tracker",
+      "num": "003",
+      "title": "WC26 Collect — McDonald's World Cup Meals Tracker",
+      "score": 7.0,
+      "path": "ideas/2026-06-04/003-world-cup-meals-tracker/idea.md"
     }
   ],
-  "last_updated": "2026-06-02",
-  "total": 15
+  "last_updated": "2026-06-04",
+  "total": 21
 }
