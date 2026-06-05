@@ -4,7 +4,7 @@
       "date": "2026-05-26",
       "slug": "001-focus-sleeper",
       "num": "001",
-      "title": "Focus Sleeper — AI Sleep & Focus Sound Mixer",
+      "title": "Focus Sleeper \u2014 AI Sleep & Focus Sound Mixer",
       "score": 8.2,
       "path": "ideas/2026-05-26/001-focus-sleeper/idea.md"
     },
@@ -12,7 +12,7 @@
       "date": "2026-05-26",
       "slug": "002-splitsheet",
       "num": "002",
-      "title": "Splitsheet — Beautiful Expense Splitting with Receipt OCR",
+      "title": "Splitsheet \u2014 Beautiful Expense Splitting with Receipt OCR",
       "score": 7.6,
       "path": "ideas/2026-05-26/002-splitsheet/idea.md"
     },
@@ -20,7 +20,7 @@
       "date": "2026-05-26",
       "slug": "003-interval",
       "num": "003",
-      "title": "Interval — Smart Workout Timer with Progressive Overload",
+      "title": "Interval \u2014 Smart Workout Timer with Progressive Overload",
       "score": 7.4,
       "path": "ideas/2026-05-26/003-interval/idea.md"
     },
@@ -84,7 +84,7 @@
       "date": "2026-05-31",
       "slug": "002-lunar-calendar-guide",
       "num": "002",
-      "title": "Moon Phase — Lunar Calendar Guide",
+      "title": "Moon Phase \u2014 Lunar Calendar Guide",
       "score": 7.4,
       "path": "ideas/2026-05-31/002-lunar-calendar-guide/idea.md"
     },
@@ -92,7 +92,7 @@
       "date": "2026-05-31",
       "slug": "003-digital-wellness-score",
       "num": "003",
-      "title": "Screen sober — Digital Wellness Score",
+      "title": "Screen sober \u2014 Digital Wellness Score",
       "score": 7.6,
       "path": "ideas/2026-05-31/003-digital-wellness-score/idea.md"
     },
@@ -100,7 +100,7 @@
       "date": "2026-06-02",
       "slug": "001-creatine-tracker",
       "num": "001",
-      "title": "CreatineTracker — Daily Creatine Dose & Streak Logger",
+      "title": "CreatineTracker \u2014 Daily Creatine Dose & Streak Logger",
       "score": 8.2,
       "path": "ideas/2026-06-02/001-creatine-tracker/idea.md"
     },
@@ -108,7 +108,7 @@
       "date": "2026-06-02",
       "slug": "002-seed-oil-scanner",
       "num": "002",
-      "title": "Seed Oil Scan — Offline Seed Oil Food Guide",
+      "title": "Seed Oil Scan \u2014 Offline Seed Oil Food Guide",
       "score": 8.0,
       "path": "ideas/2026-06-02/002-seed-oil-scanner/idea.md"
     },
@@ -116,7 +116,7 @@
       "date": "2026-06-02",
       "slug": "003-walking-pad-log",
       "num": "003",
-      "title": "WalkDesk — Under-Desk Walking Pad Tracker",
+      "title": "WalkDesk \u2014 Under-Desk Walking Pad Tracker",
       "score": 7.6,
       "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
     },
@@ -148,7 +148,7 @@
       "date": "2026-06-04",
       "slug": "001-screwworm-watch",
       "num": "001",
-      "title": "Screwworm Watch — Outbreak Guide & Safety Checklist",
+      "title": "Screwworm Watch \u2014 Outbreak Guide & Safety Checklist",
       "score": 7.6,
       "path": "ideas/2026-06-04/001-screwworm-watch/idea.md"
     },
@@ -156,7 +156,7 @@
       "date": "2026-06-04",
       "slug": "002-aurora-photo-guide",
       "num": "002",
-      "title": "Aurora Photo Guide — iPhone Northern Lights Photography",
+      "title": "Aurora Photo Guide \u2014 iPhone Northern Lights Photography",
       "score": 7.2,
       "path": "ideas/2026-06-04/002-aurora-photo-guide/idea.md"
     },
@@ -164,11 +164,35 @@
       "date": "2026-06-04",
       "slug": "003-world-cup-meals-tracker",
       "num": "003",
-      "title": "WC26 Collect — McDonald's World Cup Meals Tracker",
+      "title": "WC26 Collect \u2014 McDonald's World Cup Meals Tracker",
       "score": 7.0,
       "path": "ideas/2026-06-04/003-world-cup-meals-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "001-food-holiday-calendar",
+      "num": "001",
+      "title": "Food Holiday Calendar \u2014 Daily Food Celebrations & Deals",
+      "score": 8.0,
+      "path": "ideas/2026-06-05/001-food-holiday-calendar/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "002-persepolis-companion",
+      "num": "002",
+      "title": "Persepolis Companion \u2014 Graphic Novel Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-05/002-persepolis-companion/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "003-architecture-wonder-guide",
+      "num": "003",
+      "title": "Wonders \u2014 Interactive Architecture Guide",
+      "score": 7.4,
+      "path": "ideas/2026-06-05/003-architecture-wonder-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-04",
-  "total": 21
+  "last_updated": "2026-06-05",
+  "total": 24
 }
