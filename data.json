@@ -191,8 +191,32 @@
       "title": "Wonders \u2014 Interactive Architecture Guide",
       "score": 7.4,
       "path": "ideas/2026-06-05/003-architecture-wonder-guide/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "001-ringwise",
+      "num": 1,
+      "title": "Ringwise \u2014 Oura Ring Insights Companion",
+      "score": 8.2,
+      "path": "ideas/2026-06-06/001-ringwise/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "002-sober-sips",
+      "num": 2,
+      "title": "Sober Sips \u2014 NA Drink Discovery",
+      "score": 7.6,
+      "path": "ideas/2026-06-06/002-sober-sips/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "003-pawplate",
+      "num": 3,
+      "title": "PawPlate \u2014 Dog Dental Health Tracker",
+      "score": 7.4,
+      "path": "ideas/2026-06-06/003-pawplate/idea.md"
     }
   ],
-  "last_updated": "2026-06-05",
-  "total": 24
+  "last_updated": "2026-06-06",
+  "total": 27
 }
