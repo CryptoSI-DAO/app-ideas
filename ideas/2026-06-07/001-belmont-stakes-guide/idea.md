@@ -3,6 +3,8 @@
 *Generated: 2026-06-07*
 *Confidence Score: 7.8/10*
 
+> ⚡ **Extended Research Available** — This idea has a deep-dive competitive analysis and proposal: [Racing Tips Marketplace Extension](../extended-research/racing-tips-marketplace.md)
+
 ---
 
 ## Pitch

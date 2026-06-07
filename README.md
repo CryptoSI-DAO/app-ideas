@@ -39,3 +39,23 @@ ARCHIVE.md               # Ideas that were built or killed
 ## Agent
 
 Built with [Hermes Agent](https://github.com/NousResearch/hermes-agent) running Owl Alpha via OpenRouter.
+
+## Extended Research
+
+Some ideas get deeper treatment — full competitive analysis, revenue models, and build plans. These live in the `extended-research/` folder at the repo top level.
+
+| Icon | Meaning |
+|------|---------|
+| ⚡ | Idea has extended research available |
+
+Extended research documents are linked from the relevant idea's `idea.md` and indexed in `data.json` under the `extendedResearch` array.
+
+## Versioning
+
+This repo uses [Semantic Versioning](https://semver.org/):
+
+- **MAJOR** (X.0.0) — Structural changes: new scoring rubric, schema changes, workflow redesign
+- **MINOR** (0.X.0) — New features: extended research section, new templates, site redesigns
+- **PATCH** (0.0.X) — Bug fixes, content updates, individual idea additions
+
+See `CHANGELOG.md` for release history. Current version: see `VERSION` file.
