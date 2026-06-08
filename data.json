@@ -215,10 +215,58 @@
       "title": "PawPlate \u2014 Dog Dental Health Tracker",
       "score": 7.4,
       "path": "ideas/2026-06-06/003-pawplate/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "001-belmont-stakes-guide",
+      "num": "001",
+      "title": "Belmont Stakes Guide 2026",
+      "score": 7.8,
+      "path": "ideas/2026-06-07/001-belmont-stakes-guide/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "002-love-island-tracker",
+      "num": "002",
+      "title": "Love Island USA S8 Tracker",
+      "score": 7.4,
+      "path": "ideas/2026-06-07/002-love-island-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "003-caffeine-tracker",
+      "num": "003",
+      "title": "Caffeine Tracker: Daily Intake",
+      "score": 7.2,
+      "path": "ideas/2026-06-07/003-caffeine-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "001-persona-6-guide",
+      "num": "001",
+      "title": "Persona 6 Guide & Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-08/001-persona-6-guide/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "002-broadway-tony-guide",
+      "num": "002",
+      "title": "Broadway Season Guide 2026 \u2014 Tony Awards Edition",
+      "score": 7.4,
+      "path": "ideas/2026-06-08/002-broadway-tony-guide/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "003-reptile-id-field-guide",
+      "num": "003",
+      "title": "Reptile ID \u2014 Herpetology Field Guide",
+      "score": 7.2,
+      "path": "ideas/2026-06-08/003-reptile-id-field-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-07",
-  "total": 27,
+  "last_updated": "2026-06-08",
+  "total": 34,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
