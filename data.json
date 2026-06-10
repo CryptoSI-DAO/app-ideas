@@ -263,15 +263,41 @@
       "title": "Reptile ID \u2014 Herpetology Field Guide",
       "score": 7.2,
       "path": "ideas/2026-06-08/003-reptile-id-field-guide/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "001-head-spa-guide",
+      "num": 1,
+      "title": "Head Spa \u2014 Japanese Scalp Treatment Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-10/001-head-spa-guide/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "002-creatrack-gummy-tracker",
+      "num": 2,
+      "title": "CreatiTrack \u2014 Creatine & Fitness Gummies Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-06-10/002-creatrack-gummy-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "003-padel-101-guide",
+      "num": 3,
+      "title": "Padel 101 \u2014 Rules, Drills & Court Guide",
+      "score": 7.4,
+      "path": "ideas/2026-06-10/003-padel-101-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-08",
-  "total": 34,
+  "last_updated": "2026-06-10",
+  "total": 36,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
-      "title": "Racing Tips Marketplace — Extended Research",
-      "relatedIdeas": ["001-belmont-stakes-guide"],
+      "title": "Racing Tips Marketplace \u2014 Extended Research",
+      "relatedIdeas": [
+        "001-belmont-stakes-guide"
+      ],
       "path": "extended-research/racing-tips-marketplace.md",
       "date": "2026-06-07",
       "summary": "Competitive analysis of racing/tipster marketplace space. Covers Tipstrr, Betaminic, PrizePicks, BettingPros, OLBG, BetDAQ Tips. Proposes 5-layer revenue model (subscriptions, pay-per-tip, rev share, affiliate CPA, free tier). 3-month build plan."
