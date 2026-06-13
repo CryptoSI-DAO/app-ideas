@@ -436,3 +436,14 @@ struct Milestone: Identifiable, Codable {
 
 ### Estimated Build Time
 2.5-3 hours
+
+## Scoring Breakdown
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 7/10 | "Sober curious" movement sustained growth; seasonal peaks in Jan/Sep. Not a fad. |
+| App Gap | 8/10 | Existing apps are dated, ad-heavy, or subscription-locked. Clear quality gap. |
+| Build Simplicity | 9/10 | Pure local storage, no backend, no API. CRUD app with timer. Well within 3 hours. |
+| Evergreen Potential | 9/10 | Sobriety/recovery is a permanent need. Seasonal spikes provide natural marketing moments. |
+| Monetization | 7/10 | Free core + $4.99 one-time unlock is proven for health/wellness apps. |
+| **Average** | **8.0/10** | |

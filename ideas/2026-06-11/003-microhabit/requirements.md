@@ -402,3 +402,14 @@ struct Article: Identifiable, Codable {
 
 ### Estimated Build Time
 2-2.5 hours
+
+## Scoring Breakdown
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 6/10 | Steady search interest but not surging. BJ Fogg methodology drives consistent demand. |
+| App Gap | 7/10 | Habit tracker market oversaturated but no app specifically built around tiny habits method. |
+| Build Simplicity | 10/10 | Dead-simple CRUD. No backend, no API, no content library. Fastest build of the week. |
+| Evergreen Potential | 8/10 | Habit formation is a permanent need. Tiny habits philosophy has sustained relevance. |
+| Monetization | 7/10 | Free (5 habits) + $2.99 one-time unlock fits the simple utility price point. |
+| **Average** | **7.6/10** | |

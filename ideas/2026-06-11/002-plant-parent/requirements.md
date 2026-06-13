@@ -474,3 +474,14 @@ struct CareArticle: Identifiable, Codable {
 
 ### Estimated Build Time
 2.5-3 hours
+
+## Scoring Breakdown
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 7/10 | Plant ownership lifestyle sustained interest; post-2020 boom created lasting demand. |
+| App Gap | 8/10 | Market dominated by subscription AI apps. Clear gap for offline-first free alternative. |
+| Build Simplicity | 9/10 | Static content app, local storage, no backend. Trivially buildable in 3 hours. |
+| Evergreen Potential | 8/10 | Plant care is a permanent need. Lifestyle category with year-round relevance. |
+| Monetization | 7/10 | Free (10 plants) + $3.99 one-time unlock is proven model for content apps. |
+| **Average** | **7.8/10** | |
