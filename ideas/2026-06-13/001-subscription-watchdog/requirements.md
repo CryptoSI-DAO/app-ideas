@@ -1,5 +1,7 @@
 # App Idea: Subscription Price Watchdog
 
+> 🚨 **[Extended Research Available](extended-research/subwatch-subscription-price-watchdog.md)** — Full competitive analysis, market sizing, revenue projections, risk assessment, and phased build plan.
+
 *Generated: 2026-06-13*
 *Confidence Score: 7.6/10*
 

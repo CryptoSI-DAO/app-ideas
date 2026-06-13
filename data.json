@@ -287,10 +287,18 @@
       "title": "Padel 101 \u2014 Rules, Drills & Court Guide",
       "score": 7.4,
       "path": "ideas/2026-06-10/003-padel-101-guide/idea.md"
+    },
+    {
+      "date": "2026-06-13",
+      "slug": "001-subscription-watchdog",
+      "num": 1,
+      "title": "SubWatch \u2014 Subscription Price Watchdog",
+      "score": 7.6,
+      "path": "ideas/2026-06-13/001-subscription-watchdog/requirements.md"
     }
   ],
-  "last_updated": "2026-06-10",
-  "total": 36,
+  "last_updated": "2026-06-13",
+  "total": 37,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
@@ -301,6 +309,16 @@
       "path": "extended-research/racing-tips-marketplace.md",
       "date": "2026-06-07",
       "summary": "Competitive analysis of racing/tipster marketplace space. Covers Tipstrr, Betaminic, PrizePicks, BettingPros, OLBG, BetDAQ Tips. Proposes 5-layer revenue model (subscriptions, pay-per-tip, rev share, affiliate CPA, free tier). 3-month build plan."
+    },
+    {
+      "slug": "subwatch-subscription-price-watchdog",
+      "title": "SubWatch \u2014 Subscription Price Watchdog (Extended Research)",
+      "relatedIdeas": [
+        "001-subscription-watchdog"
+      ],
+      "path": "extended-research/subwatch-subscription-price-watchdog.md",
+      "date": "2026-06-13",
+      "summary": "Full competitive analysis of 25 subscription tracker apps. Google Trends +455% for 'subscription tracker'. Revenue projections: $25K-$200K. Phased 3-hour build plan. Risk analysis. Market sizing: 3-5M qualified SAM."
     }
   ]
 }
