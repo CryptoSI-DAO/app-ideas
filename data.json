@@ -295,10 +295,34 @@
       "title": "SubWatch \u2014 Subscription Price Watchdog",
       "score": 7.6,
       "path": "ideas/2026-06-13/001-subscription-watchdog/requirements.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "001-magnesium-tracker",
+      "num": 1,
+      "title": "Magnesium Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-16/001-magnesium-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "002-ai-teacher-assistant",
+      "num": 2,
+      "title": "TeachAI \u2014 AI Teacher Assistant",
+      "score": 7.2,
+      "path": "ideas/2026-06-16/002-ai-teacher-assistant/idea.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "003-travel-packing-checklist",
+      "num": 3,
+      "title": "PackPal \u2014 Smart Travel Packing Checklist",
+      "score": 7.0,
+      "path": "ideas/2026-06-16/003-travel-packing-checklist/idea.md"
     }
   ],
-  "last_updated": "2026-06-13",
-  "total": 37,
+  "last_updated": "2026-06-16",
+  "total": 40,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
