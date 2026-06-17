@@ -319,10 +319,34 @@
       "title": "PackPal \u2014 Smart Travel Packing Checklist",
       "score": 7.0,
       "path": "ideas/2026-06-16/003-travel-packing-checklist/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "001-microhabit-tiny-habits-tracker",
+      "num": 1,
+      "title": "MicroHabit \u2014 Tiny Habits Tracker",
+      "score": 8.6,
+      "path": "ideas/2026-06-17/001-microhabit-tiny-habits-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "002-prompt-craft-ai-prompt-library",
+      "num": 2,
+      "title": "Prompt Craft \u2014 AI Prompt Library",
+      "score": 8.0,
+      "path": "ideas/2026-06-17/002-prompt-craft-ai-prompt-library/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "003-vaccinelog-vaccination-schedule",
+      "num": 3,
+      "title": "VaccineLog \u2014 Vaccination Schedule",
+      "score": 7.8,
+      "path": "ideas/2026-06-17/003-vaccinelog-vaccination-schedule/idea.md"
     }
   ],
-  "last_updated": "2026-06-16",
-  "total": 40,
+  "last_updated": "2026-06-17",
+  "total": 43,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
