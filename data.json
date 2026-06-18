@@ -343,10 +343,34 @@
       "title": "VaccineLog \u2014 Vaccination Schedule",
       "score": 7.8,
       "path": "ideas/2026-06-17/003-vaccinelog-vaccination-schedule/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "001-contrast-therapy-guide",
+      "num": "001",
+      "title": "Contrast Therapy Protocol Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-18/001-contrast-therapy-guide/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "002-car-seat-safety-guide",
+      "num": "002",
+      "title": "Car Seat Safety Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-18/002-car-seat-safety-guide/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "003-baby-reflux-guide",
+      "num": "003",
+      "title": "Baby Reflux Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-18/003-baby-reflux-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-17",
-  "total": 43,
+  "last_updated": "2026-06-18",
+  "total": 46,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
