@@ -3,6 +3,8 @@
 *Generated: 2026-06-19*
 *Confidence Score: 7.4/10*
 
+🚨 **[Extended Research Available](../extended-research/synstack.md)** — Full competitive analysis, revenue model, risk assessment, and phased build plan.
+
 ---
 
 ## Pitch

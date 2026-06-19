@@ -415,6 +415,16 @@
       "path": "extended-research/subwatch-subscription-price-watchdog.md",
       "date": "2026-06-13",
       "summary": "Full competitive analysis of 25 subscription tracker apps. Google Trends +455% for 'subscription tracker'. Revenue projections: $25K-$200K. Phased 3-hour build plan. Risk analysis. Market sizing: 3-5M qualified SAM."
+    },
+    {
+      "slug": "synstack-supplement-interaction-checker",
+      "title": "SynStack \u2014 Supplement Interaction Checker (Extended Research)",
+      "relatedIdeas": [
+        "002-synstack"
+      ],
+      "path": "extended-research/synstack.md",
+      "date": "2026-06-19",
+      "summary": "Full competitive analysis of 42 apps across 12 search queries. TRUE supplement interaction checker is an empty niche \u2014 Synstax abandoned (1 review), SuppCo is scanner not checker, Drugs.com is Rx-only. Revenue: $2.99 paid, projected $15K-$150K. Phased 3-hour build plan. Risk analysis covering regulatory, trust, competitive, and legal risks."
     }
   ]
 }
