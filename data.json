@@ -367,10 +367,34 @@
       "title": "Baby Reflux Guide",
       "score": 7.6,
       "path": "ideas/2026-06-18/003-baby-reflux-guide/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "001-scent-safe",
+      "num": 1,
+      "title": "ScentSafe \u2014 Fragrance Ingredient Safety Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-19/001-scent-safe/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "002-synstack",
+      "num": 2,
+      "title": "SynStack \u2014 Supplement Interaction Checker",
+      "score": 8.0,
+      "path": "ideas/2026-06-19/002-synstack/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "003-pupprep",
+      "num": 3,
+      "title": "PupPrep \u2014 Puppy Training & Care Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-19/003-pupprep/idea.md"
     }
   ],
-  "last_updated": "2026-06-18",
-  "total": 46,
+  "last_updated": "2026-06-19",
+  "total": 49,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
