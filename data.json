@@ -391,10 +391,34 @@
       "title": "PupPrep \u2014 Puppy Training & Care Guide",
       "score": 8.0,
       "path": "ideas/2026-06-19/003-pupprep/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "001-bottle-hygiene-guide",
+      "num": "001",
+      "title": "Baby Bottle Hygiene Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-20/001-bottle-hygiene-guide/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "002-baby-first-foods-guide",
+      "num": "002",
+      "title": "Baby First Foods Guide",
+      "score": 7.4,
+      "path": "ideas/2026-06-20/002-baby-first-foods-guide/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "003-probiotic-soda-guide",
+      "num": "003",
+      "title": "Probiotic Soda Guide",
+      "score": 7.2,
+      "path": "ideas/2026-06-20/003-probiotic-soda-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-19",
-  "total": 49,
+  "last_updated": "2026-06-20",
+  "total": 52,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
