@@ -415,10 +415,34 @@
       "title": "Probiotic Soda Guide",
       "score": 7.2,
       "path": "ideas/2026-06-20/003-probiotic-soda-guide/idea.md"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "001-ai-ethics-guide",
+      "num": 1,
+      "title": "AI Ethics Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-21/001-ai-ethics-guide"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "002-red-light-therapy-guide",
+      "num": 2,
+      "title": "Red Light Therapy Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-21/002-red-light-therapy-guide"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "003-deepvoice-ai-voice-detector",
+      "num": 3,
+      "title": "DeepVoice \u2014 AI Voice Detector",
+      "score": 7.6,
+      "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector"
     }
   ],
-  "last_updated": "2026-06-20",
-  "total": 52,
+  "last_updated": "2026-06-21",
+  "total": 55,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
