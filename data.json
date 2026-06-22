@@ -439,10 +439,34 @@
       "title": "DeepVoice \u2014 AI Voice Detector",
       "score": 7.6,
       "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "001-creatine-gummies-guide",
+      "num": 1,
+      "title": "Creatine Gummies Guide",
+      "score": 8.6,
+      "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "002-ai-air-fryer-recipes",
+      "num": 2,
+      "title": "AirFryer AI — Smart Air Fryer Recipes",
+      "score": 8.0,
+      "path": "ideas/2026-06-22/002-ai-air-fryer-recipes/idea.md"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "003-magnesium-glycinate-guide",
+      "num": 3,
+      "title": "MagnesiCalm — Magnesium Glycinate Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-22/003-magnesium-glycinate-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-21",
-  "total": 55,
+  "last_updated": "2026-06-22",
+  "total": 58,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
