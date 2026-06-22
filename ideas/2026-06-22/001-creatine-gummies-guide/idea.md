@@ -1,7 +1,8 @@
-# App Idea: Creatine Gummies Guide
+# 🚨 App Idea: Creatine Gummies Guide
 
 *Generated: 2026-06-22*
-*Confidence Score: 8.4/10*
+*Confidence Score: 8.6/10*
+*[Extended Research →](../../extended-research/creatine-gummies-guide.md)*
 
 ---
 

@@ -480,7 +480,7 @@
     },
     {
       "slug": "subwatch-subscription-price-watchdog",
-      "title": "SubWatch \u2014 Subscription Price Watchdog (Extended Research)",
+      "title": "SubWatch \\u2014 Subscription Price Watchdog (Extended Research)",
       "relatedIdeas": [
         "001-subscription-watchdog"
       ],
@@ -490,13 +490,23 @@
     },
     {
       "slug": "synstack-supplement-interaction-checker",
-      "title": "SynStack \u2014 Supplement Interaction Checker (Extended Research)",
+      "title": "SynStack \\u2014 Supplement Interaction Checker (Extended Research)",
       "relatedIdeas": [
         "002-synstack"
       ],
       "path": "extended-research/synstack.md",
       "date": "2026-06-19",
-      "summary": "Full competitive analysis of 42 apps across 12 search queries. TRUE supplement interaction checker is an empty niche \u2014 Synstax abandoned (1 review), SuppCo is scanner not checker, Drugs.com is Rx-only. Revenue: $2.99 paid, projected $15K-$150K. Phased 3-hour build plan. Risk analysis covering regulatory, trust, competitive, and legal risks."
+      "summary": "Full competitive analysis of 42 apps across 12 search queries. TRUE supplement interaction checker is an empty niche \\u2014 Synstax abandoned (1 review), SuppCo is scanner not checker, Drugs.com is Rx-only. Revenue: $2.99 paid, projected $15K-$150K. Phased 3-hour build plan. Risk analysis covering regulatory, trust, competitive, and legal risks."
+    },
+    {
+      "slug": "creatine-gummies-guide",
+      "title": "Creatine Gummies Guide \\u2014 Extended Research",
+      "relatedIdeas": [
+        "001-creatine-gummies-guide"
+      ],
+      "path": "extended-research/creatine-gummies-guide.md",
+      "date": "2026-06-22",
+      "summary": "Full competitive analysis of 27 apps across 20+ search queries. TRUE GREEN FIELD \\u2014 6 direct creatine apps all have \\u226417 combined reviews. Zero dedicated creatine gummy guide apps exist. 5,400% trend growth on Exploding Topics. Revenue: Freemium $2.99 Pro unlock, projected $150-$6,000/month. 2.5-hour build. Risk: LOW. Build recommendation: BUILD."
     }
   ]
 }
