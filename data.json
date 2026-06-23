@@ -452,7 +452,7 @@
       "date": "2026-06-22",
       "slug": "002-ai-air-fryer-recipes",
       "num": 2,
-      "title": "AirFryer AI — Smart Air Fryer Recipes",
+      "title": "AirFryer AI \u2014 Smart Air Fryer Recipes",
       "score": 8.0,
       "path": "ideas/2026-06-22/002-ai-air-fryer-recipes/idea.md"
     },
@@ -460,13 +460,37 @@
       "date": "2026-06-22",
       "slug": "003-magnesium-glycinate-guide",
       "num": 3,
-      "title": "MagnesiCalm — Magnesium Glycinate Guide",
+      "title": "MagnesiCalm \u2014 Magnesium Glycinate Guide",
       "score": 8.0,
       "path": "ideas/2026-06-22/003-magnesium-glycinate-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "001-pdrn-skincare-guide",
+      "num": "001",
+      "title": "PDRN Skincare Guide \u2014 Salmon DNA Beauty Science",
+      "score": 8.0,
+      "path": "ideas/2026-06-23/001-pdrn-skincare-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "002-nmn-supplement-guide",
+      "num": "002",
+      "title": "NMN Supplement Guide \u2014 Science-Based Anti-Aging Reference",
+      "score": 7.8,
+      "path": "ideas/2026-06-23/002-nmn-supplement-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "003-peptide-lip-balm-guide",
+      "num": "003",
+      "title": "Peptide Lip Balm Guide \u2014 Science-Based Lip Care Reference",
+      "score": 7.6,
+      "path": "ideas/2026-06-23/003-peptide-lip-balm-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-22",
-  "total": 58,
+  "last_updated": "2026-06-23",
+  "total": 61,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
