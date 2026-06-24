@@ -487,10 +487,34 @@
       "title": "Peptide Lip Balm Guide \u2014 Science-Based Lip Care Reference",
       "score": 7.6,
       "path": "ideas/2026-06-23/003-peptide-lip-balm-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "001-hair-dryer-guide",
+      "num": "001",
+      "title": "HairDry — High Speed Hair Dryer Buying Guide",
+      "score": 8.6,
+      "path": "ideas/2026-06-24/001-hair-dryer-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "002-microcurrent-device-guide",
+      "num": "002",
+      "title": "FaceLift Guide — Microcurrent Facial Device Comparison",
+      "score": 8.4,
+      "path": "ideas/2026-06-24/002-microcurrent-device-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "003-lash-cluster-guide",
+      "num": "003",
+      "title": "LashMap — Lash Cluster Guide & Eye Mapping",
+      "score": 7.6,
+      "path": "ideas/2026-06-24/003-lash-cluster-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-23",
-  "total": 61,
+  "last_updated": "2026-06-24",
+  "total": 64,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
