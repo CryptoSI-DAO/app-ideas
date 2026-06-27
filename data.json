@@ -492,7 +492,7 @@
       "date": "2026-06-24",
       "slug": "001-hair-dryer-guide",
       "num": "001",
-      "title": "HairDry — High Speed Hair Dryer Buying Guide",
+      "title": "HairDry \u2014 High Speed Hair Dryer Buying Guide",
       "score": 8.6,
       "path": "ideas/2026-06-24/001-hair-dryer-guide/idea.md"
     },
@@ -500,7 +500,7 @@
       "date": "2026-06-24",
       "slug": "002-microcurrent-device-guide",
       "num": "002",
-      "title": "FaceLift Guide — Microcurrent Facial Device Comparison",
+      "title": "FaceLift Guide \u2014 Microcurrent Facial Device Comparison",
       "score": 8.4,
       "path": "ideas/2026-06-24/002-microcurrent-device-guide/idea.md"
     },
@@ -508,13 +508,46 @@
       "date": "2026-06-24",
       "slug": "003-lash-cluster-guide",
       "num": "003",
-      "title": "LashMap — Lash Cluster Guide & Eye Mapping",
+      "title": "LashMap \u2014 Lash Cluster Guide & Eye Mapping",
       "score": 7.6,
       "path": "ideas/2026-06-24/003-lash-cluster-guide/idea.md"
+    },
+    {
+      "title": "CarbonPlate \u2014 Running Shoe Finder",
+      "date": "2026-06-27",
+      "discoveredDate": "2026-06-27",
+      "status": "idea_generated",
+      "gapStatus": "CLOSED",
+      "score": 8.2,
+      "category": "Health & Fitness",
+      "source": "Exploding Topics #7 (+9,100%)",
+      "path": "ideas/2026-06-27/001-carbon-plated-shoes/idea.md"
+    },
+    {
+      "title": "MagBank \u2014 Magnetic Power Bank Finder",
+      "date": "2026-06-27",
+      "discoveredDate": "2026-06-27",
+      "status": "idea_generated",
+      "gapStatus": "CLOSED",
+      "score": 8.0,
+      "category": "Technology",
+      "source": "Exploding Topics #84 (+7,800%)",
+      "path": "ideas/2026-06-27/002-magnetic-power-bank/idea.md"
+    },
+    {
+      "title": "FlyMount \u2014 Travel Phone Mount",
+      "date": "2026-06-27",
+      "discoveredDate": "2026-06-27",
+      "status": "idea_generated",
+      "gapStatus": "CLOSED",
+      "score": 7.6,
+      "category": "Travel",
+      "source": "Exploding Topics #17 (+6,100%)",
+      "path": "ideas/2026-06-27/003-airplane-phone-holder/idea.md"
     }
   ],
-  "last_updated": "2026-06-24",
-  "total": 64,
+  "last_updated": "2026-06-27",
+  "total": 67,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
