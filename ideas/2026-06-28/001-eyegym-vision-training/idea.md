@@ -1,7 +1,10 @@
-# App Idea: EyeGym — Daily Vision Training
+# 🚨 App Idea: EyeGym — Daily Vision Training
 
 *Generated: 2026-06-28*
-*Confidence Score: 7.8/10*
+*Confidence Score: 7.8/10 → Extended Research Score: 8.1/10*
+*Status: 🚨 HIGH PRIORITY — BUILD RECOMMENDED*
+
+**Extended Research:** See [extended-research/eyegym-vision-training.md](../extended-research/eyegym-vision-training.md) for full competitive analysis, revenue model, risk assessment, and phased build plan.
 
 ---
 
