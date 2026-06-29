@@ -577,10 +577,43 @@
       "category": "Health & Fitness",
       "source": "Exploding Topics (blue light/sleep trend)",
       "path": "ideas/2026-06-28/003-blueray-screen-coach/idea.md"
+    },
+    {
+      "title": "SoleCare \u2014 Sneaker Cleaning & Shoe Care Guide",
+      "date": "2026-06-29",
+      "discoveredDate": "2026-06-29",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 8.4,
+      "category": "Lifestyle",
+      "source": "Exploding Topics #2 Shoe Washing Bag (+7,000%)",
+      "path": "ideas/2026-06-29/002-solecare/idea.md"
+    },
+    {
+      "title": "PouchPal \u2014 Nicotine Pouch Tracker",
+      "date": "2026-06-29",
+      "discoveredDate": "2026-06-29",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 8.2,
+      "category": "Health & Fitness",
+      "source": "Exploding Topics #8 Nicotine Pouches (+750%)",
+      "path": "ideas/2026-06-29/001-pouch-pal/idea.md"
+    },
+    {
+      "title": "SunGuard \u2014 SPF Guide & Sunscreen Coach",
+      "date": "2026-06-29",
+      "discoveredDate": "2026-06-29",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 7.8,
+      "category": "Health & Fitness",
+      "source": "Exploding Topics #45 Birch Juice Sunscreen (+2,100%)",
+      "path": "ideas/2026-06-29/003-sunguard/idea.md"
     }
   ],
-  "last_updated": "2026-06-27",
-  "total": 67,
+  "last_updated": "2026-06-29",
+  "total": 73,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
