@@ -610,10 +610,43 @@
       "category": "Health & Fitness",
       "source": "Exploding Topics #45 Birch Juice Sunscreen (+2,100%)",
       "path": "ideas/2026-06-29/003-sunguard/idea.md"
+    },
+    {
+      "title": "ScentSafe — Non-Toxic Perfume & Ingredient Safety Guide",
+      "date": "2026-06-30",
+      "discoveredDate": "2026-06-30",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 8.2,
+      "category": "Health & Fitness",
+      "source": "Exploding Topics #66 Non-Toxic Perfume (+1,050%)",
+      "path": "ideas/2026-06-30/001-scent-safe/idea.md"
+    },
+    {
+      "title": "Mossarium — Indoor Moss Garden Guide & Care Tracker",
+      "date": "2026-06-30",
+      "discoveredDate": "2026-06-30",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 8.0,
+      "category": "Lifestyle",
+      "source": "Exploding Topics #50 Fastmoss (+8,900%)",
+      "path": "ideas/2026-06-30/002-mossarium/idea.md"
+    },
+    {
+      "title": "LEDmask — LED Face Mask Treatment Guide & Timer",
+      "date": "2026-06-30",
+      "discoveredDate": "2026-06-30",
+      "status": "idea_generated",
+      "gapStatus": "OPEN",
+      "score": 7.6,
+      "category": "Health & Fitness",
+      "source": "Exploding Topics #82 LED Face Mask (+1,800%), #61 TheraFace (+3,900%)",
+      "path": "ideas/2026-06-30/003-ledmask/idea.md"
     }
   ],
-  "last_updated": "2026-06-29",
-  "total": 73,
+  "last_updated": "2026-06-30",
+  "total": 76,
   "extendedResearch": [
     {
       "slug": "racing-tips-marketplace",
