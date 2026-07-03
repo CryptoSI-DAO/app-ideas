@@ -612,7 +612,7 @@
       "path": "ideas/2026-06-29/003-sunguard/idea.md"
     },
     {
-      "title": "ScentSafe — Non-Toxic Perfume & Ingredient Safety Guide",
+      "title": "ScentSafe \u2014 Non-Toxic Perfume & Ingredient Safety Guide",
       "date": "2026-06-30",
       "discoveredDate": "2026-06-30",
       "status": "idea_generated",
@@ -623,7 +623,7 @@
       "path": "ideas/2026-06-30/001-scent-safe/idea.md"
     },
     {
-      "title": "Mossarium — Indoor Moss Garden Guide & Care Tracker",
+      "title": "Mossarium \u2014 Indoor Moss Garden Guide & Care Tracker",
       "date": "2026-06-30",
       "discoveredDate": "2026-06-30",
       "status": "idea_generated",
@@ -634,7 +634,7 @@
       "path": "ideas/2026-06-30/002-mossarium/idea.md"
     },
     {
-      "title": "LEDmask — LED Face Mask Treatment Guide & Timer",
+      "title": "LEDmask \u2014 LED Face Mask Treatment Guide & Timer",
       "date": "2026-06-30",
       "discoveredDate": "2026-06-30",
       "status": "idea_generated",
@@ -643,6 +643,30 @@
       "category": "Health & Fitness",
       "source": "Exploding Topics #82 LED Face Mask (+1,800%), #61 TheraFace (+3,900%)",
       "path": "ideas/2026-06-30/003-ledmask/idea.md"
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "001-ai-video-generator",
+      "num": "001",
+      "title": "AI Video Generator",
+      "score": 10.0,
+      "path": "ideas/2026-07-03/001-ai-video-generator/idea.md"
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "002-ai-image-enhancer",
+      "num": "002",
+      "title": "AI Image Enhancer",
+      "score": 10.0,
+      "path": "ideas/2026-07-03/002-ai-image-enhancer/idea.md"
+    },
+    {
+      "date": "2026-07-03",
+      "slug": "003-ai-voice-detector",
+      "num": "003",
+      "title": "AI Voice Detector",
+      "score": 10.0,
+      "path": "ideas/2026-07-03/003-ai-voice-detector/idea.md"
     }
   ],
   "last_updated": "2026-06-30",
