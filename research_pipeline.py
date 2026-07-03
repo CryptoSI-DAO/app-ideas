@@ -1,22 +1,13 @@
 #!/usr/bin/env python3
 """
-Daily App Store Research Pipeline
-- Trend Discovery
-- App Store Gap Analysis
-- Social Sentiment Validation
-- Scoring & Opportunity Ranking
-- Requirements Document Generation
+Daily App Store Research Pipeline - Final Version
 """
 
 import json
-import re
 import subprocess
-import sys
 from datetime import datetime
-from typing import Dict, List, Any
-from collections import defaultdict
 
-# Exploding Topics trending topics data (parsed from HTML)
+# Exploding Topics trending topics data
 TRENDING_TOPICS = [
     {"name": "AI Video Generator", "growth": "7,100%", "category": "Technology"},
     {"name": "AI Image Enhancer", "growth": "3,000%", "category": "Technology"},
@@ -37,18 +28,7 @@ TRENDING_TOPICS = [
     {"name": "LED Face Mask", "growth": "875%", "category": "Health"},
 ]
 
-# Known App Gaps (from previous research)
-KNOWN_APP_GAPS = {
-    "ai-video-generator": "CLOSED - Multiple established apps exist",
-    "ai-image-enhancer": "CLOSED - Market saturated",
-    "ai-voice-detector": "OPEN - Quality gap exists",
-    "prompt-engineering": "OPEN - Educational gap",
-    "baby-bottle-washer": "OPEN - Guide/checklist angle",
-    "magnesium-glycinate": "OPEN - Supplement tracking gap",
-    "creatin-gummies": "OPEN - Fitness supplement tracking",
-}
-
-def parse_growth_percent(growth_str: str) -> float:
+def parse_growth(growth_str):
     """Parse growth percentage/string to float"""
     if "x+" in growth_str:
         return float(growth_str.replace("x+", ""))
@@ -56,71 +36,29 @@ def parse_growth_percent(growth_str: str) -> float:
         return float(growth_str.replace("x", ""))
     return float(growth_str.replace("%", "").replace(",", ""))
 
-def check_app_store_gap(query: str) -> Dict[str, Any]:
+def check_app_store_gap(query):
     """Check App Store for gap using iTunes Search API"""
-    # iTunes Search API endpoint
     url = f"https://itunes.apple.com/search?term={query.replace(' ', '+')}&country=us&limit=10&entity=software"
     
     try:
         result = subprocess.run(
-            ["curl", "-s", url],
+            ["curl", "-s", "--max-time", "15", url],
             capture_output=True,
             text=True,
-            timeout=10
+            timeout=20
         )
         data = json.loads(result.stdout)
-        
         results = data.get("results", [])
-        return {
-            "count": len(results),
-            "results": [
-                {
-                    "name": r.get("trackName", ""),
-                    "price": r.get("price", 0),
-                    "rating": r.get("averageUserRating", 0),
-                    "reviews": r.get("userRatingCount", 0),
-                    "updated": r.get("currentVersionReleaseDate", "")[:10] if r.get("currentVersionReleaseDate") else ""
-                }
-                for r in results
-            ]
-        }
+        return {"count": len(results), "results": results}
     except Exception as e:
         return {"count": 0, "error": str(e)}
 
-def check_google_search_intent(query: str) -> Dict[str, Any]:
-    """Check Google search for app-related intent"""
-    # Use curl to fetch search results
-    url = f"https://www.google.com/search?q={query.replace(' ', '+')}+app"
-    
-    try:
-        result = subprocess.run(
-            ["curl", "-s", "-A", "Mozilla/5.0", url],
-            capture_output=True,
-            text=True,
-            timeout=10
-        )
-        html = result.stdout
-        
-        # Count results
-        result_count_match = re.search(r'About ([\d,]+) results', html)
-        result_count = int(result_count_match.group(1).replace(",", "")) if result_count_match else 0
-        
-        # Check for review articles
-        review_articles = len(re.findall(r"(?:best|review|guide).*app", html, re.I))
-        
-        return {
-            "result_count": result_count,
-            "review_articles": review_articles
-        }
-    except Exception as e:
-        return {"error": str(e)}
-
-def score_opportunity(topic: Dict[str, Any], app_gap: Dict, search_intent: Dict) -> float:
-    """Score opportunity on 5 dimensions"""
+def score_opportunity(topic, app_count):
+    """Score opportunity on 5 dimensions (max 10)"""
     scores = {}
     
     # 1. Trend Momentum (0-2 points)
-    growth = parse_growth_percent(topic["growth"])
+    growth = parse_growth(topic["growth"])
     if growth > 5000:
         scores["trend_momentum"] = 2.0
     elif growth > 1000:
@@ -129,23 +67,22 @@ def score_opportunity(topic: Dict[str, Any], app_gap: Dict, search_intent: Dict)
         scores["trend_momentum"] = 1.0
     
     # 2. App Gap (0-2 points)
-    if app_gap.get("count", 0) == 0:
-        scores["app_gap"] = 2.0
-    elif app_gap.get("count", 0) < 5:
-        scores["app_gap"] = 1.5
-    elif app_gap.get("count", 0) < 10:
-        scores["app_gap"] = 1.0
+    if app_count == 0:
+        scores["app_gap"] = 2.0  # Goldmine
+    elif app_count < 3:
+        scores["app_gap"] = 1.5  # Opportunity
+    elif app_count < 5:
+        scores["app_gap"] = 1.0  # Crowded but quality gap possible
     else:
-        scores["app_gap"] = 0.5
+        scores["app_gap"] = 0.5  # Saturated
     
     # 3. Build Simplicity (0-2 points)
-    # Check if topic is content/reference (no backend needed)
-    simple_topics = ["prompt", "checklist", "guide", "reference", "ethics", "detector", "tracking"]
+    simple_topics = ["prompt", "ethics", "detector", "guide", "reference", "tracking", "checklist"]
     is_simple = any(t in topic["name"].lower() for t in simple_topics)
     scores["build_simplicity"] = 2.0 if is_simple else 1.5
     
     # 4. Evergreen Potential (0-2 points)
-    evergreen_topics = ["ethics", "prompt", "guide", "reference", "detector", "tracking"]
+    evergreen_topics = ["ethics", "prompt", "detector", "tracking", "reference", "guide"]
     is_evergreen = any(t in topic["name"].lower() for t in evergreen_topics)
     scores["evergreen"] = 2.0 if is_evergreen else 1.0
     
@@ -155,9 +92,10 @@ def score_opportunity(topic: Dict[str, Any], app_gap: Dict, search_intent: Dict)
     scores["monetization"] = 2.0 if is_monetizable else 1.5
     
     total = sum(scores.values())
-    return total / 5.0 * 10  # Scale to 10
+    score = min(total / 5.0 * 10, 10.0)  # Cap at 10
+    return round(score, 1)
 
-def generate_requirements_doc(idea: Dict[str, Any]) -> str:
+def generate_requirements_doc(idea, app_count):
     """Generate a full requirements document for an app idea"""
     
     app_name = idea["name"].replace(" ", "")[:30]
@@ -344,45 +282,38 @@ def main():
     
     # Step 1: Filter for app-relevant trends
     print("\n1️⃣ Trend Discovery - Filtering for app-relevant topics...")
-    candidates = [t for t in TRENDING_TOPICS if t["growth"] and parse_growth_percent(t["growth"]) > 500]
+    candidates = [t for t in TRENDING_TOPICS if parse_growth(t["growth"]) > 500]
     print(f"   Found {len(candidates)} candidates with >500% growth")
     
     # Step 2: App Store Gap Analysis
     print("\n2️⃣ App Store Gap Analysis...")
     for topic in candidates:
         gap_result = check_app_store_gap(topic["name"])
-        topic["app_gap"] = gap_result
-        print(f"   {topic['name']}: {gap_result.get('count', 0)} apps")
+        app_count = gap_result.get("count", 0)
+        topic["app_count"] = app_count
+        print(f"   {topic['name']}: {app_count} apps")
     
-    # Step 3: Social Sentiment (simplified - using trend growth as proxy)
-    print("\n3️⃣ Social Sentiment Analysis...")
-    for topic in candidates:
-        # Use Google search intent as proxy for community buzz
-        search_result = check_google_search_intent(topic["name"])
-        topic["search_intent"] = search_result
-        print(f"   {topic['name']}: {search_result.get('result_count', 0)} search results")
-    
-    # Step 4: Scoring
-    print("\n4️⃣ Scoring Opportunities...")
+    # Step 3: Scoring
+    print("\n3️⃣ Scoring Opportunities...")
     scored_candidates = []
     for topic in candidates:
-        score = score_opportunity(topic, topic.get("app_gap", {}), topic.get("search_intent", {}))
+        score = score_opportunity(topic, topic["app_count"])
         topic["score"] = score
         if score >= 7.0:
             scored_candidates.append(topic)
-        print(f"   {topic['name']}: {score:.1f}/10")
+        print(f"   {topic['name']}: {score:.1f}/10 (Gap: {topic['app_count']} apps)")
     
     # Sort by score
     scored_candidates.sort(key=lambda x: x["score"], reverse=True)
     
-    # Step 5: Generate documents
-    print("\n5️⃣ Generating Requirements Documents...")
+    # Step 4: Generate documents
+    print("\n4️⃣ Generating Requirements Documents...")
     
     # Create ideas directory if needed
     subprocess.run(["mkdir", "-p", "/workspace/app-ideas/ideas"], check=True)
     
     for i, idea in enumerate(scored_candidates[:3], 1):
-        doc = generate_requirements_doc(idea)
+        doc = generate_requirements_doc(idea, idea["app_count"])
         filename = f"/workspace/app-ideas/ideas/{i}_{idea['name'].lower().replace(' ', '-')}.md"
         with open(filename, "w") as f:
             f.write(doc)
@@ -396,21 +327,31 @@ def main():
 
 """
     for i, idea in enumerate(scored_candidates[:3], 1):
+        app_count = idea['app_count']
+        if app_count == 0:
+            insight = "GOLDMILL - No existing apps found"
+        elif app_count < 3:
+            insight = "Strong market gap - few competitors"
+        elif app_count < 5:
+            insight = "Quality gap exists - opportunity to build better"
+        else:
+            insight = "Competitive market - need strong differentiation"
+        
         summary += f"""### {i}. {idea['name']}
 - **Score**: {idea['score']:.1f}/10
 - **Growth**: {idea['growth']}
-- **App Gap**: {idea['app_gap'].get('count', 0)} existing apps
+- **App Gap**: {app_count} existing apps
 - **Category**: {idea['category']}
-- **Key Insight**: {"Strong market gap" if idea['app_gap'].get('count', 0) == 0 else "Quality improvement opportunity"}
+- **Key Insight**: {insight}
 
 """
     
     summary += """## Key Findings
 
 1. **Trend Momentum**: High growth in AI-related tools and health supplements
-2. **Market Gaps**: Several topics have zero or few apps despite strong search interest
-3. **Build Simplicity**: Most topics can be built as offline reference apps
-4. **Monetization**: Guide/reference apps have strong freemium potential
+2. **Market Analysis**: Most trending topics have existing apps - focus on quality gaps
+3. **Build Simplicity**: Offline reference apps can be built quickly with bundled JSON
+4. **Monetization**: Educational/reference apps have strong freemium potential
 
 ## Next Steps
 
@@ -423,8 +364,8 @@ def main():
         f.write(summary)
     print("   Generated: daily-summary.md")
     
-    # Step 6: Git push
-    print("\n6️⃣ Git Operations...")
+    # Step 5: Git push
+    print("\n5️⃣ Git Operations...")
     subprocess.run(["git", "init"], cwd="/workspace/app-ideas", capture_output=True)
     subprocess.run(["git", "add", "."], cwd="/workspace/app-ideas", capture_output=True)
     subprocess.run(["git", "commit", "-m", f"Daily app research: {datetime.now().strftime('%Y-%m-%d')}"], cwd="/workspace/app-ideas", capture_output=True)
