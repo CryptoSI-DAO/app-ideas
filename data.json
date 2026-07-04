@@ -100,7 +100,7 @@
       "date": "2026-06-02",
       "slug": "001-creatine-tracker",
       "num": "001",
-      "title": "CreatineTracker \u2014 Daily Creatine Dose & Streak Logger",
+      "title": "CreatineTracker",
       "score": 8.2,
       "path": "ideas/2026-06-02/001-creatine-tracker/idea.md"
     },
@@ -108,7 +108,7 @@
       "date": "2026-06-02",
       "slug": "002-seed-oil-scanner",
       "num": "002",
-      "title": "Seed Oil Scan \u2014 Offline Seed Oil Food Guide",
+      "title": "SeedOilScan",
       "score": 8.0,
       "path": "ideas/2026-06-02/002-seed-oil-scanner/idea.md"
     },
@@ -116,7 +116,7 @@
       "date": "2026-06-02",
       "slug": "003-walking-pad-log",
       "num": "003",
-      "title": "WalkDesk \u2014 Under-Desk Walking Pad Tracker",
+      "title": "WalkDesk \u2014 Under-Desk Walk Tracker",
       "score": 7.6,
       "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
     },
@@ -164,7 +164,7 @@
       "date": "2026-06-04",
       "slug": "003-world-cup-meals-tracker",
       "num": "003",
-      "title": "WC26 Collect \u2014 McDonald's World Cup Meals Tracker",
+      "title": "World Cup Meals Tracker \u2014 McDonald's FIFA Collectibles",
       "score": 7.0,
       "path": "ideas/2026-06-04/003-world-cup-meals-tracker/idea.md"
     },
@@ -180,7 +180,7 @@
       "date": "2026-06-05",
       "slug": "002-persepolis-companion",
       "num": "002",
-      "title": "Persepolis Companion \u2014 Graphic Novel Guide",
+      "title": "Persepolis Companion \u2014 The Definitive Graphic Novel Guide",
       "score": 7.6,
       "path": "ideas/2026-06-05/002-persepolis-companion/idea.md"
     },
@@ -188,30 +188,30 @@
       "date": "2026-06-05",
       "slug": "003-architecture-wonder-guide",
       "num": "003",
-      "title": "Wonders \u2014 Interactive Architecture Guide",
+      "title": "Wonders \u2014 Interactive Architecture Guide to the World's Most Amazing Buildings",
       "score": 7.4,
       "path": "ideas/2026-06-05/003-architecture-wonder-guide/idea.md"
     },
     {
       "date": "2026-06-06",
       "slug": "001-ringwise",
-      "num": 1,
-      "title": "Ringwise \u2014 Oura Ring Insights Companion",
+      "num": "001",
+      "title": "Ringwise \u2014 Your Oura Ring Companion",
       "score": 8.2,
       "path": "ideas/2026-06-06/001-ringwise/idea.md"
     },
     {
       "date": "2026-06-06",
       "slug": "002-sober-sips",
-      "num": 2,
-      "title": "Sober Sips \u2014 NA Drink Discovery",
+      "num": "002",
+      "title": "Sober Sips \u2014 Discover Non-Alcoholic Drinks",
       "score": 7.6,
       "path": "ideas/2026-06-06/002-sober-sips/idea.md"
     },
     {
       "date": "2026-06-06",
       "slug": "003-pawplate",
-      "num": 3,
+      "num": "003",
       "title": "PawPlate \u2014 Dog Dental Health Tracker",
       "score": 7.4,
       "path": "ideas/2026-06-06/003-pawplate/idea.md"
@@ -228,7 +228,7 @@
       "date": "2026-06-07",
       "slug": "002-love-island-tracker",
       "num": "002",
-      "title": "Love Island USA S8 Tracker",
+      "title": "Love Island USA Season 8 Tracker",
       "score": 7.4,
       "path": "ideas/2026-06-07/002-love-island-tracker/idea.md"
     },
@@ -236,7 +236,7 @@
       "date": "2026-06-07",
       "slug": "003-caffeine-tracker",
       "num": "003",
-      "title": "Caffeine Tracker: Daily Intake",
+      "title": "Caffeine Tracker \u2014 Daily Intake Monitor",
       "score": 7.2,
       "path": "ideas/2026-06-07/003-caffeine-tracker/idea.md"
     },
@@ -265,9 +265,33 @@
       "path": "ideas/2026-06-08/003-reptile-id-field-guide/idea.md"
     },
     {
+      "date": "2026-06-09",
+      "slug": "001-air-fryer-recipe-cards",
+      "num": "001",
+      "title": "Air Fryer Recipe Cards",
+      "score": 7.8,
+      "path": "ideas/2026-06-09/001-air-fryer-recipe-cards/idea.md"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "002-pickleball-score-keeper",
+      "num": "002",
+      "title": "Pickleball Scorekeeper & Drills",
+      "score": 7.4,
+      "path": "ideas/2026-06-09/002-pickleball-score-keeper/idea.md"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "003-petlife-journal",
+      "num": "003",
+      "title": "PetLife \u2014 Pet Journal & Health Tracker",
+      "score": 7.2,
+      "path": "ideas/2026-06-09/003-petlife-journal/idea.md"
+    },
+    {
       "date": "2026-06-10",
       "slug": "001-head-spa-guide",
-      "num": 1,
+      "num": "001",
       "title": "Head Spa \u2014 Japanese Scalp Treatment Guide",
       "score": 8.2,
       "path": "ideas/2026-06-10/001-head-spa-guide/idea.md"
@@ -275,7 +299,7 @@
     {
       "date": "2026-06-10",
       "slug": "002-creatrack-gummy-tracker",
-      "num": 2,
+      "num": "002",
       "title": "CreatiTrack \u2014 Creatine & Fitness Gummies Tracker",
       "score": 7.8,
       "path": "ideas/2026-06-10/002-creatrack-gummy-tracker/idea.md"
@@ -283,23 +307,15 @@
     {
       "date": "2026-06-10",
       "slug": "003-padel-101-guide",
-      "num": 3,
+      "num": "003",
       "title": "Padel 101 \u2014 Rules, Drills & Court Guide",
       "score": 7.4,
       "path": "ideas/2026-06-10/003-padel-101-guide/idea.md"
     },
     {
-      "date": "2026-06-13",
-      "slug": "001-subscription-watchdog",
-      "num": 1,
-      "title": "SubWatch \u2014 Subscription Price Watchdog",
-      "score": 7.6,
-      "path": "ideas/2026-06-13/001-subscription-watchdog/requirements.md"
-    },
-    {
       "date": "2026-06-16",
       "slug": "001-magnesium-tracker",
-      "num": 1,
+      "num": "001",
       "title": "Magnesium Tracker",
       "score": 7.6,
       "path": "ideas/2026-06-16/001-magnesium-tracker/idea.md"
@@ -307,7 +323,7 @@
     {
       "date": "2026-06-16",
       "slug": "002-ai-teacher-assistant",
-      "num": 2,
+      "num": "002",
       "title": "TeachAI \u2014 AI Teacher Assistant",
       "score": 7.2,
       "path": "ideas/2026-06-16/002-ai-teacher-assistant/idea.md"
@@ -315,7 +331,7 @@
     {
       "date": "2026-06-16",
       "slug": "003-travel-packing-checklist",
-      "num": 3,
+      "num": "003",
       "title": "PackPal \u2014 Smart Travel Packing Checklist",
       "score": 7.0,
       "path": "ideas/2026-06-16/003-travel-packing-checklist/idea.md"
@@ -323,25 +339,25 @@
     {
       "date": "2026-06-17",
       "slug": "001-microhabit-tiny-habits-tracker",
-      "num": 1,
+      "num": "001",
       "title": "MicroHabit \u2014 Tiny Habits Tracker",
-      "score": 8.6,
+      "score": 8.2,
       "path": "ideas/2026-06-17/001-microhabit-tiny-habits-tracker/idea.md"
     },
     {
       "date": "2026-06-17",
       "slug": "002-prompt-craft-ai-prompt-library",
-      "num": 2,
+      "num": "002",
       "title": "Prompt Craft \u2014 AI Prompt Library",
-      "score": 8.0,
+      "score": 7.8,
       "path": "ideas/2026-06-17/002-prompt-craft-ai-prompt-library/idea.md"
     },
     {
       "date": "2026-06-17",
       "slug": "003-vaccinelog-vaccination-schedule",
-      "num": 3,
-      "title": "VaccineLog \u2014 Vaccination Schedule",
-      "score": 7.8,
+      "num": "003",
+      "title": "VaccineLog \u2014 Vaccination Schedule Reference",
+      "score": 7.4,
       "path": "ideas/2026-06-17/003-vaccinelog-vaccination-schedule/idea.md"
     },
     {
@@ -371,25 +387,25 @@
     {
       "date": "2026-06-19",
       "slug": "001-scent-safe",
-      "num": 1,
+      "num": "001",
       "title": "ScentSafe \u2014 Fragrance Ingredient Safety Guide",
-      "score": 8.0,
+      "score": 7.6,
       "path": "ideas/2026-06-19/001-scent-safe/idea.md"
     },
     {
       "date": "2026-06-19",
       "slug": "002-synstack",
-      "num": 2,
+      "num": "002",
       "title": "SynStack \u2014 Supplement Interaction Checker",
-      "score": 8.0,
+      "score": 7.4,
       "path": "ideas/2026-06-19/002-synstack/idea.md"
     },
     {
       "date": "2026-06-19",
       "slug": "003-pupprep",
-      "num": 3,
+      "num": "003",
       "title": "PupPrep \u2014 Puppy Training & Care Guide",
-      "score": 8.0,
+      "score": 7.1,
       "path": "ideas/2026-06-19/003-pupprep/idea.md"
     },
     {
@@ -419,39 +435,39 @@
     {
       "date": "2026-06-21",
       "slug": "001-ai-ethics-guide",
-      "num": 1,
+      "num": "001",
       "title": "AI Ethics Guide",
       "score": 8.2,
-      "path": "ideas/2026-06-21/001-ai-ethics-guide"
+      "path": "ideas/2026-06-21/001-ai-ethics-guide/idea.md"
     },
     {
       "date": "2026-06-21",
       "slug": "002-red-light-therapy-guide",
-      "num": 2,
+      "num": "002",
       "title": "Red Light Therapy Guide",
       "score": 8.0,
-      "path": "ideas/2026-06-21/002-red-light-therapy-guide"
+      "path": "ideas/2026-06-21/002-red-light-therapy-guide/idea.md"
     },
     {
       "date": "2026-06-21",
       "slug": "003-deepvoice-ai-voice-detector",
-      "num": 3,
+      "num": "003",
       "title": "DeepVoice \u2014 AI Voice Detector",
       "score": 7.6,
-      "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector"
+      "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector/idea.md"
     },
     {
       "date": "2026-06-22",
       "slug": "001-creatine-gummies-guide",
-      "num": 1,
-      "title": "Creatine Gummies Guide",
+      "num": "001",
+      "title": "",
       "score": 8.6,
       "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
     },
     {
       "date": "2026-06-22",
       "slug": "002-ai-air-fryer-recipes",
-      "num": 2,
+      "num": "002",
       "title": "AirFryer AI \u2014 Smart Air Fryer Recipes",
       "score": 8.0,
       "path": "ideas/2026-06-22/002-ai-air-fryer-recipes/idea.md"
@@ -459,16 +475,16 @@
     {
       "date": "2026-06-22",
       "slug": "003-magnesium-glycinate-guide",
-      "num": 3,
+      "num": "003",
       "title": "MagnesiCalm \u2014 Magnesium Glycinate Guide",
-      "score": 8.0,
+      "score": 7.8,
       "path": "ideas/2026-06-22/003-magnesium-glycinate-guide/idea.md"
     },
     {
       "date": "2026-06-23",
       "slug": "001-pdrn-skincare-guide",
       "num": "001",
-      "title": "PDRN Skincare Guide \u2014 Salmon DNA Beauty Science",
+      "title": "PDRN Skincare Guide",
       "score": 8.0,
       "path": "ideas/2026-06-23/001-pdrn-skincare-guide/idea.md"
     },
@@ -476,7 +492,7 @@
       "date": "2026-06-23",
       "slug": "002-nmn-supplement-guide",
       "num": "002",
-      "title": "NMN Supplement Guide \u2014 Science-Based Anti-Aging Reference",
+      "title": "NMN Supplement Guide",
       "score": 7.8,
       "path": "ideas/2026-06-23/002-nmn-supplement-guide/idea.md"
     },
@@ -484,7 +500,7 @@
       "date": "2026-06-23",
       "slug": "003-peptide-lip-balm-guide",
       "num": "003",
-      "title": "Peptide Lip Balm Guide \u2014 Science-Based Lip Care Reference",
+      "title": "Peptide Lip Balm Guide",
       "score": 7.6,
       "path": "ideas/2026-06-23/003-peptide-lip-balm-guide/idea.md"
     },
@@ -513,214 +529,174 @@
       "path": "ideas/2026-06-24/003-lash-cluster-guide/idea.md"
     },
     {
-      "title": "CarbonPlate \u2014 Running Shoe Finder",
-      "date": "2026-06-27",
-      "discoveredDate": "2026-06-27",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "date": "2026-06-25",
+      "slug": "001-color-drenching-hair-guide",
+      "num": "001",
+      "title": "Color Drenching Hair Guide",
       "score": 8.2,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #7 (+9,100%)",
+      "path": "ideas/2026-06-25/001-color-drenching-hair-guide/idea.md"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "002-shoe-care-guide",
+      "num": "002",
+      "title": "Shoe Care Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-25/002-shoe-care-guide/idea.md"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "003-webclip",
+      "num": "003",
+      "title": "WebClip \u2014 Web Clipper & Reader",
+      "score": 8.2,
+      "path": "ideas/2026-06-25/003-webclip/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "001-suri-toothbrush-guide",
+      "num": "001",
+      "title": "",
+      "score": 0,
+      "path": "ideas/2026-06-26/001-suri-toothbrush-guide/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "002-non-slip-shoes-guide",
+      "num": "002",
+      "title": "",
+      "score": 0,
+      "path": "ideas/2026-06-26/002-non-slip-shoes-guide/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "003-ai-earbuds-guide",
+      "num": "003",
+      "title": "",
+      "score": 0,
+      "path": "ideas/2026-06-26/003-ai-earbuds-guide/idea.md"
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "001-carbon-plated-shoes",
+      "num": "001",
+      "title": "CarbonPlate \u2014 Running Shoe Finder",
+      "score": 8.2,
       "path": "ideas/2026-06-27/001-carbon-plated-shoes/idea.md"
     },
     {
-      "title": "MagBank \u2014 Magnetic Power Bank Finder",
       "date": "2026-06-27",
-      "discoveredDate": "2026-06-27",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "slug": "002-magnetic-power-bank",
+      "num": "002",
+      "title": "MagBank \u2014 Magnetic Power Bank Finder",
       "score": 8.0,
-      "category": "Technology",
-      "source": "Exploding Topics #84 (+7,800%)",
       "path": "ideas/2026-06-27/002-magnetic-power-bank/idea.md"
     },
     {
-      "title": "FlyMount \u2014 Travel Phone Mount",
       "date": "2026-06-27",
-      "discoveredDate": "2026-06-27",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "slug": "003-airplane-phone-holder",
+      "num": "003",
+      "title": "FlyMount \u2014 Airplane Phone Holder Guide",
       "score": 7.6,
-      "category": "Travel",
-      "source": "Exploding Topics #17 (+6,100%)",
       "path": "ideas/2026-06-27/003-airplane-phone-holder/idea.md"
     },
     {
-      "title": "EyeGym \u2014 Daily Vision Training",
       "date": "2026-06-28",
-      "discoveredDate": "2026-06-28",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "slug": "001-eyegym-vision-training",
+      "num": "001",
+      "title": "",
       "score": 7.8,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics (blue light/eye strain wave)",
       "path": "ideas/2026-06-28/001-eyegym-vision-training/idea.md"
     },
     {
-      "title": "StretchDesk \u2014 Guided Desk Stretch Routines",
       "date": "2026-06-28",
-      "discoveredDate": "2026-06-28",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "slug": "002-stretchdesk-desk-stretch-routines",
+      "num": "002",
+      "title": "StretchDesk \u2014 Guided Desk Stretch Routines",
       "score": 7.4,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #33 Walking Pad (+8,700%)",
       "path": "ideas/2026-06-28/002-stretchdesk-desk-stretch-routines/idea.md"
     },
     {
-      "title": "BlueRay \u2014 Evening Wind-Down Coach",
       "date": "2026-06-28",
-      "discoveredDate": "2026-06-28",
-      "status": "idea_generated",
-      "gapStatus": "CLOSED",
+      "slug": "003-blueray-screen-coach",
+      "num": "003",
+      "title": "BlueRay \u2014 Evening Wind-Down Coach",
       "score": 7.6,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics (blue light/sleep trend)",
       "path": "ideas/2026-06-28/003-blueray-screen-coach/idea.md"
     },
     {
-      "title": "SoleCare \u2014 Sneaker Cleaning & Shoe Care Guide",
       "date": "2026-06-29",
-      "discoveredDate": "2026-06-29",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 8.4,
-      "category": "Lifestyle",
-      "source": "Exploding Topics #2 Shoe Washing Bag (+7,000%)",
-      "path": "ideas/2026-06-29/002-solecare/idea.md"
-    },
-    {
+      "slug": "001-pouch-pal",
+      "num": "001",
       "title": "PouchPal \u2014 Nicotine Pouch Tracker",
-      "date": "2026-06-29",
-      "discoveredDate": "2026-06-29",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 8.2,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #8 Nicotine Pouches (+750%)",
+      "score": 0,
       "path": "ideas/2026-06-29/001-pouch-pal/idea.md"
     },
     {
-      "title": "SunGuard \u2014 SPF Guide & Sunscreen Coach",
       "date": "2026-06-29",
-      "discoveredDate": "2026-06-29",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 7.8,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #45 Birch Juice Sunscreen (+2,100%)",
+      "slug": "002-solecare",
+      "num": "002",
+      "title": "SoleCare \u2014 Sneaker Cleaning & Shoe Care Guide",
+      "score": 0,
+      "path": "ideas/2026-06-29/002-solecare/idea.md"
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "003-sunguard",
+      "num": "003",
+      "title": "SunGuard \u2014 Sunscreen Guide & SPF Coach",
+      "score": 0,
       "path": "ideas/2026-06-29/003-sunguard/idea.md"
     },
     {
-      "title": "ScentSafe \u2014 Non-Toxic Perfume & Ingredient Safety Guide",
       "date": "2026-06-30",
-      "discoveredDate": "2026-06-30",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 8.2,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #66 Non-Toxic Perfume (+1,050%)",
+      "slug": "001-scent-safe",
+      "num": "001",
+      "title": "ScentSafe \u2014 Non-Toxic Perfume & Ingredient Safety Guide",
+      "score": 8.1,
       "path": "ideas/2026-06-30/001-scent-safe/idea.md"
     },
     {
-      "title": "Mossarium \u2014 Indoor Moss Garden Guide & Care Tracker",
       "date": "2026-06-30",
-      "discoveredDate": "2026-06-30",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 8.0,
-      "category": "Lifestyle",
-      "source": "Exploding Topics #50 Fastmoss (+8,900%)",
+      "slug": "002-mossarium",
+      "num": "002",
+      "title": "Mossarium \u2014 Indoor Moss Garden Guide & Care Tracker",
+      "score": 7.8,
       "path": "ideas/2026-06-30/002-mossarium/idea.md"
     },
     {
-      "title": "LEDmask \u2014 LED Face Mask Treatment Guide & Timer",
       "date": "2026-06-30",
-      "discoveredDate": "2026-06-30",
-      "status": "idea_generated",
-      "gapStatus": "OPEN",
-      "score": 7.6,
-      "category": "Health & Fitness",
-      "source": "Exploding Topics #82 LED Face Mask (+1,800%), #61 TheraFace (+3,900%)",
+      "slug": "003-ledmask",
+      "num": "003",
+      "title": "LEDmask \u2014 LED Face Mask Treatment Guide & Timer",
+      "score": 7.5,
       "path": "ideas/2026-06-30/003-ledmask/idea.md"
     },
     {
-      "date": "2026-07-03",
-      "slug": "001-ai-video-generator",
+      "date": "2026-07-04",
+      "slug": "001-luxury-bag-charm-guide",
       "num": "001",
-      "title": "AI Video Generator",
-      "score": 10.0,
-      "path": "ideas/2026-07-03/001-ai-video-generator/idea.md"
+      "title": "Luxury Bag Charm Guide",
+      "score": 8.4,
+      "path": "ideas/2026-07-04/001-luxury-bag-charm-guide/idea.md"
     },
     {
-      "date": "2026-07-03",
-      "slug": "002-ai-image-enhancer",
+      "date": "2026-07-04",
+      "slug": "002-viwoods-eink-companion",
       "num": "002",
-      "title": "AI Image Enhancer",
-      "score": 10.0,
-      "path": "ideas/2026-07-03/002-ai-image-enhancer/idea.md"
+      "title": "Viwoods E-ink Companion",
+      "score": 8.2,
+      "path": "ideas/2026-07-04/002-viwoods-eink-companion/idea.md"
     },
     {
-      "date": "2026-07-03",
-      "slug": "003-ai-voice-detector",
+      "date": "2026-07-04",
+      "slug": "003-color-drenching-paint-guide",
       "num": "003",
-      "title": "AI Voice Detector",
-      "score": 10.0,
-      "path": "ideas/2026-07-03/003-ai-voice-detector/idea.md"
+      "title": "Color Drenching Paint Guide",
+      "score": 8.4,
+      "path": "ideas/2026-07-04/003-color-drenching-paint-guide/idea.md"
     }
   ],
-  "last_updated": "2026-06-30",
-  "total": 76,
-  "extendedResearch": [
-    {
-      "slug": "racing-tips-marketplace",
-      "title": "Racing Tips Marketplace \u2014 Extended Research",
-      "relatedIdeas": [
-        "001-belmont-stakes-guide"
-      ],
-      "path": "extended-research/racing-tips-marketplace.md",
-      "date": "2026-06-07",
-      "summary": "Competitive analysis of racing/tipster marketplace space. Covers Tipstrr, Betaminic, PrizePicks, BettingPros, OLBG, BetDAQ Tips. Proposes 5-layer revenue model (subscriptions, pay-per-tip, rev share, affiliate CPA, free tier). 3-month build plan."
-    },
-    {
-      "slug": "subwatch-subscription-price-watchdog",
-      "title": "SubWatch \\u2014 Subscription Price Watchdog (Extended Research)",
-      "relatedIdeas": [
-        "001-subscription-watchdog"
-      ],
-      "path": "extended-research/subwatch-subscription-price-watchdog.md",
-      "date": "2026-06-13",
-      "summary": "Full competitive analysis of 25 subscription tracker apps. Google Trends +455% for 'subscription tracker'. Revenue projections: $25K-$200K. Phased 3-hour build plan. Risk analysis. Market sizing: 3-5M qualified SAM."
-    },
-    {
-      "slug": "synstack-supplement-interaction-checker",
-      "title": "SynStack \\u2014 Supplement Interaction Checker (Extended Research)",
-      "relatedIdeas": [
-        "002-synstack"
-      ],
-      "path": "extended-research/synstack.md",
-      "date": "2026-06-19",
-      "summary": "Full competitive analysis of 42 apps across 12 search queries. TRUE supplement interaction checker is an empty niche \\u2014 Synstax abandoned (1 review), SuppCo is scanner not checker, Drugs.com is Rx-only. Revenue: $2.99 paid, projected $15K-$150K. Phased 3-hour build plan. Risk analysis covering regulatory, trust, competitive, and legal risks."
-    },
-    {
-      "slug": "creatine-gummies-guide",
-      "title": "Creatine Gummies Guide \\u2014 Extended Research",
-      "relatedIdeas": [
-        "001-creatine-gummies-guide"
-      ],
-      "path": "extended-research/creatine-gummies-guide.md",
-      "date": "2026-06-22",
-      "summary": "Full competitive analysis of 27 apps across 20+ search queries. TRUE GREEN FIELD \\u2014 6 direct creatine apps all have \\u226417 combined reviews. Zero dedicated creatine gummy guide apps exist. 5,400% trend growth on Exploding Topics. Revenue: Freemium $2.99 Pro unlock, projected $150-$6,000/month. 2.5-hour build. Risk: LOW. Build recommendation: BUILD."
-    },
-    {
-      "slug": "eyegym-vision-training",
-      "title": "EyeGym \u2014 Daily Vision Training (Extended Research)",
-      "relatedIdeas": [
-        "001-eyegym-vision-training"
-      ],
-      "path": "extended-research/eyegym-vision-training.md",
-      "date": "2026-06-28",
-      "summary": "Full competitive analysis of 89 unique apps across 32 iTunes Search API queries. 40 eye-specific competitors found \u2014 30 have < 100 reviews, 11 have 0 reviews. Total category reviews: 7,611 (dwarfed by single meditation apps). Revenue: $3.99 one-time paid, projected $200-$4,000/month. Risk: LOW. Build recommendation: BUILD."
-    }
-  ]
+  "last_updated": "2026-07-04",
+  "total": 87
 }
