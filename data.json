@@ -695,8 +695,32 @@
       "title": "Color Drenching Paint Guide",
       "score": 8.4,
       "path": "ideas/2026-07-04/003-color-drenching-paint-guide/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "001-ai-earbuds-companion",
+      "num": "001",
+      "title": "AI Earbuds Companion App",
+      "score": 8.4,
+      "path": "ideas/2026-07-05/001-ai-earbuds-companion/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "002-smart-toothbrush-tracker",
+      "num": "002",
+      "title": "Smart Toothbrush Tracker",
+      "score": 8.2,
+      "path": "ideas/2026-07-05/002-smart-toothbrush-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "003-workwhile-tracker",
+      "num": "003",
+      "title": "Workwhile Remote Work Tracker",
+      "score": 8.0,
+      "path": "ideas/2026-07-05/003-workwhile-tracker/idea.md"
     }
   ],
-  "last_updated": "2026-07-04",
-  "total": 87
+  "last_updated": "2026-07-05",
+  "total": 90
 }
