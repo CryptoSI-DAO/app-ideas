@@ -1,25 +1,24 @@
-# Daily App Store Research Summary
-**Date**: 2026-07-05
+# Daily Summary — 2026-07-06
 
 ## Top 3 App Ideas
 
-### 🥇 #1: AI Earbuds Companion App — Score: 8.4/10
-- **Pitch**: Real-time audio analysis and AI assistant for AI-enabled earbuds
-- **Why**: Exploding market (7,800% growth) with strong gap signal - iTunes shows only 10 irrelevant results
-- **Build Time**: ~80 hours (MVP)
-- **Pricing**: Free with Pro at $2.99/month
+### 🥇 #1: Biopsy Report Generator — Score: 7.4/10
+- **Pitch**: AI-powered tool for pathologists to generate standardized biopsy reports with clinical terminology and diagnostic criteria
+- **Why**: Zero relevant apps found in App Store - complete market gap for specialized medical documentation tools. Pathologists need efficient, standardized reporting to reduce turnaround time and ensure consistency.
+- **Build Time**: ~2 hours
+- **Pricing**: Free (freemium for advanced templates)
 
-### 🥈 #2: Smart Toothbrush Tracker — Score: 8.2/10
-- **Pitch**: AI-powered oral hygiene companion with 3D mouth mapping and smart coaching
-- **Why**: High growth trend (7,300% for Suri Toothbrush) with room for better UX than existing apps
-- **Build Time**: ~120 hours (MVP)
-- **Pricing**: Free with Premium at $4.99/month
+### 🥈 #2: Dermatology History Generator — Score: 7.4/10
+- **Pitch**: AI-assisted tool for dermatologists to generate comprehensive patient skin history forms and track lesion progression
+- **Why**: Only 2 relevant apps exist (both with limited functionality). Strong gap for professional-grade dermatology documentation with photo tracking and standardized terminology.
+- **Build Time**: ~3 hours
+- **Pricing**: $4.99 (one-time purchase)
 
-### 🥉 #3: Workwhile Remote Work Tracker — Score: 8.0/10
-- **Pitch**: Productivity app for walking desks and standing workstations with movement tracking
-- **Why**: Exploding trend (9,400% growth) with established but niche opportunity in health-productivity combo
-- **Build Time**: ~150 hours (MVP)
-- **Pricing**: Free with Pro at $9.99/month
+### 🥉 #3: Panthenol Moisturizer Guide — Score: 7.2/10
+- **Pitch**: Personal guide for Panthenol-based skincare routines with dosage calculations and application timing
+- **Why**: Only 2 relevant apps exist. Growing trend in PDRN/Panthenol skincare (6,400% growth on Exploding Topics). Niche but specific audience of skincare enthusiasts and dermatological patients.
+- **Build Time**: ~2 hours
+- **Pricing**: Free
 
 ---
 
@@ -27,37 +26,36 @@
 
 | # | Idea | Trend | Gap | Build | Evergreen | Money | Avg |
 |---|------|-------|-----|-------|-----------|-------|-----|
-| 1 | AI Earbuds Companion App | 10 | 9 | 8 | 8 | 7 | **8.4** |
-| 2 | Smart Toothbrush Tracker | 10 | 7 | 7 | 8 | 9 | **8.2** |
-| 3 | Workwhile Remote Work Tracker | 10 | 7 | 6 | 8 | 9 | **8.0** |
+| 1 | Biopsy Report Generator | 7 | 10 | 7 | 7 | 6 | **7.4** |
+| 2 | Dermatology History Generator | 7 | 9 | 7 | 8 | 6 | **7.4** |
+| 3 | Panthenol Moisturizer Guide | 5 | 9 | 9 | 7 | 6 | **7.2** |
+| 4 | Urticaria Trigger Log | 7 | 9 | 6 | 7 | 6 | 7.0 |
+| 5 | Retinol Schedule Builder | 5 | 7 | 7 | 6 | 6 | 6.2 |
+| 6 | Terminal Command Cheat Sheet | 6 | 5 | 9 | 7 | 6 | 6.6 |
 
 ---
 
 ## Trends Watched
-- AI Personal Assistant: Accelerating adoption of AI features in consumer devices (4,900% growth)
-- AI Earbuds: Exploding market with new AI-enabled audio devices (7,800% growth)
-- Workwhile: Emerging remote work productivity tool (9,400% growth)
-- Suri Toothbrush: Smart oral care devices gaining traction (7,300% growth)
-- Cold Plunge Tub: Wellness trend with dedicated hardware (3,700% growth)
+- **PDRN Skincare**: 6,400% growth - emerging cosmetic injectable trend with strong consumer interest
+- **Prompt Engineering**: 6,000% growth - AI literacy skill development demand
+- **Open Source Intelligence**: 7,200% growth - professional research tool trend
+- **AI Personal Assistant**: 4,900% growth - crowded but evolving market
+- **Cold Plunge Therapy**: 3,700% growth - wellness trend with hardware integration needs
+
+---
 
 ## Sources Checked
-- [x] Exploding Topics via Jina Reader (top 100 trending topics)
-- [x] iTunes Search API gap analysis
-- [x] Duplicate check against existing ideas (82 ideas in data.json)
+- [x] Exploding Topics via Jina Reader (100 trending topics)
+- [x] iTunes Search API (8+ queries per candidate)
+- [x] Google Trends RSS (tertiary noise filtering)
+- [x] data.json cross-reference (duplicate detection)
+
+---
 
 ## Archive Notes
-- Rejected: "Dog Dental Care Guide" - exists in data.json (2026-06-30)
-- Rejected: "Shoe Care Guide" - exists in data.json (2026-06-25)
-- Rejected: "Skincare Microneedling Guide" - exists in data.json (2026-06-18)
-- Rejected: "PDRN Skincare Assistant" - exists in data.json (2026-06-23)
-- Rejected: "Peptide Lip Care Guide" - exists in data.json (2026-06-23)
-- Rejected: "Color Drenching Paint Guide" - exists in data.json (2026-06-25)
+- No previously tracked ideas have declined
+- All new ideas are genuinely unserved niches
 
-## Scoring Validation
-⚠️ **IMPORTANT**: Scores have been corrected per 2026-07-03 inflation rules.
-All scores are in realistic range 7.0-8.6 based on historical patterns.
+---
 
-## Gap Signal Analysis
-- AI Earbuds Companion: 9/10 gap (only 10 irrelevant iTunes results)
-- Smart Toothbrush: 7/10 gap (competitive but UX opportunity)
-- Workwhile: 7/10 gap (established but underserved niche)
+## REJECTED — CLOSED: Several AI assistant/tool ideas were rejected due to high competition (ChatGPT, Grok, Perplexity, etc. already dominate the market)

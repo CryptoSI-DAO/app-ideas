@@ -719,8 +719,32 @@
       "title": "Workwhile Remote Work Tracker",
       "score": 8.0,
       "path": "ideas/2026-07-05/003-workwhile-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "001-biopsy-report-generator",
+      "num": "001",
+      "title": "Biopsy Report Generator",
+      "score": 7.4,
+      "path": "ideas/2026-07-06/001-biopsy-report-generator/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "002-dermatology-history-generator",
+      "num": "002",
+      "title": "Dermatology History Generator",
+      "score": 7.4,
+      "path": "ideas/2026-07-06/002-dermatology-history-generator/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "003-panthenol-moisturizer-guide",
+      "num": "003",
+      "title": "Panthenol Moisturizer Guide",
+      "score": 7.2,
+      "path": "ideas/2026-07-06/003-panthenol-moisturizer-guide/idea.md"
     }
   ],
-  "last_updated": "2026-07-05",
-  "total": 90
+  "last_updated": "2026-07-06",
+  "total": 93
 }
