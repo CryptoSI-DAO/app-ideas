@@ -1,6 +1,30 @@
 {
   "ideas": [
     {
+      "date": "2026-07-08",
+      "slug": "001-osint-tool",
+      "num": "001",
+      "title": "OSINT Tool \u2014 Open Source Intelligence Companion",
+      "score": 8.6,
+      "path": "ideas/2026-07-08/001-osint-tool/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "002-cold-plunge-tracker",
+      "num": "002",
+      "title": "Cold Plunge Tracker \u2014 Hydrotherapy Session Manager",
+      "score": 8.2,
+      "path": "ideas/2026-07-08/002-cold-plunge-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "003-boneless-couch-guide",
+      "num": "003",
+      "title": "Boneless Couch \u2014 Space-Saving Furniture Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-08/003-boneless-couch-guide/idea.md"
+    },
+    {
       "date": "2026-05-26",
       "slug": "001-focus-sleeper",
       "num": "001",
@@ -743,8 +767,32 @@
       "title": "Panthenol Moisturizer Guide",
       "score": 7.2,
       "path": "ideas/2026-07-06/003-panthenol-moisturizer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "prompt-engineering",
+      "num": "001",
+      "title": "Prompt Engineering",
+      "score": 8.0,
+      "path": "ideas/2026-07-07/001-prompt-engineering/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "cold-plunge-sauna",
+      "num": "002",
+      "title": "Cold Plunge Sauna",
+      "score": 7.0,
+      "path": "ideas/2026-07-07/002-cold-plunge-sauna/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "plaud-note",
+      "num": "003",
+      "title": "Plaud Note",
+      "score": 7.0,
+      "path": "ideas/2026-07-07/003-plaud-note/idea.md"
     }
   ],
-  "last_updated": "2026-07-06",
-  "total": 93
+  "last_updated": "2026-07-08",
+  "total": 99
 }
