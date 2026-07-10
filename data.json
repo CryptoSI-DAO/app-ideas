@@ -791,6 +791,30 @@
       "title": "Plaud Note",
       "score": 7.0,
       "path": "ideas/2026-07-07/003-plaud-note/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "001-pet-care-ai",
+      "num": "001",
+      "title": "Pet Care AI",
+      "score": 8.4,
+      "path": "ideas/2026-07-10/001-pet-care-ai/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "002-osint-tool",
+      "num": "002",
+      "title": "OSINT Tool",
+      "score": 8.0,
+      "path": "ideas/2026-07-10/002-osint-tool/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "003-high-speed-hair-dryer-guide",
+      "num": "003",
+      "title": "High Speed Hair Dryer Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-10/003-high-speed-hair-dryer-guide/idea.md"
     }
   ],
   "last_updated": "2026-07-08",
