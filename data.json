@@ -815,8 +815,32 @@
       "title": "High Speed Hair Dryer Guide",
       "score": 8.0,
       "path": "ideas/2026-07-10/003-high-speed-hair-dryer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "001-milky-toner-guide",
+      "num": "001",
+      "title": "Milky Toner Guide \u2014 K-Beauty Toner Finder",
+      "score": 9.0,
+      "path": "ideas/2026-07-11/001-milky-toner-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "002-baby-bottle-washer-guide",
+      "num": "002",
+      "title": "Baby Bottle Washer Guide \u2014 Bottle Cleaning Machine Reviews",
+      "score": 8.8,
+      "path": "ideas/2026-07-11/002-baby-bottle-washer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "003-wifi-7-router-guide",
+      "num": "003",
+      "title": "Wifi 7 Router Guide \u2014 802.11be Router Finder",
+      "score": 8.6,
+      "path": "ideas/2026-07-11/003-wifi-7-router-guide/idea.md"
     }
   ],
-  "last_updated": "2026-07-10",
-  "total": 102
+  "last_updated": "2026-07-11",
+  "total": 105
 }
