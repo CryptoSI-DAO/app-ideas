@@ -839,8 +839,32 @@
       "title": "Wifi 7 Router Guide \u2014 802.11be Router Finder",
       "score": 8.6,
       "path": "ideas/2026-07-11/003-wifi-7-router-guide/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "001-cold-plunge-protocol",
+      "num": "001",
+      "title": "Cold Plunge Protocol \u2014 Hydrotherapy Session Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-12/001-cold-plunge-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "002-ai-video-generator",
+      "num": "002",
+      "title": "AI Video Generator \u2014 Mobile Video Creation App",
+      "score": 7.8,
+      "path": "ideas/2026-07-12/002-ai-video-generator/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "003-cryotherapy-protocol",
+      "num": "003",
+      "title": "Cryotherapy Protocol \u2014 Cold Therapy Guide & Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
     }
   ],
-  "last_updated": "2026-07-11",
-  "total": 105
+  "last_updated": "2026-07-12",
+  "total": 108
 }
