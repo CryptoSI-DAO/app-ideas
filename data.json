@@ -858,13 +858,37 @@
     },
     {
       "date": "2026-07-12",
-      "slug": "003-cryotherapy-protocol",
-      "num": "003",
-      "title": "Cryotherapy Protocol \u2014 Cold Therapy Guide & Tracker",
-      "score": 7.8,
-      "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
-    }
-  ],
-  "last_updated": "2026-07-12",
-  "total": 108
-}
+            "slug": "003-cryotherapy-protocol",
+            "num": "003",
+            "title": "Cryotherapy Protocol — Cold Therapy Guide & Tracker",
+            "score": 7.8,
+            "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
+          },
+          {
+            "date": "2026-07-13",
+            "slug": "001-ai-voice-detector",
+            "num": "001",
+            "title": "AI Voice Detector — Deepfake Audio Finder",
+            "score": 8.6,
+            "path": "ideas/2026-07-13/001-ai-voice-detector/idea.md"
+          },
+          {
+            "date": "2026-07-13",
+            "slug": "002-gender-affirming-care-guide",
+            "num": "002",
+            "title": "Gender Affirming Care Guide — Trans Healthcare",
+            "score": 8.2,
+            "path": "ideas/2026-07-13/002-gender-affirming-care-guide/idea.md"
+          },
+          {
+            "date": "2026-07-13",
+            "slug": "003-deepfake-audio-detector",
+            "num": "003",
+            "title": "Deepfake Audio Detector — Voice Verification",
+            "score": 7.8,
+            "path": "ideas/2026-07-13/003-deepfake-audio-detector/idea.md"
+          }
+        ],
+        "last_updated": "2026-07-13",
+        "total": 111
+      }
