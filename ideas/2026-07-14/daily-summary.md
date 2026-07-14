@@ -58,13 +58,6 @@
 
 ---
 
-## REJECTED — CLOSED GAPS
-- **Slim Toaster Guide** — overlaps with existing appliance guides
-- **Wolverine Peptide Guide** — overlaps with existing beauty supplement guides
-- **AI Music Generator App** — established market, lower score
-
----
-
 ## Key Findings
 1. **AI Infrastructure Gap**: Observability and orchestration represent untapped B2B opportunities
 2. **AI for Education**: Children's AI tutoring is emerging but heavily regulated
