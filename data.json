@@ -911,8 +911,32 @@
       "title": "AI Toy Companion \u2014 Kids Learning",
       "score": 7.6,
       "path": "ideas/2026-07-14/003-ai-toy-companion/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "001-ai-token-usage-monitor",
+      "num": "001",
+      "title": "AI Token Usage Monitor \u2014 AI Cost Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-07-15/001-ai-token-usage-monitor/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "002-fractional-coo-kit",
+      "num": "002",
+      "title": "Fractional COO Onboarding Kit \u2014 Executive Operations Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-15/002-fractional-coo-kit/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "003-growthbook-dashboard",
+      "num": "003",
+      "title": "Growthbook Analytics Dashboard \u2014 Feature Flag Companion",
+      "score": 7.4,
+      "path": "ideas/2026-07-15/003-growthbook-dashboard/idea.md"
     }
   ],
-  "last_updated": "2026-07-14",
-  "total": 114
+  "last_updated": "2026-07-15",
+  "total": 117
 }
