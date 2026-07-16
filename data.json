@@ -935,8 +935,32 @@
       "title": "Growthbook Analytics Dashboard \u2014 Feature Flag Companion",
       "score": 7.4,
       "path": "ideas/2026-07-15/003-growthbook-dashboard/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "001-answer-engine-optimizer",
+      "num": "001",
+      "title": "Answer Engine Optimizer \u2014 AI Search Ranking Tool",
+      "score": 8.4,
+      "path": "ideas/2026-07-16/001-answer-engine-optimizer/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "002-morelogin",
+      "num": "002",
+      "title": "MoreLogin \u2014 Multi-Account Browser Manager",
+      "score": 8.0,
+      "path": "ideas/2026-07-16/002-morelogin/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "003-antidetect-browser",
+      "num": "003",
+      "title": "Antidetect Browser \u2014 Privacy-First Multi-Login",
+      "score": 7.8,
+      "path": "ideas/2026-07-16/003-antidetect-browser/idea.md"
     }
   ],
-  "last_updated": "2026-07-15",
-  "total": 117
+  "last_updated": "2026-07-16",
+  "total": 120
 }
