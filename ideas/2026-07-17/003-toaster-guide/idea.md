@@ -1,7 +1,7 @@
 # App Idea: Toaster Guide — Slim & Cordless Appliance Companion
 
 *Generated: 2026-07-17*
-*Confidence Score: 8.0/10*
+*Confidence Score: 7.8/10*
 
 ---
 
@@ -24,13 +24,13 @@ Slim and cordless toasters are trending but lack dedicated user guides. Owners s
 
 ## Competitor Analysis
 
-|| App Name | Rating | Price | Weakness |
-||----------|--------|-------|----------|
-|| Allrecipes | ⭐4.8 | Free | Too broad, no appliance-specific content |
-|| Kitchen Stories | ⭐4.6 | Free | General recipes, no toaster focus |
-|| Cuisinart | ⭐3.9 | Free | Brand-specific, limited to one brand |
-|| Hamilton Beach | ⭐3.7 | Free | Brand-specific, basic functionality |
-|| Better Homes | ⭐4.2 | Free | Magazine-style, not mobile-optimized |
+| App Name | Rating | Price | Weakness |
+|----------|--------|-------|----------|
+| Allrecipes | ⭐4.8 | Free | Too broad, no appliance-specific content |
+| Kitchen Stories | ⭐4.6 | Free | General recipes, no toaster focus |
+| Cuisinart | ⭐3.9 | Free | Brand-specific, limited to one brand |
+| Hamilton Beach | ⭐3.7 | Free | Brand-specific, basic functionality |
+| Better Homes | ⭐4.2 | Free | Magazine-style, not mobile-optimized |
 
 **App Gap**: No dedicated toaster guide app exists. Kitchen appliance apps are either brand-specific or too general.
 
@@ -107,14 +107,14 @@ Secondary: Lifestyle
 
 ## Scoring Breakdown
 
-|| Dimension | Score | Notes |
-||-----------|-------|-------|
-|| Trend Momentum | 10/10 | 9,000% growth, #5 trending topic |
-|| App Gap | 10/10 | No dedicated toaster app exists |
-|| Build Simplicity | 7/10 | Content-focused, achievable MVP |
-|| Evergreen Potential | 7/10 | Daily use appliance, timeless need |
-|| Monetization | 6/10 | Reference apps have lower monetization |
-|| **Average** | **8.0/10** | |
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 9/10 | 9,000% growth, #5 trending topic (adjusted from 10 per scoring inflation rules) |
+| App Gap | 10/10 | No dedicated toaster app exists |
+| Build Simplicity | 7/10 | Content-focused, achievable MVP |
+| Evergreen Potential | 7/10 | Daily use appliance, timeless need |
+| Monetization | 6/10 | Reference apps have lower monetization |
+| **Average** | **7.8/10** | |
 
 ## Risk Assessment
 - **Trend Fizzle**: Low — toast is timeless, slim appliances growing

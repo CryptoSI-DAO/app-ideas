@@ -1,7 +1,7 @@
 # App Idea: Zebra Design Guide — Interior Stripe Pattern Reference
 
 *Generated: 2026-07-17*
-*Confidence Score: 8.0/10*
+*Confidence Score: 7.8/10*
 
 ---
 
@@ -24,13 +24,13 @@ Zebra striping is a trending interior design technique, but there's no mobile-fr
 
 ## Competitor Analysis
 
-|| App Name | Rating | Price | Weakness |
-||----------|--------|-------|----------|
-|| ColorSnap | ⭐4.2 | Free | General paint app, no pattern guides |
-|| Houzz | ⭐4.6 | Free | Too broad, no stripe-specific tools |
-|| Home Design 3D | ⭐4.3 | Free | Visualization only, no implementation guide |
-|| Sherwin-Williams | ⭐4.1 | Free | Brand-specific, limited design guidance |
-|| Houzz Pro | ⭐3.8 | $19/mo | Professional focus, not DIY-friendly |
+| App Name | Rating | Price | Weakness |
+|----------|--------|-------|----------|
+| ColorSnap | ⭐4.2 | Free | General paint app, no pattern guides |
+| Houzz | ⭐4.6 | Free | Too broad, no stripe-specific tools |
+| Home Design 3D | ⭐4.3 | Free | Visualization only, no implementation guide |
+| Sherwin-Williams | ⭐4.1 | Free | Brand-specific, limited design guidance |
+| Houzz Pro | ⭐3.8 | $19/mo | Professional focus, not DIY-friendly |
 
 **App Gap**: No dedicated app for zebra stripe pattern implementation. Existing apps are either paint calculators or broad design tools.
 
@@ -107,14 +107,14 @@ Secondary: Reference
 
 ## Scoring Breakdown
 
-|| Dimension | Score | Notes |
-||-----------|-------|-------|
-|| Trend Momentum | 10/10 | 9,700% growth, #4 trending topic |
-|| App Gap | 10/10 | No dedicated pattern implementation app |
-|| Build Simplicity | 7/10 | Image processing + calculator = achievable |
-|| Evergreen Potential | 7/10 | Design trends cycle, stripes are classic |
-|| Monetization | 6/10 | Reference apps have lower monetization |
-|| **Average** | **8.0/10** | |
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 9/10 | 9,700% growth, #4 trending topic (adjusted from 10 per scoring inflation rules) |
+| App Gap | 10/10 | No dedicated pattern implementation app |
+| Build Simplicity | 7/10 | Image processing + calculator = achievable |
+| Evergreen Potential | 7/10 | Design trends cycle, stripes are classic |
+| Monetization | 6/10 | Reference apps have lower monetization |
+| **Average** | **7.8/10** | |
 
 ## Risk Assessment
 - **Trend Fizzle**: Low — stripes are a classic pattern style

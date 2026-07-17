@@ -1,7 +1,7 @@
 # App Idea: UGC Creator — User-Generated Content Campaign Manager
 
 *Generated: 2026-07-17*
-*Confidence Score: 8.4/10*
+*Confidence Score: 8.2/10*
 
 ---
 
@@ -24,13 +24,13 @@ Content creators struggle to manage UGC campaigns across multiple platforms. The
 
 ## Competitor Analysis
 
-|| App Name | Rating | Price | Weakness |
-||----------|--------|-------|----------|
-|| UGC Kit | ⭐2.1 | Free | Limited platform support, no AI features |
-|| TINT | ⭐3.2 | $49/mo | Enterprise-focused, complex for creators |
-|| Yotpo | ⭐3.8 | $39/mo | E-commerce only, no creator tools |
-|| Later | ⭐4.3 | $12/mo | Scheduling only, no UGC workflow |
-|| Crowdriff | ⭐3.5 | Custom | Expensive, no mobile app |
+| App Name | Rating | Price | Weakness |
+|----------|--------|-------|----------|
+| UGC Kit | ⭐2.1 | Free | Limited platform support, no AI features |
+| TINT | ⭐3.2 | $49/mo | Enterprise-focused, complex for creators |
+| Yotpo | ⭐3.8 | $39/mo | E-commerce only, no creator tools |
+| Later | ⭐4.3 | $12/mo | Scheduling only, no UGC workflow |
+| Crowdriff | ⭐3.5 | Custom | Expensive, no mobile app |
 
 **App Gap**: No dedicated mobile app for UGC campaign management. Existing tools are either enterprise-focused, e-commerce-only, or lack creator-specific workflows.
 
@@ -107,14 +107,14 @@ Secondary: Productivity
 
 ## Scoring Breakdown
 
-|| Dimension | Score | Notes |
-||-----------|-------|-------|
-|| Trend Momentum | 10/10 | 7,400% growth, #2 trending topic |
-|| App Gap | 10/10 | No mobile solution exists |
-|| Build Simplicity | 7/10 | API integrations required but achievable |
-|| Evergreen Potential | 7/10 | UGC is a lasting marketing strategy |
-|| Monetization | 8/10 | B2B potential, creators pay for efficiency |
-|| **Average** | **8.4/10** | |
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Trend Momentum | 9/10 | 7,400% growth, #2 trending topic (adjusted from 10 per scoring inflation rules) |
+| App Gap | 10/10 | No mobile solution exists |
+| Build Simplicity | 7/10 | API integrations required but achievable |
+| Evergreen Potential | 7/10 | UGC is a lasting marketing strategy |
+| Monetization | 8/10 | B2B potential, creators pay for efficiency |
+| **Average** | **8.2/10** | |
 
 ## Risk Assessment
 - **Trend Fizzle**: Low — UGC is a marketing strategy, not a fad
