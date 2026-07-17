@@ -12,7 +12,7 @@
 - **Pitch**: Visual guide app for zebra striping patterns in interior design, with color matching and implementation tips
 - **Why**: Zebra Striping is trending at #4 with 9,700% growth. Complete green field opportunity (gap: 10/10). Evergreen potential strong for design enthusiasts.
 - **Build Time**: ~12 hours
-- **Pricing**: Free (adsupported) or $2.99 for ad-free
+- **Pricing**: Free (adssupported) or $2.99 for ad-free
 
 ### 🥉 #3: Toaster Guide — Score: 8.0/10
 - **Pitch**: Comprehensive guide for slim and cordless toasters with recipe integration and maintenance tips
