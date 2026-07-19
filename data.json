@@ -1023,6 +1023,30 @@
       "title": "Mesh Ballet Flats",
       "score": 9.5,
       "path": "ideas/2026-07-19/003-mesh-ballet-flats/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "001-solarpunk",
+      "num": "001",
+      "title": "Solarpunk",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/001-solarpunk/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "002-barrel-leg-pants",
+      "num": "002",
+      "title": "Barrel Leg Pants",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/002-barrel-leg-pants/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "003-collaborative-robotics",
+      "num": "003",
+      "title": "Collaborative Robotics",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/003-collaborative-robotics/idea.md"
     }
   ],
   "last_updated": "2026-07-17",

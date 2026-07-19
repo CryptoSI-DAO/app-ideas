@@ -1,8 +1,8 @@
-# EmeraldBracelet - Requirements Document
+# Solarpunk - Requirements Document
 
 ## 1. App Specification
-- **App Name**: EmeraldBracelet
-- **Bundle ID**: com.lisakim.emeraldbracelet
+- **App Name**: Solarpunk
+- **Bundle ID**: com.lisakim.solarpunk
 - **Target Platform**: iOS (minimum iOS 15.0)
 - **Orientation**: Portrait
 - **Minimum Device**: iPhone SE (2nd gen) through iPhone 15 Pro Max
@@ -10,7 +10,7 @@
 ## 2. Feature Breakdown
 
 ### Core Feature: Knowledge Reference
-- **User Story**: As a user, I want to access organized information about Emerald Bracelet so that I can quickly find what I need without internet
+- **User Story**: As a user, I want to access organized information about Solarpunk so that I can quickly find what I need without internet
 - **Acceptance Criteria**: 
   - All content loads instantly from bundled JSON
   - Search returns results in <100ms
@@ -136,10 +136,10 @@
 - **Icons**: SF Symbols (book, gear, list.bullet, star, magnifyingglass, back)
 
 ## 6. App Store Metadata
-- **Title**: EmeraldBracelet
-- **Subtitle**: Quick reference guide for Emerald Bracelet
-- **Keywords**: emerald bracelet, guide, reference, tutorial, tips
-- **Description**: EmeraldBracelet is your offline companion for Emerald Bracelet. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
+- **Title**: Solarpunk
+- **Subtitle**: Quick reference guide for Solarpunk
+- **Keywords**: solarpunk, guide, reference, tutorial, tips
+- **Description**: Solarpunk is your offline companion for Solarpunk. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
 - **Promotional Text**: New version with improved organization and search
 - **What's New**: Initial release - Complete offline reference guide
 - **Screenshots**: 
