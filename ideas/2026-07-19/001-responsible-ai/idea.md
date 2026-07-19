@@ -1,8 +1,8 @@
-# Solarpunk - Requirements Document
+# ResponsibleAI - Requirements Document
 
 ## 1. App Specification
-- **App Name**: Solarpunk
-- **Bundle ID**: com.lisakim.solarpunk
+- **App Name**: ResponsibleAI
+- **Bundle ID**: com.lisakim.responsibleai
 - **Target Platform**: iOS (minimum iOS 15.0)
 - **Orientation**: Portrait
 - **Minimum Device**: iPhone SE (2nd gen) through iPhone 15 Pro Max
@@ -10,7 +10,7 @@
 ## 2. Feature Breakdown
 
 ### Core Feature: Knowledge Reference
-- **User Story**: As a user, I want to access organized information about Solarpunk so that I can quickly find what I need without internet
+- **User Story**: As a user, I want to access organized information about Responsible AI so that I can quickly find what I need without internet
 - **Acceptance Criteria**: 
   - All content loads instantly from bundled JSON
   - Search returns results in <100ms
@@ -136,10 +136,10 @@
 - **Icons**: SF Symbols (book, gear, list.bullet, star, magnifyingglass, back)
 
 ## 6. App Store Metadata
-- **Title**: Solarpunk
-- **Subtitle**: Quick reference guide for Solarpunk
-- **Keywords**: solarpunk, guide, reference, tutorial, tips
-- **Description**: Solarpunk is your offline companion for Solarpunk. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
+- **Title**: ResponsibleAI
+- **Subtitle**: Quick reference guide for Responsible AI
+- **Keywords**: responsible ai, guide, reference, tutorial, tips
+- **Description**: ResponsibleAI is your offline companion for Responsible AI. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
 - **Promotional Text**: New version with improved organization and search
 - **What's New**: Initial release - Complete offline reference guide
 - **Screenshots**: 

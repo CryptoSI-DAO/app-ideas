@@ -1047,6 +1047,30 @@
       "title": "Collaborative Robotics",
       "score": 8.6,
       "path": "ideas/2026-07-19/003-collaborative-robotics/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "001-responsible-ai",
+      "num": "001",
+      "title": "Responsible AI",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/001-responsible-ai/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "002-ai-seo",
+      "num": "002",
+      "title": "AI SEO",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/002-ai-seo/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "003-ai-robot-dog",
+      "num": "003",
+      "title": "AI Robot Dog",
+      "score": 8.6,
+      "path": "ideas/2026-07-19/003-ai-robot-dog/idea.md"
     }
   ],
   "last_updated": "2026-07-17",

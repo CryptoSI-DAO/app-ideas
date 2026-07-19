@@ -2,21 +2,21 @@
 
 ## Top 3 App Ideas
 
-### 🥇 #1: Solarpunk — Score: 8.6/10
-- **Pitch**: Offline reference guide for solarpunk with comprehensive information
-- **Why**: 4,900% growth trend. App gap is 8 apps (competitive but quality gap possible). High monetization potential.
+### 🥇 #1: Responsible AI — Score: 8.6/10
+- **Pitch**: Offline reference guide for responsible ai with comprehensive information
+- **Why**: 5,000% growth trend. App gap is 18 apps (competitive but quality gap possible). High monetization potential.
 - **Build Time**: ~14 hours
 - **Pricing**: Free (ad-supported) or $2.99 for ad-free
 
-### 🥈 #2: Barrel Leg Pants — Score: 8.6/10
-- **Pitch**: Comprehensive reference guide for barrel leg pants with offline access
-- **Why**: 8,500% growth. App gap is 10 apps. Evergreen content with strong user retention.
+### 🥈 #2: AI SEO — Score: 8.6/10
+- **Pitch**: Comprehensive reference guide for ai seo with offline access
+- **Why**: 5,700% growth. App gap is 15 apps. Evergreen content with strong user retention.
 - **Build Time**: ~14 hours
 - **Pricing**: Free (ad-supported) or $2.99 for ad-free
 
-### 🥉 #3: Collaborative Robotics — Score: 8.6/10
-- **Pitch**: Mobile companion for collaborative robotics with tracking and insights
-- **Why**: 4,900% growth. App gap is 8 apps. Strong combination of trend momentum and monetization potential.
+### 🥉 #3: AI Robot Dog — Score: 8.6/10
+- **Pitch**: Mobile companion for ai robot dog with tracking and insights
+- **Why**: 2,700% growth. App gap is 17 apps. Strong combination of trend momentum and monetization potential.
 - **Build Time**: ~14 hours
 - **Pricing**: Free (freemium with $2.99/mo upgrade)
 
@@ -26,32 +26,30 @@
 
 | # | Idea | Trend | Gap | Build | Evergreen | Money | Avg |
 |---|------|-------|-----|-------|-----------|-------|-----|
-| 1 | Solarpunk | 8 | 5 | 8 | 5 | 8 | **8.6** |
-| 2 | Barrel Leg Pants | 10 | 5 | 8 | 5 | 8 | **8.6** |
-| 3 | Collaborative Robotics | 8 | 5 | 8 | 5 | 8 | **8.6** |
+| 1 | Responsible AI | 8 | 2 | 8 | 5 | 8 | **8.6** |
+| 2 | AI SEO | 10 | 2 | 8 | 5 | 8 | **8.6** |
+| 3 | AI Robot Dog | 8 | 2 | 8 | 5 | 8 | **8.6** |
 
 ---
 
 ## Trends Watched
-- **Antarctic Krill Oil**: 1,320% growth - Emerging omega-3 supplement market
-- **Mesh Ballet Flats**: 6,200% growth - Fashion trend for breathable footwear
-- **Yemeni Coffee**: 4,650% growth - Specialty coffee origin gaining popularity
-- **AI for Teachers**: 4,100% growth - Educational AI tools for classroom use
-- **NoteGPT**: 7,600% growth - AI note-taking and transcript conversion
+- **Responsible AI**: 5,000% growth - Technology trend with quality opportunity
+- **AI SEO**: 5,700% growth - Technology trend with quality gap
+- **AI Robot Dog**: 2,700% growth - Technology trend with market opportunity
 
 ---
 
 ## Sources Checked
 - [x] Exploding Topics (Jina Reader) - Top 100 trending topics
 - [x] iTunes Search API - Gap analysis for all candidates
-- [x] Existing ideas database - Dedup against 120 previous ideas
+- [x] Existing ideas database - Dedup against 123 previous ideas
 
 ---
 
 ## Archive Notes
-- 3 potential ideas were rejected as duplicates of existing concepts
-- Fashion and niche lifestyle topics dominate the trending list
-- Health supplements show strong growth with quality gaps
+- 17 potential ideas were rejected as duplicates of existing concepts
+- Fashion and health topics show strong growth with quality gaps
+- Supplement and skincare niches have high monetization potential
 
 ---
 

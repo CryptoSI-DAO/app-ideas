@@ -1,8 +1,8 @@
-# CollaborativeRobotics - Requirements Document
+# AIRobotDog - Requirements Document
 
 ## 1. App Specification
-- **App Name**: CollaborativeRobotics
-- **Bundle ID**: com.lisakim.collaborativerobotics
+- **App Name**: AIRobotDog
+- **Bundle ID**: com.lisakim.airobotdog
 - **Target Platform**: iOS (minimum iOS 15.0)
 - **Orientation**: Portrait
 - **Minimum Device**: iPhone SE (2nd gen) through iPhone 15 Pro Max
@@ -10,7 +10,7 @@
 ## 2. Feature Breakdown
 
 ### Core Feature: Knowledge Reference
-- **User Story**: As a user, I want to access organized information about Collaborative Robotics so that I can quickly find what I need without internet
+- **User Story**: As a user, I want to access organized information about AI Robot Dog so that I can quickly find what I need without internet
 - **Acceptance Criteria**: 
   - All content loads instantly from bundled JSON
   - Search returns results in <100ms
@@ -136,10 +136,10 @@
 - **Icons**: SF Symbols (book, gear, list.bullet, star, magnifyingglass, back)
 
 ## 6. App Store Metadata
-- **Title**: CollaborativeRobotics
-- **Subtitle**: Quick reference guide for Collaborative Robotics
-- **Keywords**: collaborative robotics, guide, reference, tutorial, tips
-- **Description**: CollaborativeRobotics is your offline companion for Collaborative Robotics. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
+- **Title**: AIRobotDog
+- **Subtitle**: Quick reference guide for AI Robot Dog
+- **Keywords**: ai robot dog, guide, reference, tutorial, tips
+- **Description**: AIRobotDog is your offline companion for AI Robot Dog. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
 - **Promotional Text**: New version with improved organization and search
 - **What's New**: Initial release - Complete offline reference guide
 - **Screenshots**: 

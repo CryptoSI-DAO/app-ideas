@@ -1,8 +1,8 @@
-# BarrelLegPants - Requirements Document
+# AISEO - Requirements Document
 
 ## 1. App Specification
-- **App Name**: BarrelLegPants
-- **Bundle ID**: com.lisakim.barrellegpants
+- **App Name**: AISEO
+- **Bundle ID**: com.lisakim.aiseo
 - **Target Platform**: iOS (minimum iOS 15.0)
 - **Orientation**: Portrait
 - **Minimum Device**: iPhone SE (2nd gen) through iPhone 15 Pro Max
@@ -10,7 +10,7 @@
 ## 2. Feature Breakdown
 
 ### Core Feature: Knowledge Reference
-- **User Story**: As a user, I want to access organized information about Barrel Leg Pants so that I can quickly find what I need without internet
+- **User Story**: As a user, I want to access organized information about AI SEO so that I can quickly find what I need without internet
 - **Acceptance Criteria**: 
   - All content loads instantly from bundled JSON
   - Search returns results in <100ms
@@ -136,10 +136,10 @@
 - **Icons**: SF Symbols (book, gear, list.bullet, star, magnifyingglass, back)
 
 ## 6. App Store Metadata
-- **Title**: BarrelLegPants
-- **Subtitle**: Quick reference guide for Barrel Leg Pants
-- **Keywords**: barrel leg pants, guide, reference, tutorial, tips
-- **Description**: BarrelLegPants is your offline companion for Barrel Leg Pants. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
+- **Title**: AISEO
+- **Subtitle**: Quick reference guide for AI SEO
+- **Keywords**: ai seo, guide, reference, tutorial, tips
+- **Description**: AISEO is your offline companion for AI SEO. Access comprehensive guides, tips, and references anytime without internet. Perfect for learning, teaching, or quick reference. Features organized content, search functionality, and favorites. No ads, no subscriptions, no internet required.
 - **Promotional Text**: New version with improved organization and search
 - **What's New**: Initial release - Complete offline reference guide
 - **Screenshots**: 
