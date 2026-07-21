@@ -1071,6 +1071,30 @@
       "title": "AI Robot Dog",
       "score": 8.6,
       "path": "ideas/2026-07-19/003-ai-robot-dog/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "zebra-striping",
+      "num": "001",
+      "title": "Zebra Striping",
+      "score": 8.2,
+      "path": "ideas/2026-07-21/001-zebra-striping/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "slim-toaster",
+      "num": "002",
+      "title": "Slim Toaster",
+      "score": 8.2,
+      "path": "ideas/2026-07-21/002-slim-toaster/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "cordless-blender",
+      "num": "003",
+      "title": "Cordless Blender",
+      "score": 8.2,
+      "path": "ideas/2026-07-21/003-cordless-blender/idea.md"
     }
   ],
   "last_updated": "2026-07-17",
