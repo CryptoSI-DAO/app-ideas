@@ -1095,8 +1095,32 @@
       "title": "Cordless Blender",
       "score": 8.2,
       "path": "ideas/2026-07-21/003-cordless-blender/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "001-non-homogenized-milk-guide",
+      "num": "001",
+      "title": "Non-Homogenized Milk Guide \u2014 Grass-Fed Dairy Tracker",
+      "score": 8.2,
+      "path": "ideas/2026-07-23/001-non-homogenized/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "002-birch-juice-sunscreen-guide",
+      "num": "002",
+      "title": "Birch Juice Sunscreen Guide \u2014 Korean Beauty SPF Tracker",
+      "score": 8.0,
+      "path": "ideas/2026-07-23/002-birch-juice/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "003-pdrn-toner-guide",
+      "num": "003",
+      "title": "PDRN Toner Guide \u2014 Skincare Recovery Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-07-23/003-pdrn-toner/idea.md"
     }
   ],
-  "last_updated": "2026-07-17",
-  "total": 125
+  "last_updated": "2026-07-23",
+  "total": 140
 }
