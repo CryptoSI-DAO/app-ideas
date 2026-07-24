@@ -1119,8 +1119,32 @@
       "title": "PDRN Toner Guide \u2014 Skincare Recovery Tracker",
       "score": 7.8,
       "path": "ideas/2026-07-23/003-pdrn-toner/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "001-ai-lighting-app",
+      "num": "001",
+      "title": "AI Lighting App \u2014 Smart Light Orchestration",
+      "score": 8.4,
+      "path": "ideas/2026-07-24/001-ai-lighting-app/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "002-ai-interior-design-app",
+      "num": "002",
+      "title": "AI Interior Design App \u2014 Room Planner & Style Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-24/002-ai-interior-design-app/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "003-organic-dairy-guide",
+      "num": "003",
+      "title": "Organic Dairy Guide \u2014 Non-Homogenized Milk & Dairy Reference",
+      "score": 7.6,
+      "path": "ideas/2026-07-24/003-organic-dairy-guide/idea.md"
     }
   ],
-  "last_updated": "2026-07-23",
-  "total": 140
+  "last_updated": "2026-07-24",
+  "total": 143
 }
