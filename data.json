@@ -1143,8 +1143,48 @@
       "title": "Organic Dairy Guide \u2014 Non-Homogenized Milk & Dairy Reference",
       "score": 7.6,
       "path": "ideas/2026-07-24/003-organic-dairy-guide/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "001-ai-shoes",
+      "num": "001",
+      "title": "AI Shoes \u2014 Smart Shoe Companion",
+      "score": 8.6,
+      "path": "ideas/2026-07-26/001-ai-shoes/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "002-wolverine-peptide",
+      "num": "002",
+      "title": "Wolverine Peptide \u2014 Biohacker's Peptide Companion",
+      "score": 8.6,
+      "path": "ideas/2026-07-26/002-wolverine-peptide/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "003-tuta-email",
+      "num": "003",
+      "title": "Tuta Email \u2014 Privacy-First Email Companion",
+      "score": 8.6,
+      "path": "ideas/2026-07-26/003-tuta-email/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "004-ai-mini-pc",
+      "num": "004",
+      "title": "AI Mini PC \u2014 Companion App",
+      "score": 8.6,
+      "path": "ideas/2026-07-26/004-ai-mini-pc/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "005-salmon-dna-microneedling",
+      "num": "005",
+      "title": "Salmon DNA Microneedling \u2014 Personalized Beauty Protocol",
+      "score": 8.4,
+      "path": "ideas/2026-07-26/005-salmon-dna-microneedling/idea.md"
     }
   ],
-  "last_updated": "2026-07-24",
-  "total": 143
+  "last_updated": "2026-07-26",
+  "total": 148
 }
