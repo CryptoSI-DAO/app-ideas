@@ -1183,8 +1183,32 @@
       "title": "Salmon DNA Microneedling \u2014 Personalized Beauty Protocol",
       "score": 8.4,
       "path": "ideas/2026-07-26/005-salmon-dna-microneedling/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "001-notegpt-companion",
+      "num": "001",
+      "title": "NoteGPT Companion \u2014 AI-Powered Meeting & Lecture Assistant",
+      "score": 8.0,
+      "path": "ideas/2026-07-27/001-notegpt-companion/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "002-tiphaus-companion",
+      "num": "002",
+      "title": "Tiphaus Companion \u2014 Creator Subscriber Management",
+      "score": 8.0,
+      "path": "ideas/2026-07-27/002-tiphaus-companion/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "003-petfolk-community",
+      "num": "003",
+      "title": "Petfolk Community \u2014 Pet Owner Social Network",
+      "score": 7.8,
+      "path": "ideas/2026-07-27/003-petfolk-community/idea.md"
     }
   ],
-  "last_updated": "2026-07-26",
-  "total": 148
+  "last_updated": "2026-07-27",
+  "total": 151
 }
