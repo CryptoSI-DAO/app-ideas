@@ -1207,8 +1207,32 @@
       "title": "Petfolk Community \u2014 Pet Owner Social Network",
       "score": 7.8,
       "path": "ideas/2026-07-27/003-petfolk-community/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "001-hypochlorous-acid-spray-guide",
+      "num": "001",
+      "title": "Hypochlorous Acid Spray Guide \u2014 Skincare & Sanitization Companion",
+      "score": 8.4,
+      "path": "ideas/2026-07-28/001-hypochlorous-acid-spray-guide/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "002-silicon-carbon-battery-guide",
+      "num": "002",
+      "title": "Silicon Carbon Battery Guide \u2014 Next-Gen Battery Technology Companion",
+      "score": 8.2,
+      "path": "ideas/2026-07-28/002-silicon-carbon-battery-guide/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "003-cellular-repair-guide",
+      "num": "003",
+      "title": "Cellular Repair Guide \u2014 Oxidative Stress & Longevity Companion",
+      "score": 7.8,
+      "path": "ideas/2026-07-28/003-cellular-repair-guide/idea.md"
     }
   ],
-  "last_updated": "2026-07-27",
-  "total": 151
+  "last_updated": "2026-07-28",
+  "total": 154
 }
