@@ -1231,8 +1231,32 @@
       "title": "Cellular Repair Guide \u2014 Oxidative Stress & Longevity Companion",
       "score": 7.8,
       "path": "ideas/2026-07-28/003-cellular-repair-guide/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "001-penpot-companion",
+      "num": "001",
+      "title": "Penpot Companion \u2014 Design Workflow Manager",
+      "score": 8.6,
+      "path": "ideas/2026-07-31/001-penpot-companion/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "002-clean-girl-aesthetic",
+      "num": "002",
+      "title": "Clean Girl Aesthetic \u2014 Beauty Guide & Community",
+      "score": 8.6,
+      "path": "ideas/2026-07-31/002-clean-girl-aesthetic/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "003-owala-companion",
+      "num": "003",
+      "title": "Owala Companion \u2014 Hydration Tracker",
+      "score": 8.4,
+      "path": "ideas/2026-07-31/003-owala-companion/idea.md"
     }
   ],
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-31",
   "total": 154
 }
