@@ -1279,8 +1279,32 @@
       "title": "Suri Toothbrush \u2014 Hair-Free Oral Care Companion",
       "score": 7.2,
       "path": "ideas/2026-08-01/003-suri-toothbrush/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "001-pyloric-stenosis-guide",
+      "num": "001",
+      "title": "Pyloric Stenosis Guide \u2014 Pediatric Emergency Resource",
+      "score": 8.2,
+      "path": "ideas/2026-08-02/001-pyloric-stenosis-guide/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "002-methylphenidate-side-effects",
+      "num": "002",
+      "title": "Methylphenidate Side Effects \u2014 ADHD Medication Companion",
+      "score": 8.0,
+      "path": "ideas/2026-08-02/002-methylphenidate-side-effects/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "003-haraz-coffee-guide",
+      "num": "003",
+      "title": "Haraz Coffee Guide \u2014 Ethiopian Coffee Origins",
+      "score": 8.0,
+      "path": "ideas/2026-08-02/003-haraz-coffee-guide/idea.md"
     }
   ],
-  "last_updated": "2026-07-31",
-  "total": 157
+  "last_updated": "2026-08-02",
+  "total": 163
 }
