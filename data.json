@@ -1303,8 +1303,56 @@
       "title": "Haraz Coffee Guide \u2014 Ethiopian Coffee Origins",
       "score": 8.0,
       "path": "ideas/2026-08-02/003-haraz-coffee-guide/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "001-jumping-spider-enclosure-guide",
+      "num": "001",
+      "title": "Jumping Spider Enclosure Guide \u2014 Pet Arachnid Habitat Designer",
+      "score": 8.0,
+      "path": "ideas/2026-08-03/001-jumping-spider-enclosure-guide/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "002-ai-translator-headphones",
+      "num": "002",
+      "title": "AI Translator Headphones \u2014 Real-Time Translation Companion",
+      "score": 8.0,
+      "path": "ideas/2026-08-03/002-ai-translator-headphones/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "003-agricultural-marketplace",
+      "num": "003",
+      "title": "Agricultural Marketplace \u2014 Farm B2B Supply Hub",
+      "score": 7.8,
+      "path": "ideas/2026-08-03/003-agricultural-marketplace/idea.md"
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "001-clinical-notes-ai",
+      "num": "001",
+      "title": "Clinical Notes AI",
+      "score": 7.8,
+      "path": "ideas/2026-08-04/001-clinical-notes-ai/idea.md"
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "002-crypto-portfolio-rebalancer",
+      "num": "002",
+      "title": "Crypto Portfolio Rebalancer",
+      "score": 8.4,
+      "path": "ideas/2026-08-04/002-crypto-portfolio-rebalancer/idea.md"
+    },
+    {
+      "date": "2026-08-04",
+      "slug": "003-paleo-recipe-generator",
+      "num": "003",
+      "title": "Paleo Recipe Generator",
+      "score": 7.8,
+      "path": "ideas/2026-08-04/003-paleo-recipe-generator/idea.md"
     }
   ],
-  "last_updated": "2026-08-02",
-  "total": 163
+  "last_updated": "2026-08-04",
+  "total": 169
 }
