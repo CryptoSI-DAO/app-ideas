@@ -1351,8 +1351,32 @@
       "title": "Paleo Recipe Generator",
       "score": 7.8,
       "path": "ideas/2026-08-04/003-paleo-recipe-generator/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "001-prompt-engineering-assistant",
+      "num": "001",
+      "title": "Prompt Engineering Assistant",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/001-prompt-engineering-assistant/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "002-pdrn-skincare-tracker",
+      "num": "002",
+      "title": "PDRN Skincare Tracker",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/002-pdrn-skincare-tracker/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "003-response-ai-optimization",
+      "num": "003",
+      "title": "Response AI Optimization",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/003-response-ai-optimization/idea.md"
     }
   ],
-  "last_updated": "2026-08-04",
-  "total": 169
+  "last_updated": "2026-08-12",
+  "total": 172
 }
