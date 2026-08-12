@@ -1,30 +1,6 @@
 {
   "ideas": [
     {
-      "date": "2026-07-08",
-      "slug": "001-osint-tool",
-      "num": "001",
-      "title": "OSINT Tool \u2014 Open Source Intelligence Companion",
-      "score": 8.6,
-      "path": "ideas/2026-07-08/001-osint-tool/idea.md"
-    },
-    {
-      "date": "2026-07-08",
-      "slug": "002-cold-plunge-tracker",
-      "num": "002",
-      "title": "Cold Plunge Tracker \u2014 Hydrotherapy Session Manager",
-      "score": 8.2,
-      "path": "ideas/2026-07-08/002-cold-plunge-tracker/idea.md"
-    },
-    {
-      "date": "2026-07-08",
-      "slug": "003-boneless-couch-guide",
-      "num": "003",
-      "title": "Boneless Couch \u2014 Space-Saving Furniture Guide",
-      "score": 7.6,
-      "path": "ideas/2026-07-08/003-boneless-couch-guide/idea.md"
-    },
-    {
       "date": "2026-05-26",
       "slug": "001-focus-sleeper",
       "num": "001",
@@ -484,7 +460,7 @@
       "date": "2026-06-22",
       "slug": "001-creatine-gummies-guide",
       "num": "001",
-      "title": "",
+      "title": "\ud83d\udea8 App Idea: Creatine Gummies Guide",
       "score": 8.6,
       "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
     },
@@ -580,7 +556,7 @@
       "date": "2026-06-26",
       "slug": "001-suri-toothbrush-guide",
       "num": "001",
-      "title": "",
+      "title": "Suri Toothbrush Guide \u2014 Sustainable Oral CareBuying Guide",
       "score": 0,
       "path": "ideas/2026-06-26/001-suri-toothbrush-guide/idea.md"
     },
@@ -588,7 +564,7 @@
       "date": "2026-06-26",
       "slug": "002-non-slip-shoes-guide",
       "num": "002",
-      "title": "",
+      "title": "Non-Slip Shoes Guide \u2014 Find the Right Slip-Resistant Footwear",
       "score": 0,
       "path": "ideas/2026-06-26/002-non-slip-shoes-guide/idea.md"
     },
@@ -596,7 +572,7 @@
       "date": "2026-06-26",
       "slug": "003-ai-earbuds-guide",
       "num": "003",
-      "title": "",
+      "title": "AI Earbuds Guide \u2014 Find the Perfect Smart Earbuds",
       "score": 0,
       "path": "ideas/2026-06-26/003-ai-earbuds-guide/idea.md"
     },
@@ -628,7 +604,7 @@
       "date": "2026-06-28",
       "slug": "001-eyegym-vision-training",
       "num": "001",
-      "title": "",
+      "title": "\ud83d\udea8 App Idea: EyeGym \u2014 Daily Vision Training",
       "score": 7.8,
       "path": "ideas/2026-06-28/001-eyegym-vision-training/idea.md"
     },
@@ -700,7 +676,7 @@
       "date": "2026-07-04",
       "slug": "001-luxury-bag-charm-guide",
       "num": "001",
-      "title": "Luxury Bag Charm Guide",
+      "title": "CharmCraft \u2014 Luxury Bag Charm Guide",
       "score": 8.4,
       "path": "ideas/2026-07-04/001-luxury-bag-charm-guide/idea.md"
     },
@@ -708,7 +684,7 @@
       "date": "2026-07-04",
       "slug": "002-viwoods-eink-companion",
       "num": "002",
-      "title": "Viwoods E-ink Companion",
+      "title": "ViReader \u2014 Viwoods E-ink Companion",
       "score": 8.2,
       "path": "ideas/2026-07-04/002-viwoods-eink-companion/idea.md"
     },
@@ -716,32 +692,32 @@
       "date": "2026-07-04",
       "slug": "003-color-drenching-paint-guide",
       "num": "003",
-      "title": "Color Drenching Paint Guide",
-      "score": 8.4,
+      "title": "ColorDrench \u2014 Paint Color Drenching Guide",
+      "score": 8.2,
       "path": "ideas/2026-07-04/003-color-drenching-paint-guide/idea.md"
     },
     {
       "date": "2026-07-05",
       "slug": "001-ai-earbuds-companion",
       "num": "001",
-      "title": "AI Earbuds Companion App",
-      "score": 8.4,
+      "title": "AI Earbuds Companion App \u2014 Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-05/001-ai-earbuds-companion/idea.md"
     },
     {
       "date": "2026-07-05",
       "slug": "002-smart-toothbrush-tracker",
       "num": "002",
-      "title": "Smart Toothbrush Tracker",
-      "score": 8.2,
+      "title": "Smart Toothbrush Tracker \u2014 Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-05/002-smart-toothbrush-tracker/idea.md"
     },
     {
       "date": "2026-07-05",
       "slug": "003-workwhile-tracker",
       "num": "003",
-      "title": "Workwhile Remote Work Tracker",
-      "score": 8.0,
+      "title": "Workwhile Remote Work Tracker \u2014 Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-05/003-workwhile-tracker/idea.md"
     },
     {
@@ -770,7 +746,7 @@
     },
     {
       "date": "2026-07-07",
-      "slug": "prompt-engineering",
+      "slug": "001-prompt-engineering",
       "num": "001",
       "title": "Prompt Engineering",
       "score": 8.0,
@@ -778,7 +754,7 @@
     },
     {
       "date": "2026-07-07",
-      "slug": "cold-plunge-sauna",
+      "slug": "002-cold-plunge-sauna",
       "num": "002",
       "title": "Cold Plunge Sauna",
       "score": 7.0,
@@ -786,41 +762,65 @@
     },
     {
       "date": "2026-07-07",
-      "slug": "plaud-note",
+      "slug": "003-plaud-note",
       "num": "003",
       "title": "Plaud Note",
       "score": 7.0,
       "path": "ideas/2026-07-07/003-plaud-note/idea.md"
     },
     {
+      "date": "2026-07-08",
+      "slug": "001-osint-tool",
+      "num": "001",
+      "title": "OSINT Tool \u2014 Open Source Intelligence Companion",
+      "score": 8.6,
+      "path": "ideas/2026-07-08/001-osint-tool/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "002-cold-plunge-tracker",
+      "num": "002",
+      "title": "Cold Plunge Tracker \u2014 Hydrotherapy Session Manager",
+      "score": 8.2,
+      "path": "ideas/2026-07-08/002-cold-plunge-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "003-boneless-couch-guide",
+      "num": "003",
+      "title": "Boneless Couch \u2014 Space-Saving Furniture Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-08/003-boneless-couch-guide/idea.md"
+    },
+    {
       "date": "2026-07-10",
       "slug": "001-pet-care-ai",
       "num": "001",
-      "title": "Pet Care AI",
-      "score": 8.4,
+      "title": "Pet Care AI \u2014 AI-Powered Pet Health & Care Companion",
+      "score": 0,
       "path": "ideas/2026-07-10/001-pet-care-ai/idea.md"
     },
     {
       "date": "2026-07-10",
       "slug": "002-osint-tool",
       "num": "002",
-      "title": "OSINT Tool",
-      "score": 8.0,
+      "title": "OSINT Tool \u2014 Open Source Intelligence Companion",
+      "score": 0,
       "path": "ideas/2026-07-10/002-osint-tool/idea.md"
     },
     {
       "date": "2026-07-10",
       "slug": "003-high-speed-hair-dryer-guide",
       "num": "003",
-      "title": "High Speed Hair Dryer Guide",
-      "score": 8.0,
+      "title": "High Speed Hair Dryer Guide \u2014 Buying Guide & Product Finder",
+      "score": 0,
       "path": "ideas/2026-07-10/003-high-speed-hair-dryer-guide/idea.md"
     },
     {
       "date": "2026-07-11",
       "slug": "001-milky-toner-guide",
       "num": "001",
-      "title": "Milky Toner Guide \u2014 K-Beauty Toner Finder",
+      "title": "Milky Toner Guide",
       "score": 9.0,
       "path": "ideas/2026-07-11/001-milky-toner-guide/idea.md"
     },
@@ -828,7 +828,7 @@
       "date": "2026-07-11",
       "slug": "002-baby-bottle-washer-guide",
       "num": "002",
-      "title": "Baby Bottle Washer Guide \u2014 Bottle Cleaning Machine Reviews",
+      "title": "Baby Bottle Washer Guide",
       "score": 8.8,
       "path": "ideas/2026-07-11/002-baby-bottle-washer-guide/idea.md"
     },
@@ -836,7 +836,7 @@
       "date": "2026-07-11",
       "slug": "003-wifi-7-router-guide",
       "num": "003",
-      "title": "Wifi 7 Router Guide \u2014 802.11be Router Finder",
+      "title": "Wifi 7 Router Guide",
       "score": 8.6,
       "path": "ideas/2026-07-11/003-wifi-7-router-guide/idea.md"
     },
@@ -845,7 +845,7 @@
       "slug": "001-cold-plunge-protocol",
       "num": "001",
       "title": "Cold Plunge Protocol \u2014 Hydrotherapy Session Guide",
-      "score": 8.2,
+      "score": 0,
       "path": "ideas/2026-07-12/001-cold-plunge-protocol/idea.md"
     },
     {
@@ -853,7 +853,7 @@
       "slug": "002-ai-video-generator",
       "num": "002",
       "title": "AI Video Generator \u2014 Mobile Video Creation App",
-      "score": 7.8,
+      "score": 0,
       "path": "ideas/2026-07-12/002-ai-video-generator/idea.md"
     },
     {
@@ -861,14 +861,14 @@
       "slug": "003-cryotherapy-protocol",
       "num": "003",
       "title": "Cryotherapy Protocol \u2014 Cold Therapy Guide & Tracker",
-      "score": 7.8,
+      "score": 0,
       "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
     },
     {
       "date": "2026-07-13",
       "slug": "001-ai-voice-detector",
       "num": "001",
-      "title": "AI Voice Detector \u2014 Deepfake Audio Finder",
+      "title": "AI Voice Detector",
       "score": 8.6,
       "path": "ideas/2026-07-13/001-ai-voice-detector/idea.md"
     },
@@ -876,7 +876,7 @@
       "date": "2026-07-13",
       "slug": "002-gender-affirming-care-guide",
       "num": "002",
-      "title": "Gender Affirming Care Guide \u2014 Trans Healthcare",
+      "title": "Gender Affirming Care Guide",
       "score": 8.2,
       "path": "ideas/2026-07-13/002-gender-affirming-care-guide/idea.md"
     },
@@ -884,7 +884,7 @@
       "date": "2026-07-13",
       "slug": "003-deepfake-audio-detector",
       "num": "003",
-      "title": "Deepfake Audio Detector \u2014 Voice Verification",
+      "title": "Deepfake Audio Detector",
       "score": 7.8,
       "path": "ideas/2026-07-13/003-deepfake-audio-detector/idea.md"
     },
@@ -892,7 +892,7 @@
       "date": "2026-07-14",
       "slug": "001-ai-observability-platform",
       "num": "001",
-      "title": "AI Observability Platform \u2014 Model Monitor",
+      "title": "AI Observability Platform",
       "score": 8.2,
       "path": "ideas/2026-07-14/001-ai-observability-platform/idea.md"
     },
@@ -900,7 +900,7 @@
       "date": "2026-07-14",
       "slug": "002-agentic-orchestration",
       "num": "002",
-      "title": "Agentic Orchestration \u2014 AI Workflow Builder",
+      "title": "Agentic Orchestration",
       "score": 7.6,
       "path": "ideas/2026-07-14/002-agentic-orchestration/idea.md"
     },
@@ -908,7 +908,7 @@
       "date": "2026-07-14",
       "slug": "003-ai-toy-companion",
       "num": "003",
-      "title": "AI Toy Companion \u2014 Kids Learning",
+      "title": "AI Toy Companion",
       "score": 7.6,
       "path": "ideas/2026-07-14/003-ai-toy-companion/idea.md"
     },
@@ -917,7 +917,7 @@
       "slug": "001-ai-token-usage-monitor",
       "num": "001",
       "title": "AI Token Usage Monitor \u2014 AI Cost Tracker",
-      "score": 7.8,
+      "score": 0,
       "path": "ideas/2026-07-15/001-ai-token-usage-monitor/idea.md"
     },
     {
@@ -925,7 +925,7 @@
       "slug": "002-fractional-coo-kit",
       "num": "002",
       "title": "Fractional COO Onboarding Kit \u2014 Executive Operations Guide",
-      "score": 7.8,
+      "score": 0,
       "path": "ideas/2026-07-15/002-fractional-coo-kit/idea.md"
     },
     {
@@ -933,7 +933,7 @@
       "slug": "003-growthbook-dashboard",
       "num": "003",
       "title": "Growthbook Analytics Dashboard \u2014 Feature Flag Companion",
-      "score": 7.4,
+      "score": 0,
       "path": "ideas/2026-07-15/003-growthbook-dashboard/idea.md"
     },
     {
@@ -941,47 +941,47 @@
       "slug": "001-answer-engine-optimizer",
       "num": "001",
       "title": "Answer Engine Optimizer \u2014 AI Search Ranking Tool",
-      "score": 8.4,
+      "score": 0,
       "path": "ideas/2026-07-16/001-answer-engine-optimizer/idea.md"
-    },
-    {
-      "date": "2026-07-16",
-      "slug": "002-morelogin",
-      "num": "002",
-      "title": "MoreLogin \u2014 Multi-Account Browser Manager",
-      "score": 8.0,
-      "path": "ideas/2026-07-16/002-morelogin/idea.md"
-    },
-    {
-      "date": "2026-07-16",
-      "slug": "003-antidetect-browser",
-      "num": "003",
-      "title": "Antidetect Browser \u2014 Privacy-First Multi-Login",
-      "score": 7.8,
-      "path": "ideas/2026-07-16/003-antidetect-browser/idea.md"
     },
     {
       "date": "2026-07-16",
       "slug": "001-ghana-login-hub",
       "num": "001",
-      "title": "Ghana Login Hub - Unified Authentication for Ghana's Digital Ecosystem",
-      "score": 7.6,
+      "title": "Ghana Login Hub \u2014 Unified Authentication for Ghana's Digital Ecosystem",
+      "score": 0,
       "path": "ideas/2026-07-16/001-ghana-login-hub/idea.md"
     },
     {
       "date": "2026-07-16",
       "slug": "001-login-orchestrator",
       "num": "001",
-      "title": "Login Orchestrator - Intelligent Multi-Account Manager",
-      "score": 8.4,
+      "title": "Login Orchestrator \u2014 Intelligent Multi-Account Manager",
+      "score": 0,
       "path": "ideas/2026-07-16/001-login-orchestrator/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "002-morelogin",
+      "num": "002",
+      "title": "MoreLogin - Multi-Account Browser Manager",
+      "score": 0,
+      "path": "ideas/2026-07-16/002-morelogin/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "003-antidetect-browser",
+      "num": "003",
+      "title": "Antidetect Browser - Privacy-First Multi-Login",
+      "score": 0,
+      "path": "ideas/2026-07-16/003-antidetect-browser/idea.md"
     },
     {
       "date": "2026-07-17",
       "slug": "001-ugc-creator",
       "num": "001",
       "title": "UGC Creator \u2014 User-Generated Content Campaign Manager",
-      "score": 8.4,
+      "score": 8.2,
       "path": "ideas/2026-07-17/001-ugc-creator/idea.md"
     },
     {
@@ -989,7 +989,7 @@
       "slug": "002-zebra-design-guide",
       "num": "002",
       "title": "Zebra Design Guide \u2014 Interior Stripe Pattern Reference",
-      "score": 8.0,
+      "score": 7.8,
       "path": "ideas/2026-07-17/002-zebra-design-guide/idea.md"
     },
     {
@@ -997,108 +997,60 @@
       "slug": "003-toaster-guide",
       "num": "003",
       "title": "Toaster Guide \u2014 Slim & Cordless Appliance Companion",
-      "score": 8.0,
+      "score": 7.8,
       "path": "ideas/2026-07-17/003-toaster-guide/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "001-antarctic-krill-oil",
-      "num": "001",
-      "title": "Antarctic Krill Oil",
-      "score": 9.5,
-      "path": "ideas/2026-07-19/001-antarctic-krill-oil/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "002-emerald-bracelet",
-      "num": "002",
-      "title": "Emerald Bracelet",
-      "score": 9.5,
-      "path": "ideas/2026-07-19/002-emerald-bracelet/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "003-mesh-ballet-flats",
-      "num": "003",
-      "title": "Mesh Ballet Flats",
-      "score": 9.5,
-      "path": "ideas/2026-07-19/003-mesh-ballet-flats/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "001-solarpunk",
-      "num": "001",
-      "title": "Solarpunk",
-      "score": 8.6,
-      "path": "ideas/2026-07-19/001-solarpunk/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "002-barrel-leg-pants",
-      "num": "002",
-      "title": "Barrel Leg Pants",
-      "score": 8.6,
-      "path": "ideas/2026-07-19/002-barrel-leg-pants/idea.md"
-    },
-    {
-      "date": "2026-07-19",
-      "slug": "003-collaborative-robotics",
-      "num": "003",
-      "title": "Collaborative Robotics",
-      "score": 8.6,
-      "path": "ideas/2026-07-19/003-collaborative-robotics/idea.md"
     },
     {
       "date": "2026-07-19",
       "slug": "001-responsible-ai",
       "num": "001",
-      "title": "Responsible AI",
-      "score": 8.6,
+      "title": "ResponsibleAI - Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-19/001-responsible-ai/idea.md"
     },
     {
       "date": "2026-07-19",
       "slug": "002-ai-seo",
       "num": "002",
-      "title": "AI SEO",
-      "score": 8.6,
+      "title": "AISEO - Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-19/002-ai-seo/idea.md"
     },
     {
       "date": "2026-07-19",
       "slug": "003-ai-robot-dog",
       "num": "003",
-      "title": "AI Robot Dog",
-      "score": 8.6,
+      "title": "AIRobotDog - Requirements Document",
+      "score": 0,
       "path": "ideas/2026-07-19/003-ai-robot-dog/idea.md"
     },
     {
       "date": "2026-07-21",
-      "slug": "zebra-striping",
+      "slug": "001-zebra-striping",
       "num": "001",
       "title": "Zebra Striping",
-      "score": 8.2,
+      "score": 0,
       "path": "ideas/2026-07-21/001-zebra-striping/idea.md"
     },
     {
       "date": "2026-07-21",
-      "slug": "slim-toaster",
+      "slug": "002-slim-toaster",
       "num": "002",
       "title": "Slim Toaster",
-      "score": 8.2,
+      "score": 0,
       "path": "ideas/2026-07-21/002-slim-toaster/idea.md"
     },
     {
       "date": "2026-07-21",
-      "slug": "cordless-blender",
+      "slug": "003-cordless-blender",
       "num": "003",
       "title": "Cordless Blender",
-      "score": 8.2,
+      "score": 0,
       "path": "ideas/2026-07-21/003-cordless-blender/idea.md"
     },
     {
       "date": "2026-07-23",
-      "slug": "001-non-homogenized-milk-guide",
+      "slug": "001-non-homogenized",
       "num": "001",
       "title": "Non-Homogenized Milk Guide \u2014 Grass-Fed Dairy Tracker",
       "score": 8.2,
@@ -1106,7 +1058,7 @@
     },
     {
       "date": "2026-07-23",
-      "slug": "002-birch-juice-sunscreen-guide",
+      "slug": "002-birch-juice",
       "num": "002",
       "title": "Birch Juice Sunscreen Guide \u2014 Korean Beauty SPF Tracker",
       "score": 8.0,
@@ -1114,7 +1066,7 @@
     },
     {
       "date": "2026-07-23",
-      "slug": "003-pdrn-toner-guide",
+      "slug": "003-pdrn-toner",
       "num": "003",
       "title": "PDRN Toner Guide \u2014 Skincare Recovery Tracker",
       "score": 7.8,
@@ -1233,10 +1185,34 @@
       "path": "ideas/2026-07-28/003-cellular-repair-guide/idea.md"
     },
     {
+      "date": "2026-07-30",
+      "slug": "001-hypochlorous-acid-generator",
+      "num": "001",
+      "title": "Hypochlorous Acid Generator \u2014 DIY Sanitization Companion",
+      "score": 8.4,
+      "path": "ideas/2026-07-30/001-hypochlorous-acid-generator/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "002-mycoprotein-cultivation",
+      "num": "002",
+      "title": "Mycoprotein Cultivation \u2014 Alternative Protein Grower",
+      "score": 7.8,
+      "path": "ideas/2026-07-30/002-mycoprotein-cultivation/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "003-miso-paste-fermentation",
+      "num": "003",
+      "title": "Miso Paste Fermentation \u2014 Japanese Fermentation Companion",
+      "score": 7.4,
+      "path": "ideas/2026-07-30/003-miso-paste-fermentation/idea.md"
+    },
+    {
       "date": "2026-07-31",
       "slug": "001-penpot-companion",
       "num": "001",
-      "title": "Penpot Companion \u2014 Design Workflow Manager",
+      "title": "Penpot Companion",
       "score": 8.6,
       "path": "ideas/2026-07-31/001-penpot-companion/idea.md"
     },
@@ -1244,7 +1220,7 @@
       "date": "2026-07-31",
       "slug": "002-clean-girl-aesthetic",
       "num": "002",
-      "title": "Clean Girl Aesthetic \u2014 Beauty Guide & Community",
+      "title": "Clean Girl Aesthetic",
       "score": 8.6,
       "path": "ideas/2026-07-31/002-clean-girl-aesthetic/idea.md"
     },
@@ -1252,7 +1228,7 @@
       "date": "2026-07-31",
       "slug": "003-owala-companion",
       "num": "003",
-      "title": "Owala Companion \u2014 Hydration Tracker",
+      "title": "Owala Companion",
       "score": 8.4,
       "path": "ideas/2026-07-31/003-owala-companion/idea.md"
     },
@@ -1260,24 +1236,24 @@
       "date": "2026-08-01",
       "slug": "001-qamaria-yemeni-coffee",
       "num": "001",
-      "title": "Qamaria Yemeni Coffee \u2014 Authentic Mocha Coffee Guide",
-      "score": 7.4,
+      "title": "Qamaria Yemeni Coffee",
+      "score": 0,
       "path": "ideas/2026-08-01/001-qamaria-yemeni-coffee/idea.md"
     },
     {
       "date": "2026-08-01",
       "slug": "002-fastmoss",
       "num": "002",
-      "title": "Fastmoss \u2014 TikTok Shop Product Manager",
-      "score": 7.4,
+      "title": "Fastmoss",
+      "score": 0,
       "path": "ideas/2026-08-01/002-fastmoss/idea.md"
     },
     {
       "date": "2026-08-01",
       "slug": "003-suri-toothbrush",
       "num": "003",
-      "title": "Suri Toothbrush \u2014 Hair-Free Oral Care Companion",
-      "score": 7.2,
+      "title": "Suri Toothbrush",
+      "score": 0,
       "path": "ideas/2026-08-01/003-suri-toothbrush/idea.md"
     },
     {
@@ -1329,30 +1305,6 @@
       "path": "ideas/2026-08-03/003-agricultural-marketplace/idea.md"
     },
     {
-      "date": "2026-08-04",
-      "slug": "001-clinical-notes-ai",
-      "num": "001",
-      "title": "Clinical Notes AI",
-      "score": 7.8,
-      "path": "ideas/2026-08-04/001-clinical-notes-ai/idea.md"
-    },
-    {
-      "date": "2026-08-04",
-      "slug": "002-crypto-portfolio-rebalancer",
-      "num": "002",
-      "title": "Crypto Portfolio Rebalancer",
-      "score": 8.4,
-      "path": "ideas/2026-08-04/002-crypto-portfolio-rebalancer/idea.md"
-    },
-    {
-      "date": "2026-08-04",
-      "slug": "003-paleo-recipe-generator",
-      "num": "003",
-      "title": "Paleo Recipe Generator",
-      "score": 7.8,
-      "path": "ideas/2026-08-04/003-paleo-recipe-generator/idea.md"
-    },
-    {
       "date": "2026-08-12",
       "slug": "001-prompt-engineering-assistant",
       "num": "001",
@@ -1377,6 +1329,6 @@
       "path": "ideas/2026-08-12/003-response-ai-optimization/idea.md"
     }
   ],
-  "last_updated": "2026-08-12",
-  "total": 172
+  "last_updated": "2026-08-12T10:39:08.380493Z",
+  "total": 166
 }
