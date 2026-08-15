@@ -1327,8 +1327,56 @@
       "title": "Response AI Optimization",
       "score": 8.0,
       "path": "ideas/2026-08-12/003-response-ai-optimization/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "001-voice-deepfake-detector",
+      "num": "001",
+      "title": "Voice Deepfake Detector",
+      "score": 8.6,
+      "path": "ideas/2026-08-13/001-voice-deepfake-detector/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "002-ethical-ai-compliance",
+      "num": "002",
+      "title": "Ethical AI Compliance",
+      "score": 8.0,
+      "path": "ideas/2026-08-13/002-ethical-ai-compliance/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "003-bio-responsive-beauty",
+      "num": "003",
+      "title": "Bio-responsive Beauty App",
+      "score": 8.2,
+      "path": "ideas/2026-08-13/003-bio-responsive-beauty/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "001-ai-ethics-compliance-checker",
+      "num": "001",
+      "title": "AI Ethics Compliance Checker",
+      "score": 8.1,
+      "path": "ideas/2026-08-15/001-ai-ethics-compliance-checker/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "002-allergen-free-feeding-guide",
+      "num": "002",
+      "title": "Allergen-free Feeding Guide",
+      "score": 7.9,
+      "path": "ideas/2026-08-15/002-allergen-free-feeding-guide/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "003-digital-minimalism-planner",
+      "num": "003",
+      "title": "Digital Minimalism Planner",
+      "score": 7.7,
+      "path": "ideas/2026-08-15/003-digital-minimalism-planner/idea.md"
     }
   ],
-  "last_updated": "2026-08-12T10:39:08.380493Z",
-  "total": 166
+  "last_updated": "2026-08-13T04:50:00.000000Z",
+  "total": 172
 }
