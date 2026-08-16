@@ -460,7 +460,7 @@
       "date": "2026-06-22",
       "slug": "001-creatine-gummies-guide",
       "num": "001",
-      "title": "\ud83d\udea8 App Idea: Creatine Gummies Guide",
+      "title": "\ud83e\udda6 App Idea: Creatine Gummies Guide",
       "score": 8.6,
       "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
     },
@@ -604,7 +604,7 @@
       "date": "2026-06-28",
       "slug": "001-eyegym-vision-training",
       "num": "001",
-      "title": "\ud83d\udea8 App Idea: EyeGym \u2014 Daily Vision Training",
+      "title": "\ud83e\udda6 App Idea: EyeGym \u2014 Daily Vision Training",
       "score": 7.8,
       "path": "ideas/2026-06-28/001-eyegym-vision-training/idea.md"
     },
@@ -1002,235 +1002,299 @@
     },
     {
       "date": "2026-07-19",
-      "slug": "001-responsible-ai",
+      "slug": "001-shoe-care-guide",
       "num": "001",
+      "title": "Shoe Care Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-19/001-shoe-care-guide/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "002-fashion-lifestyle",
+      "num": "002",
+      "title": "Fashion Lifestyle Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-19/002-fashion-lifestyle/idea.md"
+    },
+    {
+      "date": "2026-07-20",
+      "slug": "003-electric-shaver-guide",
+      "num": "003",
+      "title": "Electric Shaver Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-20/003-electric-shaver-guide/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "001-ai-personal-assistant",
+      "num": "001",
+      "title": "AI Personal Assistant",
+      "score": 7.8,
+      "path": "ideas/2026-07-21/001-ai-personal-assistant/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "002-responsible-ai",
+      "num": "002",
       "title": "ResponsibleAI - Requirements Document",
       "score": 0,
-      "path": "ideas/2026-07-19/001-responsible-ai/idea.md"
+      "path": "ideas/2026-07-21/002-responsible-ai/idea.md"
     },
     {
-      "date": "2026-07-19",
-      "slug": "002-ai-seo",
-      "num": "002",
+      "date": "2026-07-21",
+      "slug": "003-ai-seo",
+      "num": "003",
       "title": "AISEO - Requirements Document",
       "score": 0,
-      "path": "ideas/2026-07-19/002-ai-seo/idea.md"
+      "path": "ideas/2026-07-21/003-ai-seo/idea.md"
     },
     {
-      "date": "2026-07-19",
-      "slug": "003-ai-robot-dog",
-      "num": "003",
+      "date": "2026-07-21",
+      "slug": "004-ai-robot-dog",
+      "num": "004",
       "title": "AIRobotDog - Requirements Document",
       "score": 0,
-      "path": "ideas/2026-07-19/003-ai-robot-dog/idea.md"
+      "path": "ideas/2026-07-21/004-ai-robot-dog/idea.md"
     },
     {
-      "date": "2026-07-21",
-      "slug": "001-zebra-striping",
+      "date": "2026-07-22",
+      "slug": "001-backlink-strategy",
       "num": "001",
-      "title": "Zebra Striping",
-      "score": 0,
-      "path": "ideas/2026-07-21/001-zebra-striping/idea.md"
-    },
-    {
-      "date": "2026-07-21",
-      "slug": "002-slim-toaster",
-      "num": "002",
-      "title": "Slim Toaster",
-      "score": 0,
-      "path": "ideas/2026-07-21/002-slim-toaster/idea.md"
-    },
-    {
-      "date": "2026-07-21",
-      "slug": "003-cordless-blender",
-      "num": "003",
-      "title": "Cordless Blender",
-      "score": 0,
-      "path": "ideas/2026-07-21/003-cordless-blender/idea.md"
-    },
-    {
-      "date": "2026-07-23",
-      "slug": "001-non-homogenized",
-      "num": "001",
-      "title": "Non-Homogenized Milk Guide \u2014 Grass-Fed Dairy Tracker",
-      "score": 8.2,
-      "path": "ideas/2026-07-23/001-non-homogenized/idea.md"
-    },
-    {
-      "date": "2026-07-23",
-      "slug": "002-birch-juice",
-      "num": "002",
-      "title": "Birch Juice Sunscreen Guide \u2014 Korean Beauty SPF Tracker",
-      "score": 8.0,
-      "path": "ideas/2026-07-23/002-birch-juice/idea.md"
-    },
-    {
-      "date": "2026-07-23",
-      "slug": "003-pdrn-toner",
-      "num": "003",
-      "title": "PDRN Toner Guide \u2014 Skincare Recovery Tracker",
+      "title": "Backlink Strategy Guide",
       "score": 7.8,
-      "path": "ideas/2026-07-23/003-pdrn-toner/idea.md"
+      "path": "ideas/2026-07-22/001-backlink-strategy/idea.md"
     },
     {
-      "date": "2026-07-24",
-      "slug": "001-ai-lighting-app",
-      "num": "001",
-      "title": "AI Lighting App \u2014 Smart Light Orchestration",
-      "score": 8.4,
-      "path": "ideas/2026-07-24/001-ai-lighting-app/idea.md"
-    },
-    {
-      "date": "2026-07-24",
-      "slug": "002-ai-interior-design-app",
+      "date": "2026-07-22",
+      "slug": "002-seo-tools-comparison",
       "num": "002",
-      "title": "AI Interior Design App \u2014 Room Planner & Style Guide",
-      "score": 7.8,
-      "path": "ideas/2026-07-24/002-ai-interior-design-app/idea.md"
-    },
-    {
-      "date": "2026-07-24",
-      "slug": "003-organic-dairy-guide",
-      "num": "003",
-      "title": "Organic Dairy Guide \u2014 Non-Homogenized Milk & Dairy Reference",
-      "score": 7.6,
-      "path": "ideas/2026-07-24/003-organic-dairy-guide/idea.md"
-    },
-    {
-      "date": "2026-07-26",
-      "slug": "001-ai-shoes",
-      "num": "001",
-      "title": "AI Shoes \u2014 Smart Shoe Companion",
-      "score": 8.6,
-      "path": "ideas/2026-07-26/001-ai-shoes/idea.md"
-    },
-    {
-      "date": "2026-07-26",
-      "slug": "002-wolverine-peptide",
-      "num": "002",
-      "title": "Wolverine Peptide \u2014 Biohacker's Peptide Companion",
-      "score": 8.6,
-      "path": "ideas/2026-07-26/002-wolverine-peptide/idea.md"
-    },
-    {
-      "date": "2026-07-26",
-      "slug": "003-tuta-email",
-      "num": "003",
-      "title": "Tuta Email \u2014 Privacy-First Email Companion",
-      "score": 8.6,
-      "path": "ideas/2026-07-26/003-tuta-email/idea.md"
-    },
-    {
-      "date": "2026-07-26",
-      "slug": "004-ai-mini-pc",
-      "num": "004",
-      "title": "AI Mini PC \u2014 Companion App",
-      "score": 8.6,
-      "path": "ideas/2026-07-26/004-ai-mini-pc/idea.md"
-    },
-    {
-      "date": "2026-07-26",
-      "slug": "005-salmon-dna-microneedling",
-      "num": "005",
-      "title": "Salmon DNA Microneedling \u2014 Personalized Beauty Protocol",
-      "score": 8.4,
-      "path": "ideas/2026-07-26/005-salmon-dna-microneedling/idea.md"
-    },
-    {
-      "date": "2026-07-27",
-      "slug": "001-notegpt-companion",
-      "num": "001",
-      "title": "NoteGPT Companion \u2014 AI-Powered Meeting & Lecture Assistant",
-      "score": 8.0,
-      "path": "ideas/2026-07-27/001-notegpt-companion/idea.md"
-    },
-    {
-      "date": "2026-07-27",
-      "slug": "002-tiphaus-companion",
-      "num": "002",
-      "title": "Tiphaus Companion \u2014 Creator Subscriber Management",
-      "score": 8.0,
-      "path": "ideas/2026-07-27/002-tiphaus-companion/idea.md"
-    },
-    {
-      "date": "2026-07-27",
-      "slug": "003-petfolk-community",
-      "num": "003",
-      "title": "Petfolk Community \u2014 Pet Owner Social Network",
-      "score": 7.8,
-      "path": "ideas/2026-07-27/003-petfolk-community/idea.md"
-    },
-    {
-      "date": "2026-07-28",
-      "slug": "001-hypochlorous-acid-spray-guide",
-      "num": "001",
-      "title": "Hypochlorous Acid Spray Guide \u2014 Skincare & Sanitization Companion",
-      "score": 8.4,
-      "path": "ideas/2026-07-28/001-hypochlorous-acid-spray-guide/idea.md"
-    },
-    {
-      "date": "2026-07-28",
-      "slug": "002-silicon-carbon-battery-guide",
-      "num": "002",
-      "title": "Silicon Carbon Battery Guide \u2014 Next-Gen Battery Technology Companion",
-      "score": 8.2,
-      "path": "ideas/2026-07-28/002-silicon-carbon-battery-guide/idea.md"
-    },
-    {
-      "date": "2026-07-28",
-      "slug": "003-cellular-repair-guide",
-      "num": "003",
-      "title": "Cellular Repair Guide \u2014 Oxidative Stress & Longevity Companion",
-      "score": 7.8,
-      "path": "ideas/2026-07-28/003-cellular-repair-guide/idea.md"
-    },
-    {
-      "date": "2026-07-30",
-      "slug": "001-hypochlorous-acid-generator",
-      "num": "001",
-      "title": "Hypochlorous Acid Generator \u2014 DIY Sanitization Companion",
-      "score": 8.4,
-      "path": "ideas/2026-07-30/001-hypochlorous-acid-generator/idea.md"
-    },
-    {
-      "date": "2026-07-30",
-      "slug": "002-mycoprotein-cultivation",
-      "num": "002",
-      "title": "Mycoprotein Cultivation \u2014 Alternative Protein Grower",
-      "score": 7.8,
-      "path": "ideas/2026-07-30/002-mycoprotein-cultivation/idea.md"
-    },
-    {
-      "date": "2026-07-30",
-      "slug": "003-miso-paste-fermentation",
-      "num": "003",
-      "title": "Miso Paste Fermentation \u2014 Japanese Fermentation Companion",
+      "title": "SEO Tools Comparison",
       "score": 7.4,
-      "path": "ideas/2026-07-30/003-miso-paste-fermentation/idea.md"
+      "path": "ideas/2026-07-22/002-seo-tools-comparison/idea.md"
     },
     {
-      "date": "2026-07-31",
-      "slug": "001-penpot-companion",
-      "num": "001",
-      "title": "Penpot Companion",
-      "score": 8.6,
-      "path": "ideas/2026-07-31/001-penpot-companion/idea.md"
-    },
-    {
-      "date": "2026-07-31",
-      "slug": "002-clean-girl-aesthetic",
-      "num": "002",
-      "title": "Clean Girl Aesthetic",
-      "score": 8.6,
-      "path": "ideas/2026-07-31/002-clean-girl-aesthetic/idea.md"
-    },
-    {
-      "date": "2026-07-31",
-      "slug": "003-owala-companion",
+      "date": "2026-07-22",
+      "slug": "003-seo-audit-template",
       "num": "003",
-      "title": "Owala Companion",
-      "score": 8.4,
-      "path": "ideas/2026-07-31/003-owala-companion/idea.md"
+      "title": "SEO Audit Template",
+      "score": 7.2,
+      "path": "ideas/2026-07-22/003-seo-audit-template/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "001-cold-plunge-sauna",
+      "num": "001",
+      "title": "Cold Plunge Sauna Protocol",
+      "score": 7.6,
+      "path": "ideas/2026-07-23/001-cold-plunge-sauna/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "002-sauna-protocol",
+      "num": "002",
+      "title": "Sauna Protocol Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-23/002-sauna-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "003-hydrotherapy-protocol",
+      "num": "003",
+      "title": "Hydrotherapy Protocol",
+      "score": 7.2,
+      "path": "ideas/2026-07-23/003-hydrotherapy-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "001-cold-plunge-burner",
+      "num": "001",
+      "title": "Cold Plunge Burner Protocol",
+      "score": 7.8,
+      "path": "ideas/2026-07-24/001-cold-plunge-burner/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "002-sauna-temperature",
+      "num": "002",
+      "title": "Sauna Temperature Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-24/002-sauna-temperature/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "003-hydrocoach-app",
+      "num": "003",
+      "title": "HydroCoach App",
+      "score": 7.4,
+      "path": "ideas/2026-07-24/003-hydrocoach-app/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "001-walking-pad-workout",
+      "num": "001",
+      "title": "Walking Pad Workout",
+      "score": 7.8,
+      "path": "ideas/2026-07-25/001-walking-pad-workout/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "002-treadmill-desk",
+      "num": "002",
+      "title": "Treadmill Desk Routine",
+      "score": 7.6,
+      "path": "ideas/2026-07-25/002-treadmill-desk/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "003-fitness-walking",
+      "num": "003",
+      "title": "Fitness Walking Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-25/003-fitness-walking/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "001-electrical-diagnostic",
+      "num": "001",
+      "title": "Electrical Diagnostic Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-26/001-electrical-diagnostic/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "002-oil-gas-safety",
+      "num": "002",
+      "title": "Oil Gas Safety Protocols",
+      "score": 7.8,
+      "path": "ideas/2026-07-26/002-oil-gas-safety/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "003-plumbing-troubleshooting",
+      "num": "003",
+      "title": "Plumbing Troubleshooting Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-26/003-plumbing-troubleshooting/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "001-furnace-maintenance",
+      "num": "001",
+      "title": "Furnace Maintenance Checklist",
+      "score": 8.0,
+      "path": "ideas/2026-07-27/001-furnace-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "002-roof-inspection",
+      "num": "002",
+      "title": "Roof Inspection Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-27/002-roof-inspection/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "003-hvac-repair",
+      "num": "003",
+      "title": "HVAC Repair Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-27/003-hvac-repair/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "001-water-heater-guide",
+      "num": "001",
+      "title": "Water Heater Troubleshooting",
+      "score": 8.2,
+      "path": "ideas/2026-07-28/001-water-heater-guide/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "002-garage-door-repair",
+      "num": "002",
+      "title": "Garage Door Repair Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-28/002-garage-door-repair/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "003-dryer-repair",
+      "num": "003",
+      "title": "Dryer Repair Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-28/003-dryer-repair/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "001-lawn-mower-maintenance",
+      "num": "001",
+      "title": "Lawn Mower Maintenance Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-29/001-lawn-mower-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "002-garden-tool-maintenance",
+      "num": "002",
+      "title": "Garden Tool Maintenance",
+      "score": 7.6,
+      "path": "ideas/2026-07-29/002-garden-tool-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "003-chainsaw-safety",
+      "num": "003",
+      "title": "Chainsaw Safety Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-29/003-chainsaw-safety/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "001-well-pump-maintenance",
+      "num": "001",
+      "title": "Well Pump Maintenance Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-30/001-well-pump-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "002-point-of-entry-filter",
+      "num": "002",
+      "title": "Point of Entry Water Filter Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-30/002-point-of-entry-filter/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "003-septic-tank-maintenance",
+      "num": "003",
+      "title": "Septic Tank Maintenance Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-30/003-septic-tank-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "001-pool-filter-cleaning",
+      "num": "001",
+      "title": "Pool Filter Cleaning Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-31/001-pool-filter-cleaning/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "002-spa-equipment-maintenance",
+      "num": "002",
+      "title": "Spa Equipment Maintenance",
+      "score": 8.0,
+      "path": "ideas/2026-07-31/002-spa-equipment-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "003-hot-tub-chemistry",
+      "num": "003",
+      "title": "Hot Tub Chemistry Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-31/003-hot-tub-chemistry/idea.md"
     },
     {
       "date": "2026-08-01",
@@ -1375,8 +1439,32 @@
       "title": "Digital Minimalism Planner",
       "score": 7.7,
       "path": "ideas/2026-08-15/003-digital-minimalism-planner/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "001-depuffing-wand-guide",
+      "num": "001",
+      "title": "Depuffing Wand Guide",
+      "score": 8.7,
+      "path": "ideas/2026-08-16/001-depuffing-wand-guide/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "002-shoe-washing-bag-guide",
+      "num": "002",
+      "title": "Shoe Washing Bag Guide",
+      "score": 8.5,
+      "path": "ideas/2026-08-16/002-shoe-washing-bag-guide/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "003-parasocial-journal",
+      "num": "003",
+      "title": "Parasocial Journal",
+      "score": 8.3,
+      "path": "ideas/2026-08-16/003-parasocial-journal/idea.md"
     }
   ],
-  "last_updated": "2026-08-13T04:50:00.000000Z",
-  "total": 172
+  "last_updated": "2026-08-16T08:00:00.000000Z",
+  "total": 181
 }
