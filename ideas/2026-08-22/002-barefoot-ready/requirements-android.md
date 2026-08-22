@@ -24,7 +24,7 @@
 
 ## 2. Feature Breakdown
 
-Feature set is **identical to iOS §2** (F1–F5 P0, F6–F8 deferred). Same user stories, same priorities, same acceptance criteria. Platform implementation mapping:
+Feature set is **identical to iOS §2** (F1–F5 P0, F6–F9 deferred — F9 landing page is a shared web asset, spec in `landing-page-spec.md`, built after both apps ship). Same user stories, same priorities, same acceptance criteria. Platform implementation mapping:
 
 | Concern | iOS | Android |
 |---------|-----|---------|

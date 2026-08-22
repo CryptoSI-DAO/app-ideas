@@ -64,6 +64,7 @@
 Simple daily soreness log 0–5 with red-flag guidance copy. Deferred.
 ### F7. HealthKit Reminders — P1 (v1.1). Deferred.
 ### F8. Brand/Affiliate Directory — P2 (v1.2, disclosed affiliate links). Deferred.
+### F9. Landing Page — P1 (v1.1). Shared web asset, spec in `landing-page-spec.md`. Free shoe checklist as lead magnet + App Store marketing URL + SEO capture. Build after both apps ship (needs live store URLs).
 
 ---
 
