@@ -1,6 +1,6 @@
 # Barefoot Ready — Landing Page Spec (v1.1, shared asset)
-*Version 1.0 · Generated 2026-08-22 · One static page, no framework, ~1h build*
-*Purpose: App Store marketing URL + SEO capture + top-of-funnel lead magnet. Does NOT give away the paid core.*
+*Version 1.1 · Generated 2026-08-22 · Next.js · ~2h build*
+*Purpose: App Store marketing URL + SEO base for content marketing + top-of-funnel lead magnet. Does NOT give away the paid core.*
 
 ---
 
@@ -9,63 +9,86 @@
 | Decision | Value |
 |----------|-------|
 | Scope | **Shoe Checklist ONLY is free/interactive.** Program + exercises are teased, not shipped |
-| Stack | Single `index.html`, inline CSS + vanilla JS. Zero build step, zero dependencies |
-| Hosting | GitHub Pages (new public repo `barefoot-ready-site`) or Cloudflare Pages — free, HTTPS automatic |
-| Domain | `barefootready.app` if available (~$10/yr) — else default `*.github.io` is acceptable at launch |
-| Analytics | **None** (keeps the "no data collected" story consistent across app + web). Revisit only if traffic justifies privacy-friendly option later |
+| Stack | Next.js 15 (App Router) · TypeScript · Tailwind CSS v4 · fully static (`output: 'export'`) |
+| Hosting | **Vercel free tier** (auto HTTPS, preview deploys per commit). Static export also portable to GitHub Pages/Cloudflare Pages if ever needed |
+| Domain | `barefootready.app` if available (~$10/yr) — else default `*.vercel.app` acceptable at launch |
+| Analytics | **None** (keeps "no data collected" story consistent across app + web). Revisit only if traffic justifies privacy-friendly option later |
+| Content-marketing path | Repo structured so `/blog` (MDX) can be added post-launch without refactor — that's how we eventually outrank affiliate blogs on long-tail terms |
 | Role in listings | iOS App Store "Marketing URL" + Play Store "Website" field both point here |
-| Estimated build | ~1 hour |
+| Estimated build | ~2 hours |
 
-## 2. Page Structure (single scroll)
+## 2. Project Structure
 
-1. **Hero** — app name (SF Pro fallback stack: `-apple-system, Roboto, sans-serif`), one-liner *"Your 8-week plan to switch to barefoot shoes safely."*, two store badges (Apple/Google official SVG badges), hero visual = app icon mark (bare footprint on cream)
-2. **Free tool: Shoe Checklist** — the 12 items from `checklist.json`, rendered as toggle cards grouped Fit / Build / Test, live "9/12 ready" score bar. State kept in `localStorage` only. Under it: *"The full app turns this into an 8-week plan."* + store badges again
-3. **Teaser: the program** — static graphic of the 4 phases (Adapt → Strengthen → Load → Run) with 1-line descriptions. No day-by-day content. "Unlock in the app" CTA
-4. **Teaser: exercises** — 3 sample exercise names shown (Short Foot, Toe Splay, Eccentric Calf Raises) + "+15 more in the app". No instructions shown
-5. **FAQ** — 4 items: "Do I need special shoes?" / "How long does transition take?" / "Is it safe?" (answer includes red-flag copy + consult-clinician line) / "iOS & Android?"
-6. **Footer** — medical disclaimer verbatim from F5, copyright, contact link. No cookie banner needed (no analytics/cookies set)
+```
+barefoot-ready-site/
+├── app/
+│   ├── layout.tsx          # root layout + Metadata API (title, description, OG)
+│   ├── page.tsx            # the landing page (all sections §3)
+│   ├── globals.css         # Tailwind entry + brand tokens as CSS vars
+│   └── opengraph-image.png # 1200×630 static (simpler than OG runtime gen)
+├── components/
+│   ├── Hero.tsx
+│   ├── ShoeChecklist.tsx   # interactive lead magnet (client component)
+│   ├── ProgramTeaser.tsx
+│   ├── ExerciseTeaser.tsx
+│   ├── FAQ.tsx
+│   └── Footer.tsx
+├── data/checklist.json     # copy of iOS Resources/checklist.json (single source of truth stays iOS)
+└── public/                 # store badges SVG (self-hosted), favicon, og image
+```
 
-## 3. Content Source
+No Supabase, no API routes, no server state. Everything renders at build time. The only client component is `ShoeChecklist` (interactivity).
 
-Copy `checklist.json` from the iOS project `Resources/` into the site repo. Page JS fetches/embeds it (inline the JSON in a `<script type="application/json">` block at build time — keep it a copy, single source of truth remains the iOS project).
+## 3. Page Sections (single scroll)
+
+1. **Hero** — app name, one-liner *"Your 8-week plan to switch to barefoot shoes safely."*, two store badges (Apple/Google official SVGs), icon mark (bare footprint on cream)
+2. **Free tool: Shoe Checklist** — 12 items from `data/checklist.json`, toggle cards grouped Fit / Build / Test, live "9/12 ready" score bar, state in `localStorage`. Under it: *"The full app turns this into an 8-week plan."* + store badges again
+3. **Teaser: the program** — static graphic, 4 phases (Adapt → Strengthen → Load → Run), 1-line each. No day-by-day content. "Unlock in the app" CTA
+4. **Teaser: exercises** — 3 names shown (Short Foot, Toe Splay, Eccentric Calf Raises) + "+15 more in the app". No instructions
+5. **FAQ** — 4 items: "Do I need special shoes?" / "How long does transition take?" / "Is it safe?" (includes red-flag copy + consult-clinician line) / "iOS & Android?"
+6. **Footer** — medical disclaimer verbatim from F5, copyright, contact. No cookie banner (no cookies set)
 
 ## 4. Design Tokens
 
-Same brand palette: moss `#3E7C4F`, sand `#D9B26A`, cream `#FAF7F0`, text `#2B2118`, error `#B91C1C`. Light mode only (web landing page). Max content width 680px, generous whitespace, radius 16px cards. No dark mode in v1 of the page.
+Same palette: moss `#3E7C4F`, sand `#D9B26A`, cream `#FAF7F0`, text `#2B2118`, error `#B91C1C`, defined once as CSS vars consumed by Tailwind. Light mode only. Max content width 680px, radius 16px cards, generous whitespace. Font: system stack (`-apple-system, Roboto, sans-serif`).
 
-## 5. SEO / Metadata (the real reason this page exists)
+## 5. SEO / Metadata
 
-```html
-<title>Barefoot Ready — Safe Barefoot Shoe Transition in 8 Weeks</title>
-<meta name="description" content="Free barefoot shoe buying checklist plus a structured
-8-week transition program. Strengthen your feet, avoid injury, switch safely. iOS & Android.">
-<!-- OG -->
-<meta property="og:title" content="Barefoot Ready — 8-Week Barefoot Shoe Transition Coach">
-<meta property="og:description" content="Free shoe checklist + full transition program in the app.">
-<meta property="og:image" content="[absolute URL to og-image.png 1200×630, cream bg + footprint + wordmark]">
-<!-- JSON-LD -->
-<script type="application/ld+json">
+Use Next Metadata API in `layout.tsx` (build-time rendered into `<head>`):
+
+```ts
+export const metadata: Metadata = {
+  title: "Barefoot Ready — Safe Barefoot Shoe Transition in 8 Weeks",
+  description: "Free barefoot shoe buying checklist plus a structured 8-week transition program. Strengthen your feet, avoid injury, switch safely. iOS & Android.",
+  openGraph: { title: "...", description: "...", images: ["/opengraph-image.png"] },
+}
+```
+
+Plus JSON-LD in `page.tsx`:
+```json
 {"@context":"https://schema.org","@type":"SoftwareApplication",
  "name":"Barefoot Ready","operatingSystem":"iOS, Android",
  "applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"1.99","priceCurrency":"USD"}}
-</script>
 ```
 
-Target queries (long-tail, winnable vs. affiliate blogs): "barefoot shoe checklist", "what to look for in barefoot shoes", "barefoot shoe transition plan app". Do NOT chase "best barefoot shoes 2026" — unwinnable.
+Target queries (long-tail, winnable): "barefoot shoe checklist", "what to look for in barefoot shoes", "barefoot shoe transition plan app". Do NOT chase "best barefoot shoes 2026" — unwinnable vs. established affiliate blogs for now; that's future blog-post territory.
 
 ## 6. Acceptance Criteria
 
-- [ ] Single HTML file < 60KB total, loads offline after first visit (tiny inline service worker optional — skip if it complicates)
+- [ ] `next build` succeeds with `output: 'export'`; deploys to Vercel free tier
 - [ ] Checklist toggles + score work, persist in localStorage
-- [ ] Both store badges link to live listings (placeholder `#` until apps are approved — set `rel="noopener"`, swap URLs at launch)
-- [ ] Lighthouse: Performance ≥ 95, Accessibility ≥ 95, SEO ≥ 95
-- [ ] No cookies, no external requests except store badge SVGs (self-host them)
+- [ ] Both store badges link to live listings (placeholder `#` until approved, swap URLs at launch)
+- [ ] Lighthouse (mobile): Performance ≥ 95, Accessibility ≥ 95, SEO ≥ 95; first-load JS ≤ 100KB
+- [ ] Zero external requests (badges/fonts self-hosted); system font stack only
 - [ ] Disclaimer present in footer + FAQ safety answer
+- [ ] `/blog` route stub NOT shipped yet — repo structure just must not preclude it
 
 ## 7. Build Order
 
-1. HTML skeleton + tokens + hero
-2. Checklist component (render from embedded JSON, toggle logic, score bar, localStorage)
-3. Teaser sections + FAQ + footer
-4. Meta/OG/JSON-LD + og-image.png
-5. Lighthouse pass, deploy to GitHub Pages, verify live URL
+1. Scaffold `create-next-app@latest` (TS + Tailwind + App Router), set `output: 'export'`, tokens as CSS vars
+2. Copy `checklist.json` from iOS project into `data/`
+3. Layout + metadata + hero
+4. `ShoeChecklist.tsx` (client component: render, toggle, score bar, localStorage)
+5. Teaser sections + FAQ + footer
+6. OG image + store badge assets + JSON-LD
+7. Lighthouse pass → deploy Vercel → verify live URL + meta tags in view-source
