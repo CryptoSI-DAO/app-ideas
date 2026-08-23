@@ -1,1542 +1,1566 @@
 {
- "ideas": [
-  {
-   "date": "2026-05-26",
-   "slug": "001-focus-sleeper",
-   "num": "001",
-   "title": "Focus Sleeper — AI Sleep & Focus Sound Mixer",
-   "score": 8.2,
-   "path": "ideas/2026-05-26/001-focus-sleeper/idea.md"
-  },
-  {
-   "date": "2026-05-26",
-   "slug": "002-splitsheet",
-   "num": "002",
-   "title": "Splitsheet — Beautiful Expense Splitting with Receipt OCR",
-   "score": 7.6,
-   "path": "ideas/2026-05-26/002-splitsheet/idea.md"
-  },
-  {
-   "date": "2026-05-26",
-   "slug": "003-interval",
-   "num": "003",
-   "title": "Interval — Smart Workout Timer with Progressive Overload",
-   "score": 7.4,
-   "path": "ideas/2026-05-26/003-interval/idea.md"
-  },
-  {
-   "date": "2026-05-27",
-   "slug": "001-pasta-shapes-guide",
-   "num": "001",
-   "title": "Pasta Shapes Guide",
-   "score": 8.4,
-   "path": "ideas/2026-05-27/001-pasta-shapes-guide/idea.md"
-  },
-  {
-   "date": "2026-05-27",
-   "slug": "002-scoville-heat-guide",
-   "num": "002",
-   "title": "Scoville Heat Guide",
-   "score": 8.0,
-   "path": "ideas/2026-05-27/002-scoville-heat-guide/idea.md"
-  },
-  {
-   "date": "2026-05-27",
-   "slug": "003-spice-substitution-guide",
-   "num": "003",
-   "title": "Spice Substitution Guide",
-   "score": 7.8,
-   "path": "ideas/2026-05-27/003-spice-substitution-guide/idea.md"
-  },
-  {
-   "date": "2026-05-30",
-   "slug": "001-sleep-hygiene-guide",
-   "num": "001",
-   "title": "Sleep Hygiene Guide",
-   "score": 8.4,
-   "path": "ideas/2026-05-30/001-sleep-hygiene-guide/idea.md"
-  },
-  {
-   "date": "2026-05-30",
-   "slug": "002-contrast-therapy-protocol",
-   "num": "002",
-   "title": "Contrast Therapy Protocol",
-   "score": 7.6,
-   "path": "ideas/2026-05-30/002-contrast-therapy-protocol/idea.md"
-  },
-  {
-   "date": "2026-05-30",
-   "slug": "003-food-shelf-life-guide",
-   "num": "003",
-   "title": "Food Shelf Life Guide",
-   "score": 7.6,
-   "path": "ideas/2026-05-30/003-food-shelf-life-guide/idea.md"
-  },
-  {
-   "date": "2026-05-31",
-   "slug": "001-privacy-rights-tracker",
-   "num": "001",
-   "title": "Privacy Rights Tracker",
-   "score": 7.8,
-   "path": "ideas/2026-05-31/001-privacy-rights-tracker/idea.md"
-  },
-  {
-   "date": "2026-05-31",
-   "slug": "002-lunar-calendar-guide",
-   "num": "002",
-   "title": "Moon Phase — Lunar Calendar Guide",
-   "score": 7.4,
-   "path": "ideas/2026-05-31/002-lunar-calendar-guide/idea.md"
-  },
-  {
-   "date": "2026-05-31",
-   "slug": "003-digital-wellness-score",
-   "num": "003",
-   "title": "Screen sober — Digital Wellness Score",
-   "score": 7.6,
-   "path": "ideas/2026-05-31/003-digital-wellness-score/idea.md"
-  },
-  {
-   "date": "2026-06-02",
-   "slug": "001-creatine-tracker",
-   "num": "001",
-   "title": "CreatineTracker",
-   "score": 8.2,
-   "path": "ideas/2026-06-02/001-creatine-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-02",
-   "slug": "002-seed-oil-scanner",
-   "num": "002",
-   "title": "SeedOilScan",
-   "score": 8.0,
-   "path": "ideas/2026-06-02/002-seed-oil-scanner/idea.md"
-  },
-  {
-   "date": "2026-06-02",
-   "slug": "003-walking-pad-log",
-   "num": "003",
-   "title": "WalkDesk — Under-Desk Walk Tracker",
-   "score": 7.6,
-   "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
-  },
-  {
-   "date": "2026-06-03",
-   "slug": "001-food-holiday-guide",
-   "num": "001",
-   "title": "Food Holiday Guide",
-   "score": 7.8,
-   "path": "ideas/2026-06-03/001-food-holiday-guide/idea.md"
-  },
-  {
-   "date": "2026-06-03",
-   "slug": "002-love-island-companion",
-   "num": "002",
-   "title": "Love Island USA S8 Companion",
-   "score": 7.4,
-   "path": "ideas/2026-06-03/002-love-island-companion/idea.md"
-  },
-  {
-   "date": "2026-06-03",
-   "slug": "003-gaming-event-tracker",
-   "num": "003",
-   "title": "Gaming Event Tracker",
-   "score": 7.2,
-   "path": "ideas/2026-06-03/003-gaming-event-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-04",
-   "slug": "001-screwworm-watch",
-   "num": "001",
-   "title": "Screwworm Watch — Outbreak Guide & Safety Checklist",
-   "score": 7.6,
-   "path": "ideas/2026-06-04/001-screwworm-watch/idea.md"
-  },
-  {
-   "date": "2026-06-04",
-   "slug": "002-aurora-photo-guide",
-   "num": "002",
-   "title": "Aurora Photo Guide — iPhone Northern Lights Photography",
-   "score": 7.2,
-   "path": "ideas/2026-06-04/002-aurora-photo-guide/idea.md"
-  },
-  {
-   "date": "2026-06-04",
-   "slug": "003-world-cup-meals-tracker",
-   "num": "003",
-   "title": "World Cup Meals Tracker — McDonald's FIFA Collectibles",
-   "score": 7.0,
-   "path": "ideas/2026-06-04/003-world-cup-meals-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-05",
-   "slug": "001-food-holiday-calendar",
-   "num": "001",
-   "title": "Food Holiday Calendar — Daily Food Celebrations & Deals",
-   "score": 8.0,
-   "path": "ideas/2026-06-05/001-food-holiday-calendar/idea.md"
-  },
-  {
-   "date": "2026-06-05",
-   "slug": "002-persepolis-companion",
-   "num": "002",
-   "title": "Persepolis Companion — The Definitive Graphic Novel Guide",
-   "score": 7.6,
-   "path": "ideas/2026-06-05/002-persepolis-companion/idea.md"
-  },
-  {
-   "date": "2026-06-05",
-   "slug": "003-architecture-wonder-guide",
-   "num": "003",
-   "title": "Wonders — Interactive Architecture Guide to the World's Most Amazing Buildings",
-   "score": 7.4,
-   "path": "ideas/2026-06-05/003-architecture-wonder-guide/idea.md"
-  },
-  {
-   "date": "2026-06-06",
-   "slug": "001-ringwise",
-   "num": "001",
-   "title": "Ringwise — Your Oura Ring Companion",
-   "score": 8.2,
-   "path": "ideas/2026-06-06/001-ringwise/idea.md"
-  },
-  {
-   "date": "2026-06-06",
-   "slug": "002-sober-sips",
-   "num": "002",
-   "title": "Sober Sips — Discover Non-Alcoholic Drinks",
-   "score": 7.6,
-   "path": "ideas/2026-06-06/002-sober-sips/idea.md"
-  },
-  {
-   "date": "2026-06-06",
-   "slug": "003-pawplate",
-   "num": "003",
-   "title": "PawPlate — Dog Dental Health Tracker",
-   "score": 7.4,
-   "path": "ideas/2026-06-06/003-pawplate/idea.md"
-  },
-  {
-   "date": "2026-06-07",
-   "slug": "001-belmont-stakes-guide",
-   "num": "001",
-   "title": "Belmont Stakes Guide 2026",
-   "score": 7.8,
-   "path": "ideas/2026-06-07/001-belmont-stakes-guide/idea.md"
-  },
-  {
-   "date": "2026-06-07",
-   "slug": "002-love-island-tracker",
-   "num": "002",
-   "title": "Love Island USA Season 8 Tracker",
-   "score": 7.4,
-   "path": "ideas/2026-06-07/002-love-island-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-07",
-   "slug": "003-caffeine-tracker",
-   "num": "003",
-   "title": "Caffeine Tracker — Daily Intake Monitor",
-   "score": 7.2,
-   "path": "ideas/2026-06-07/003-caffeine-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-08",
-   "slug": "001-persona-6-guide",
-   "num": "001",
-   "title": "Persona 6 Guide & Tracker",
-   "score": 7.6,
-   "path": "ideas/2026-06-08/001-persona-6-guide/idea.md"
-  },
-  {
-   "date": "2026-06-08",
-   "slug": "002-broadway-tony-guide",
-   "num": "002",
-   "title": "Broadway Season Guide 2026 — Tony Awards Edition",
-   "score": 7.4,
-   "path": "ideas/2026-06-08/002-broadway-tony-guide/idea.md"
-  },
-  {
-   "date": "2026-06-08",
-   "slug": "003-reptile-id-field-guide",
-   "num": "003",
-   "title": "Reptile ID — Herpetology Field Guide",
-   "score": 7.2,
-   "path": "ideas/2026-06-08/003-reptile-id-field-guide/idea.md"
-  },
-  {
-   "date": "2026-06-09",
-   "slug": "001-air-fryer-recipe-cards",
-   "num": "001",
-   "title": "Air Fryer Recipe Cards",
-   "score": 7.8,
-   "path": "ideas/2026-06-09/001-air-fryer-recipe-cards/idea.md"
-  },
-  {
-   "date": "2026-06-09",
-   "slug": "002-pickleball-score-keeper",
-   "num": "002",
-   "title": "Pickleball Scorekeeper & Drills",
-   "score": 7.4,
-   "path": "ideas/2026-06-09/002-pickleball-score-keeper/idea.md"
-  },
-  {
-   "date": "2026-06-09",
-   "slug": "003-petlife-journal",
-   "num": "003",
-   "title": "PetLife — Pet Journal & Health Tracker",
-   "score": 7.2,
-   "path": "ideas/2026-06-09/003-petlife-journal/idea.md"
-  },
-  {
-   "date": "2026-06-10",
-   "slug": "001-head-spa-guide",
-   "num": "001",
-   "title": "Head Spa — Japanese Scalp Treatment Guide",
-   "score": 8.2,
-   "path": "ideas/2026-06-10/001-head-spa-guide/idea.md"
-  },
-  {
-   "date": "2026-06-10",
-   "slug": "002-creatrack-gummy-tracker",
-   "num": "002",
-   "title": "CreatiTrack — Creatine & Fitness Gummies Tracker",
-   "score": 7.8,
-   "path": "ideas/2026-06-10/002-creatrack-gummy-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-10",
-   "slug": "003-padel-101-guide",
-   "num": "003",
-   "title": "Padel 101 — Rules, Drills & Court Guide",
-   "score": 7.4,
-   "path": "ideas/2026-06-10/003-padel-101-guide/idea.md"
-  },
-  {
-   "date": "2026-06-16",
-   "slug": "001-magnesium-tracker",
-   "num": "001",
-   "title": "Magnesium Tracker",
-   "score": 7.6,
-   "path": "ideas/2026-06-16/001-magnesium-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-16",
-   "slug": "002-ai-teacher-assistant",
-   "num": "002",
-   "title": "TeachAI — AI Teacher Assistant",
-   "score": 7.2,
-   "path": "ideas/2026-06-16/002-ai-teacher-assistant/idea.md"
-  },
-  {
-   "date": "2026-06-16",
-   "slug": "003-travel-packing-checklist",
-   "num": "003",
-   "title": "PackPal — Smart Travel Packing Checklist",
-   "score": 7.0,
-   "path": "ideas/2026-06-16/003-travel-packing-checklist/idea.md"
-  },
-  {
-   "date": "2026-06-17",
-   "slug": "001-microhabit-tiny-habits-tracker",
-   "num": "001",
-   "title": "MicroHabit — Tiny Habits Tracker",
-   "score": 8.2,
-   "path": "ideas/2026-06-17/001-microhabit-tiny-habits-tracker/idea.md"
-  },
-  {
-   "date": "2026-06-17",
-   "slug": "002-prompt-craft-ai-prompt-library",
-   "num": "002",
-   "title": "Prompt Craft — AI Prompt Library",
-   "score": 7.8,
-   "path": "ideas/2026-06-17/002-prompt-craft-ai-prompt-library/idea.md"
-  },
-  {
-   "date": "2026-06-17",
-   "slug": "003-vaccinelog-vaccination-schedule",
-   "num": "003",
-   "title": "VaccineLog — Vaccination Schedule Reference",
-   "score": 7.4,
-   "path": "ideas/2026-06-17/003-vaccinelog-vaccination-schedule/idea.md"
-  },
-  {
-   "date": "2026-06-18",
-   "slug": "001-contrast-therapy-guide",
-   "num": "001",
-   "title": "Contrast Therapy Protocol Guide",
-   "score": 7.8,
-   "path": "ideas/2026-06-18/001-contrast-therapy-guide/idea.md"
-  },
-  {
-   "date": "2026-06-18",
-   "slug": "002-car-seat-safety-guide",
-   "num": "002",
-   "title": "Car Seat Safety Guide",
-   "score": 7.8,
-   "path": "ideas/2026-06-18/002-car-seat-safety-guide/idea.md"
-  },
-  {
-   "date": "2026-06-18",
-   "slug": "003-baby-reflux-guide",
-   "num": "003",
-   "title": "Baby Reflux Guide",
-   "score": 7.6,
-   "path": "ideas/2026-06-18/003-baby-reflux-guide/idea.md"
-  },
-  {
-   "date": "2026-06-19",
-   "slug": "001-scent-safe",
-   "num": "001",
-   "title": "ScentSafe — Fragrance Ingredient Safety Guide",
-   "score": 7.6,
-   "path": "ideas/2026-06-19/001-scent-safe/idea.md"
-  },
-  {
-   "date": "2026-06-19",
-   "slug": "002-synstack",
-   "num": "002",
-   "title": "SynStack — Supplement Interaction Checker",
-   "score": 7.4,
-   "path": "ideas/2026-06-19/002-synstack/idea.md"
-  },
-  {
-   "date": "2026-06-19",
-   "slug": "003-pupprep",
-   "num": "003",
-   "title": "PupPrep — Puppy Training & Care Guide",
-   "score": 7.1,
-   "path": "ideas/2026-06-19/003-pupprep/idea.md"
-  },
-  {
-   "date": "2026-06-20",
-   "slug": "001-bottle-hygiene-guide",
-   "num": "001",
-   "title": "Baby Bottle Hygiene Guide",
-   "score": 8.2,
-   "path": "ideas/2026-06-20/001-bottle-hygiene-guide/idea.md"
-  },
-  {
-   "date": "2026-06-20",
-   "slug": "002-baby-first-foods-guide",
-   "num": "002",
-   "title": "Baby First Foods Guide",
-   "score": 7.4,
-   "path": "ideas/2026-06-20/002-baby-first-foods-guide/idea.md"
-  },
-  {
-   "date": "2026-06-20",
-   "slug": "003-probiotic-soda-guide",
-   "num": "003",
-   "title": "Probiotic Soda Guide",
-   "score": 7.2,
-   "path": "ideas/2026-06-20/003-probiotic-soda-guide/idea.md"
-  },
-  {
-   "date": "2026-06-21",
-   "slug": "001-ai-ethics-guide",
-   "num": "001",
-   "title": "AI Ethics Guide",
-   "score": 8.2,
-   "path": "ideas/2026-06-21/001-ai-ethics-guide/idea.md"
-  },
-  {
-   "date": "2026-06-21",
-   "slug": "002-red-light-therapy-guide",
-   "num": "002",
-   "title": "Red Light Therapy Guide",
-   "score": 8.0,
-   "path": "ideas/2026-06-21/002-red-light-therapy-guide/idea.md"
-  },
-  {
-   "date": "2026-06-21",
-   "slug": "003-deepvoice-ai-voice-detector",
-   "num": "003",
-   "title": "DeepVoice — AI Voice Detector",
-   "score": 7.6,
-   "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector/idea.md"
-  },
-  {
-   "date": "2026-06-22",
-   "slug": "001-creatine-gummies-guide",
-   "num": "001",
-   "title": "🦦 App Idea: Creatine Gummies Guide",
-   "score": 8.6,
-   "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
-  },
-  {
-   "date": "2026-06-22",
-   "slug": "002-ai-air-fryer-recipes",
-   "num": "002",
-   "title": "AirFryer AI — Smart Air Fryer Recipes",
-   "score": 8.0,
-   "path": "ideas/2026-06-22/002-ai-air-fryer-recipes/idea.md"
-  },
-  {
-   "date": "2026-06-22",
-   "slug": "003-magnesium-glycinate-guide",
-   "num": "003",
-   "title": "MagnesiCalm — Magnesium Glycinate Guide",
-   "score": 7.8,
-   "path": "ideas/2026-06-22/003-magnesium-glycinate-guide/idea.md"
-  },
-  {
-   "date": "2026-06-23",
-   "slug": "001-pdrn-skincare-guide",
-   "num": "001",
-   "title": "PDRN Skincare Guide",
-   "score": 8.0,
-   "path": "ideas/2026-06-23/001-pdrn-skincare-guide/idea.md"
-  },
-  {
-   "date": "2026-06-23",
-   "slug": "002-nmn-supplement-guide",
-   "num": "002",
-   "title": "NMN Supplement Guide",
-   "score": 7.8,
-   "path": "ideas/2026-06-23/002-nmn-supplement-guide/idea.md"
-  },
-  {
-   "date": "2026-06-23",
-   "slug": "003-peptide-lip-balm-guide",
-   "num": "003",
-   "title": "Peptide Lip Balm Guide",
-   "score": 7.6,
-   "path": "ideas/2026-06-23/003-peptide-lip-balm-guide/idea.md"
-  },
-  {
-   "date": "2026-06-24",
-   "slug": "001-hair-dryer-guide",
-   "num": "001",
-   "title": "HairDry — High Speed Hair Dryer Buying Guide",
-   "score": 8.6,
-   "path": "ideas/2026-06-24/001-hair-dryer-guide/idea.md"
-  },
-  {
-   "date": "2026-06-24",
-   "slug": "002-microcurrent-device-guide",
-   "num": "002",
-   "title": "FaceLift Guide — Microcurrent Facial Device Comparison",
-   "score": 8.4,
-   "path": "ideas/2026-06-24/002-microcurrent-device-guide/idea.md"
-  },
-  {
-   "date": "2026-06-24",
-   "slug": "003-lash-cluster-guide",
-   "num": "003",
-   "title": "LashMap — Lash Cluster Guide & Eye Mapping",
-   "score": 7.6,
-   "path": "ideas/2026-06-24/003-lash-cluster-guide/idea.md"
-  },
-  {
-   "date": "2026-06-25",
-   "slug": "001-color-drenching-hair-guide",
-   "num": "001",
-   "title": "Color Drenching Hair Guide",
-   "score": 8.2,
-   "path": "ideas/2026-06-25/001-color-drenching-hair-guide/idea.md"
-  },
-  {
-   "date": "2026-06-25",
-   "slug": "002-shoe-care-guide",
-   "num": "002",
-   "title": "Shoe Care Guide",
-   "score": 8.2,
-   "path": "ideas/2026-06-25/002-shoe-care-guide/idea.md"
-  },
-  {
-   "date": "2026-06-25",
-   "slug": "003-webclip",
-   "num": "003",
-   "title": "WebClip — Web Clipper & Reader",
-   "score": 8.2,
-   "path": "ideas/2026-06-25/003-webclip/idea.md"
-  },
-  {
-   "date": "2026-06-26",
-   "slug": "001-suri-toothbrush-guide",
-   "num": "001",
-   "title": "Suri Toothbrush Guide — Sustainable Oral CareBuying Guide",
-   "score": 7.0,
-   "path": "ideas/2026-06-26/001-suri-toothbrush-guide/idea.md"
-  },
-  {
-   "date": "2026-06-26",
-   "slug": "002-non-slip-shoes-guide",
-   "num": "002",
-   "title": "Non-Slip Shoes Guide — Find the Right Slip-Resistant Footwear",
-   "score": 7.0,
-   "path": "ideas/2026-06-26/002-non-slip-shoes-guide/idea.md"
-  },
-  {
-   "date": "2026-06-26",
-   "slug": "003-ai-earbuds-guide",
-   "num": "003",
-   "title": "AI Earbuds Guide — Find the Perfect Smart Earbuds",
-   "score": 7.0,
-   "path": "ideas/2026-06-26/003-ai-earbuds-guide/idea.md"
-  },
-  {
-   "date": "2026-06-27",
-   "slug": "001-carbon-plated-shoes",
-   "num": "001",
-   "title": "CarbonPlate — Running Shoe Finder",
-   "score": 8.2,
-   "path": "ideas/2026-06-27/001-carbon-plated-shoes/idea.md"
-  },
-  {
-   "date": "2026-06-27",
-   "slug": "002-magnetic-power-bank",
-   "num": "002",
-   "title": "MagBank — Magnetic Power Bank Finder",
-   "score": 8.0,
-   "path": "ideas/2026-06-27/002-magnetic-power-bank/idea.md"
-  },
-  {
-   "date": "2026-06-27",
-   "slug": "003-airplane-phone-holder",
-   "num": "003",
-   "title": "FlyMount — Airplane Phone Holder Guide",
-   "score": 7.6,
-   "path": "ideas/2026-06-27/003-airplane-phone-holder/idea.md"
-  },
-  {
-   "date": "2026-06-28",
-   "slug": "001-eyegym-vision-training",
-   "num": "001",
-   "title": "🦦 App Idea: EyeGym — Daily Vision Training",
-   "score": 7.8,
-   "path": "ideas/2026-06-28/001-eyegym-vision-training/idea.md"
-  },
-  {
-   "date": "2026-06-28",
-   "slug": "002-stretchdesk-desk-stretch-routines",
-   "num": "002",
-   "title": "StretchDesk — Guided Desk Stretch Routines",
-   "score": 7.4,
-   "path": "ideas/2026-06-28/002-stretchdesk-desk-stretch-routines/idea.md"
-  },
-  {
-   "date": "2026-06-28",
-   "slug": "003-blueray-screen-coach",
-   "num": "003",
-   "title": "BlueRay — Evening Wind-Down Coach",
-   "score": 7.6,
-   "path": "ideas/2026-06-28/003-blueray-screen-coach/idea.md"
-  },
-  {
-   "date": "2026-06-29",
-   "slug": "001-pouch-pal",
-   "num": "001",
-   "title": "PouchPal — Nicotine Pouch Tracker",
-   "score": 7.0,
-   "path": "ideas/2026-06-29/001-pouch-pal/idea.md"
-  },
-  {
-   "date": "2026-06-29",
-   "slug": "002-solecare",
-   "num": "002",
-   "title": "SoleCare — Sneaker Cleaning & Shoe Care Guide",
-   "score": 7.0,
-   "path": "ideas/2026-06-29/002-solecare/idea.md"
-  },
-  {
-   "date": "2026-06-29",
-   "slug": "003-sunguard",
-   "num": "003",
-   "title": "SunGuard — Sunscreen Guide & SPF Coach",
-   "score": 7.0,
-   "path": "ideas/2026-06-29/003-sunguard/idea.md"
-  },
-  {
-   "date": "2026-06-30",
-   "slug": "001-scent-safe",
-   "num": "001",
-   "title": "ScentSafe — Non-Toxic Perfume & Ingredient Safety Guide",
-   "score": 8.1,
-   "path": "ideas/2026-06-30/001-scent-safe/idea.md"
-  },
-  {
-   "date": "2026-06-30",
-   "slug": "002-mossarium",
-   "num": "002",
-   "title": "Mossarium — Indoor Moss Garden Guide & Care Tracker",
-   "score": 7.8,
-   "path": "ideas/2026-06-30/002-mossarium/idea.md"
-  },
-  {
-   "date": "2026-06-30",
-   "slug": "003-ledmask",
-   "num": "003",
-   "title": "LEDmask — LED Face Mask Treatment Guide & Timer",
-   "score": 7.5,
-   "path": "ideas/2026-06-30/003-ledmask/idea.md"
-  },
-  {
-   "date": "2026-07-04",
-   "slug": "001-luxury-bag-charm-guide",
-   "num": "001",
-   "title": "CharmCraft — Luxury Bag Charm Guide",
-   "score": 8.4,
-   "path": "ideas/2026-07-04/001-luxury-bag-charm-guide/idea.md"
-  },
-  {
-   "date": "2026-07-04",
-   "slug": "002-viwoods-eink-companion",
-   "num": "002",
-   "title": "ViReader — Viwoods E-ink Companion",
-   "score": 8.2,
-   "path": "ideas/2026-07-04/002-viwoods-eink-companion/idea.md"
-  },
-  {
-   "date": "2026-07-04",
-   "slug": "003-color-drenching-paint-guide",
-   "num": "003",
-   "title": "ColorDrench — Paint Color Drenching Guide",
-   "score": 8.2,
-   "path": "ideas/2026-07-04/003-color-drenching-paint-guide/idea.md"
-  },
-  {
-   "date": "2026-07-05",
-   "slug": "001-ai-earbuds-companion",
-   "num": "001",
-   "title": "AI Earbuds Companion App — Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-05/001-ai-earbuds-companion/idea.md"
-  },
-  {
-   "date": "2026-07-05",
-   "slug": "002-smart-toothbrush-tracker",
-   "num": "002",
-   "title": "Smart Toothbrush Tracker — Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-05/002-smart-toothbrush-tracker/idea.md"
-  },
-  {
-   "date": "2026-07-05",
-   "slug": "003-workwhile-tracker",
-   "num": "003",
-   "title": "Workwhile Remote Work Tracker — Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-05/003-workwhile-tracker/idea.md"
-  },
-  {
-   "date": "2026-07-06",
-   "slug": "001-biopsy-report-generator",
-   "num": "001",
-   "title": "Biopsy Report Generator",
-   "score": 7.4,
-   "path": "ideas/2026-07-06/001-biopsy-report-generator/idea.md"
-  },
-  {
-   "date": "2026-07-06",
-   "slug": "002-dermatology-history-generator",
-   "num": "002",
-   "title": "Dermatology History Generator",
-   "score": 7.4,
-   "path": "ideas/2026-07-06/002-dermatology-history-generator/idea.md"
-  },
-  {
-   "date": "2026-07-06",
-   "slug": "003-panthenol-moisturizer-guide",
-   "num": "003",
-   "title": "Panthenol Moisturizer Guide",
-   "score": 7.2,
-   "path": "ideas/2026-07-06/003-panthenol-moisturizer-guide/idea.md"
-  },
-  {
-   "date": "2026-07-07",
-   "slug": "001-prompt-engineering",
-   "num": "001",
-   "title": "Prompt Engineering",
-   "score": 8.0,
-   "path": "ideas/2026-07-07/001-prompt-engineering/idea.md"
-  },
-  {
-   "date": "2026-07-07",
-   "slug": "002-cold-plunge-sauna",
-   "num": "002",
-   "title": "Cold Plunge Sauna",
-   "score": 7.0,
-   "path": "ideas/2026-07-07/002-cold-plunge-sauna/idea.md"
-  },
-  {
-   "date": "2026-07-07",
-   "slug": "003-plaud-note",
-   "num": "003",
-   "title": "Plaud Note",
-   "score": 7.0,
-   "path": "ideas/2026-07-07/003-plaud-note/idea.md"
-  },
-  {
-   "date": "2026-07-08",
-   "slug": "001-osint-tool",
-   "num": "001",
-   "title": "OSINT Tool — Open Source Intelligence Companion",
-   "score": 7.0,
-   "path": "ideas/2026-07-08/001-osint-tool/idea.md"
-  },
-  {
-   "date": "2026-07-08",
-   "slug": "002-cold-plunge-tracker",
-   "num": "002",
-   "title": "Cold Plunge Tracker — Hydrotherapy Session Manager",
-   "score": 8.2,
-   "path": "ideas/2026-07-08/002-cold-plunge-tracker/idea.md"
-  },
-  {
-   "date": "2026-07-08",
-   "slug": "003-boneless-couch-guide",
-   "num": "003",
-   "title": "Boneless Couch — Space-Saving Furniture Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-08/003-boneless-couch-guide/idea.md"
-  },
-  {
-   "date": "2026-07-10",
-   "slug": "001-pet-care-ai",
-   "num": "001",
-   "title": "Pet Care AI — AI-Powered Pet Health & Care Companion",
-   "score": 7.0,
-   "path": "ideas/2026-07-10/001-pet-care-ai/idea.md"
-  },
-  {
-   "date": "2026-07-10",
-   "slug": "002-osint-tool",
-   "num": "002",
-   "title": "OSINT Tool — Open Source Intelligence Companion",
-   "score": 7.0,
-   "path": "ideas/2026-07-10/002-osint-tool/idea.md"
-  },
-  {
-   "date": "2026-07-10",
-   "slug": "003-high-speed-hair-dryer-guide",
-   "num": "003",
-   "title": "High Speed Hair Dryer Guide — Buying Guide & Product Finder",
-   "score": 7.0,
-   "path": "ideas/2026-07-10/003-high-speed-hair-dryer-guide/idea.md"
-  },
-  {
-   "date": "2026-07-11",
-   "slug": "001-milky-toner-guide",
-   "num": "001",
-   "title": "Milky Toner Guide",
-   "score": 9.0,
-   "path": "ideas/2026-07-11/001-milky-toner-guide/idea.md"
-  },
-  {
-   "date": "2026-07-11",
-   "slug": "002-baby-bottle-washer-guide",
-   "num": "002",
-   "title": "Baby Bottle Washer Guide",
-   "score": 8.8,
-   "path": "ideas/2026-07-11/002-baby-bottle-washer-guide/idea.md"
-  },
-  {
-   "date": "2026-07-11",
-   "slug": "003-wifi-7-router-guide",
-   "num": "003",
-   "title": "Wifi 7 Router Guide",
-   "score": 8.6,
-   "path": "ideas/2026-07-11/003-wifi-7-router-guide/idea.md"
-  },
-  {
-   "date": "2026-07-12",
-   "slug": "001-cold-plunge-protocol",
-   "num": "001",
-   "title": "Cold Plunge Protocol — Hydrotherapy Session Guide",
-   "score": 7.0,
-   "path": "ideas/2026-07-12/001-cold-plunge-protocol/idea.md"
-  },
-  {
-   "date": "2026-07-12",
-   "slug": "002-ai-video-generator",
-   "num": "002",
-   "title": "AI Video Generator — Mobile Video Creation App",
-   "score": 7.0,
-   "path": "ideas/2026-07-12/002-ai-video-generator/idea.md"
-  },
-  {
-   "date": "2026-07-12",
-   "slug": "003-cryotherapy-protocol",
-   "num": "003",
-   "title": "Cryotherapy Protocol — Cold Therapy Guide & Tracker",
-   "score": 7.0,
-   "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
-  },
-  {
-   "date": "2026-07-13",
-   "slug": "001-ai-voice-detector",
-   "num": "001",
-   "title": "AI Voice Detector",
-   "score": 8.6,
-   "path": "ideas/2026-07-13/001-ai-voice-detector/idea.md"
-  },
-  {
-   "date": "2026-07-13",
-   "slug": "002-gender-affirming-care-guide",
-   "num": "002",
-   "title": "Gender Affirming Care Guide",
-   "score": 8.2,
-   "path": "ideas/2026-07-13/002-gender-affirming-care-guide/idea.md"
-  },
-  {
-   "date": "2026-07-13",
-   "slug": "003-deepfake-audio-detector",
-   "num": "003",
-   "title": "Deepfake Audio Detector",
-   "score": 7.8,
-   "path": "ideas/2026-07-13/003-deepfake-audio-detector/idea.md"
-  },
-  {
-   "date": "2026-07-14",
-   "slug": "001-ai-observability-platform",
-   "num": "001",
-   "title": "AI Observability Platform",
-   "score": 8.2,
-   "path": "ideas/2026-07-14/001-ai-observability-platform/idea.md"
-  },
-  {
-   "date": "2026-07-14",
-   "slug": "002-agentic-orchestration",
-   "num": "002",
-   "title": "Agentic Orchestration",
-   "score": 7.6,
-   "path": "ideas/2026-07-14/002-agentic-orchestration/idea.md"
-  },
-  {
-   "date": "2026-07-14",
-   "slug": "003-ai-toy-companion",
-   "num": "003",
-   "title": "AI Toy Companion",
-   "score": 7.6,
-   "path": "ideas/2026-07-14/003-ai-toy-companion/idea.md"
-  },
-  {
-   "date": "2026-07-15",
-   "slug": "001-ai-token-usage-monitor",
-   "num": "001",
-   "title": "AI Token Usage Monitor — AI Cost Tracker",
-   "score": 7.0,
-   "path": "ideas/2026-07-15/001-ai-token-usage-monitor/idea.md"
-  },
-  {
-   "date": "2026-07-15",
-   "slug": "002-fractional-coo-kit",
-   "num": "002",
-   "title": "Fractional COO Onboarding Kit — Executive Operations Guide",
-   "score": 7.0,
-   "path": "ideas/2026-07-15/002-fractional-coo-kit/idea.md"
-  },
-  {
-   "date": "2026-07-15",
-   "slug": "003-growthbook-dashboard",
-   "num": "003",
-   "title": "Growthbook Analytics Dashboard — Feature Flag Companion",
-   "score": 7.0,
-   "path": "ideas/2026-07-15/003-growthbook-dashboard/idea.md"
-  },
-  {
-   "date": "2026-07-16",
-   "slug": "001-answer-engine-optimizer",
-   "num": "001",
-   "title": "Answer Engine Optimizer — AI Search Ranking Tool",
-   "score": 7.0,
-   "path": "ideas/2026-07-16/001-answer-engine-optimizer/idea.md"
-  },
-  {
-   "date": "2026-07-16",
-   "slug": "001-ghana-login-hub",
-   "num": "001",
-   "title": "Ghana Login Hub — Unified Authentication for Ghana's Digital Ecosystem",
-   "score": 7.0,
-   "path": "ideas/2026-07-16/001-ghana-login-hub/idea.md"
-  },
-  {
-   "date": "2026-07-16",
-   "slug": "001-login-orchestrator",
-   "num": "001",
-   "title": "Login Orchestrator — Intelligent Multi-Account Manager",
-   "score": 7.0,
-   "path": "ideas/2026-07-16/001-login-orchestrator/idea.md"
-  },
-  {
-   "date": "2026-07-16",
-   "slug": "002-morelogin",
-   "num": "002",
-   "title": "MoreLogin - Multi-Account Browser Manager",
-   "score": 7.0,
-   "path": "ideas/2026-07-16/002-morelogin/idea.md"
-  },
-  {
-   "date": "2026-07-16",
-   "slug": "003-antidetect-browser",
-   "num": "003",
-   "title": "Antidetect Browser - Privacy-First Multi-Login",
-   "score": 7.0,
-   "path": "ideas/2026-07-16/003-antidetect-browser/idea.md"
-  },
-  {
-   "date": "2026-07-17",
-   "slug": "001-ugc-creator",
-   "num": "001",
-   "title": "UGC Creator — User-Generated Content Campaign Manager",
-   "score": 8.2,
-   "path": "ideas/2026-07-17/001-ugc-creator/idea.md"
-  },
-  {
-   "date": "2026-07-17",
-   "slug": "002-zebra-design-guide",
-   "num": "002",
-   "title": "Zebra Design Guide — Interior Stripe Pattern Reference",
-   "score": 7.8,
-   "path": "ideas/2026-07-17/002-zebra-design-guide/idea.md"
-  },
-  {
-   "date": "2026-07-17",
-   "slug": "003-toaster-guide",
-   "num": "003",
-   "title": "Toaster Guide — Slim & Cordless Appliance Companion",
-   "score": 7.8,
-   "path": "ideas/2026-07-17/003-toaster-guide/idea.md"
-  },
-  {
-   "date": "2026-07-19",
-   "slug": "001-shoe-care-guide",
-   "num": "001",
-   "title": "Shoe Care Guide",
-   "score": 8.2,
-   "path": "ideas/2026-07-19/001-shoe-care-guide/idea.md"
-  },
-  {
-   "date": "2026-07-19",
-   "slug": "002-fashion-lifestyle",
-   "num": "002",
-   "title": "Fashion Lifestyle Guide",
-   "score": 8.0,
-   "path": "ideas/2026-07-19/002-fashion-lifestyle/idea.md"
-  },
-  {
-   "date": "2026-07-20",
-   "slug": "003-electric-shaver-guide",
-   "num": "003",
-   "title": "Electric Shaver Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-20/003-electric-shaver-guide/idea.md"
-  },
-  {
-   "date": "2026-07-21",
-   "slug": "001-ai-personal-assistant",
-   "num": "001",
-   "title": "AI Personal Assistant",
-   "score": 7.8,
-   "path": "ideas/2026-07-21/001-ai-personal-assistant/idea.md"
-  },
-  {
-   "date": "2026-07-21",
-   "slug": "002-responsible-ai",
-   "num": "002",
-   "title": "ResponsibleAI - Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-21/002-responsible-ai/idea.md"
-  },
-  {
-   "date": "2026-07-21",
-   "slug": "003-ai-seo",
-   "num": "003",
-   "title": "AISEO - Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-21/003-ai-seo/idea.md"
-  },
-  {
-   "date": "2026-07-21",
-   "slug": "004-ai-robot-dog",
-   "num": "004",
-   "title": "AIRobotDog - Requirements Document",
-   "score": 7.0,
-   "path": "ideas/2026-07-21/004-ai-robot-dog/idea.md"
-  },
-  {
-   "date": "2026-07-22",
-   "slug": "001-backlink-strategy",
-   "num": "001",
-   "title": "Backlink Strategy Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-22/001-backlink-strategy/idea.md"
-  },
-  {
-   "date": "2026-07-22",
-   "slug": "002-seo-tools-comparison",
-   "num": "002",
-   "title": "SEO Tools Comparison",
-   "score": 7.4,
-   "path": "ideas/2026-07-22/002-seo-tools-comparison/idea.md"
-  },
-  {
-   "date": "2026-07-22",
-   "slug": "003-seo-audit-template",
-   "num": "003",
-   "title": "SEO Audit Template",
-   "score": 7.2,
-   "path": "ideas/2026-07-22/003-seo-audit-template/idea.md"
-  },
-  {
-   "date": "2026-07-23",
-   "slug": "001-cold-plunge-sauna",
-   "num": "001",
-   "title": "Cold Plunge Sauna Protocol",
-   "score": 7.6,
-   "path": "ideas/2026-07-23/001-cold-plunge-sauna/idea.md"
-  },
-  {
-   "date": "2026-07-23",
-   "slug": "002-sauna-protocol",
-   "num": "002",
-   "title": "Sauna Protocol Guide",
-   "score": 7.4,
-   "path": "ideas/2026-07-23/002-sauna-protocol/idea.md"
-  },
-  {
-   "date": "2026-07-23",
-   "slug": "003-hydrotherapy-protocol",
-   "num": "003",
-   "title": "Hydrotherapy Protocol",
-   "score": 7.2,
-   "path": "ideas/2026-07-23/003-hydrotherapy-protocol/idea.md"
-  },
-  {
-   "date": "2026-07-24",
-   "slug": "001-cold-plunge-burner",
-   "num": "001",
-   "title": "Cold Plunge Burner Protocol",
-   "score": 7.8,
-   "path": "ideas/2026-07-24/001-cold-plunge-burner/idea.md"
-  },
-  {
-   "date": "2026-07-24",
-   "slug": "002-sauna-temperature",
-   "num": "002",
-   "title": "Sauna Temperature Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-24/002-sauna-temperature/idea.md"
-  },
-  {
-   "date": "2026-07-24",
-   "slug": "003-hydrocoach-app",
-   "num": "003",
-   "title": "HydroCoach App",
-   "score": 7.4,
-   "path": "ideas/2026-07-24/003-hydrocoach-app/idea.md"
-  },
-  {
-   "date": "2026-07-25",
-   "slug": "001-walking-pad-workout",
-   "num": "001",
-   "title": "Walking Pad Workout",
-   "score": 7.8,
-   "path": "ideas/2026-07-25/001-walking-pad-workout/idea.md"
-  },
-  {
-   "date": "2026-07-25",
-   "slug": "002-treadmill-desk",
-   "num": "002",
-   "title": "Treadmill Desk Routine",
-   "score": 7.6,
-   "path": "ideas/2026-07-25/002-treadmill-desk/idea.md"
-  },
-  {
-   "date": "2026-07-25",
-   "slug": "003-fitness-walking",
-   "num": "003",
-   "title": "Fitness Walking Guide",
-   "score": 7.4,
-   "path": "ideas/2026-07-25/003-fitness-walking/idea.md"
-  },
-  {
-   "date": "2026-07-26",
-   "slug": "001-electrical-diagnostic",
-   "num": "001",
-   "title": "Electrical Diagnostic Guide",
-   "score": 8.2,
-   "path": "ideas/2026-07-26/001-electrical-diagnostic/idea.md"
-  },
-  {
-   "date": "2026-07-26",
-   "slug": "002-oil-gas-safety",
-   "num": "002",
-   "title": "Oil Gas Safety Protocols",
-   "score": 7.8,
-   "path": "ideas/2026-07-26/002-oil-gas-safety/idea.md"
-  },
-  {
-   "date": "2026-07-26",
-   "slug": "003-plumbing-troubleshooting",
-   "num": "003",
-   "title": "Plumbing Troubleshooting Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-26/003-plumbing-troubleshooting/idea.md"
-  },
-  {
-   "date": "2026-07-27",
-   "slug": "001-furnace-maintenance",
-   "num": "001",
-   "title": "Furnace Maintenance Checklist",
-   "score": 8.0,
-   "path": "ideas/2026-07-27/001-furnace-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-27",
-   "slug": "002-roof-inspection",
-   "num": "002",
-   "title": "Roof Inspection Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-27/002-roof-inspection/idea.md"
-  },
-  {
-   "date": "2026-07-27",
-   "slug": "003-hvac-repair",
-   "num": "003",
-   "title": "HVAC Repair Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-27/003-hvac-repair/idea.md"
-  },
-  {
-   "date": "2026-07-28",
-   "slug": "001-water-heater-guide",
-   "num": "001",
-   "title": "Water Heater Troubleshooting",
-   "score": 8.2,
-   "path": "ideas/2026-07-28/001-water-heater-guide/idea.md"
-  },
-  {
-   "date": "2026-07-28",
-   "slug": "002-garage-door-repair",
-   "num": "002",
-   "title": "Garage Door Repair Guide",
-   "score": 8.0,
-   "path": "ideas/2026-07-28/002-garage-door-repair/idea.md"
-  },
-  {
-   "date": "2026-07-28",
-   "slug": "003-dryer-repair",
-   "num": "003",
-   "title": "Dryer Repair Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-28/003-dryer-repair/idea.md"
-  },
-  {
-   "date": "2026-07-29",
-   "slug": "001-lawn-mower-maintenance",
-   "num": "001",
-   "title": "Lawn Mower Maintenance Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-29/001-lawn-mower-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-29",
-   "slug": "002-garden-tool-maintenance",
-   "num": "002",
-   "title": "Garden Tool Maintenance",
-   "score": 7.6,
-   "path": "ideas/2026-07-29/002-garden-tool-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-29",
-   "slug": "003-chainsaw-safety",
-   "num": "003",
-   "title": "Chainsaw Safety Guide",
-   "score": 7.4,
-   "path": "ideas/2026-07-29/003-chainsaw-safety/idea.md"
-  },
-  {
-   "date": "2026-07-30",
-   "slug": "001-well-pump-maintenance",
-   "num": "001",
-   "title": "Well Pump Maintenance Guide",
-   "score": 8.0,
-   "path": "ideas/2026-07-30/001-well-pump-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-30",
-   "slug": "002-point-of-entry-filter",
-   "num": "002",
-   "title": "Point of Entry Water Filter Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-30/002-point-of-entry-filter/idea.md"
-  },
-  {
-   "date": "2026-07-30",
-   "slug": "003-septic-tank-maintenance",
-   "num": "003",
-   "title": "Septic Tank Maintenance Guide",
-   "score": 7.6,
-   "path": "ideas/2026-07-30/003-septic-tank-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-31",
-   "slug": "001-pool-filter-cleaning",
-   "num": "001",
-   "title": "Pool Filter Cleaning Guide",
-   "score": 8.2,
-   "path": "ideas/2026-07-31/001-pool-filter-cleaning/idea.md"
-  },
-  {
-   "date": "2026-07-31",
-   "slug": "002-spa-equipment-maintenance",
-   "num": "002",
-   "title": "Spa Equipment Maintenance",
-   "score": 8.0,
-   "path": "ideas/2026-07-31/002-spa-equipment-maintenance/idea.md"
-  },
-  {
-   "date": "2026-07-31",
-   "slug": "003-hot-tub-chemistry",
-   "num": "003",
-   "title": "Hot Tub Chemistry Guide",
-   "score": 7.8,
-   "path": "ideas/2026-07-31/003-hot-tub-chemistry/idea.md"
-  },
-  {
-   "date": "2026-08-01",
-   "slug": "001-qamaria-yemeni-coffee",
-   "num": "001",
-   "title": "Qamaria Yemeni Coffee",
-   "score": 7.0,
-   "path": "ideas/2026-08-01/001-qamaria-yemeni-coffee/idea.md"
-  },
-  {
-   "date": "2026-08-01",
-   "slug": "002-fastmoss",
-   "num": "002",
-   "title": "Fastmoss",
-   "score": 7.0,
-   "path": "ideas/2026-08-01/002-fastmoss/idea.md"
-  },
-  {
-   "date": "2026-08-01",
-   "slug": "003-suri-toothbrush",
-   "num": "003",
-   "title": "Suri Toothbrush",
-   "score": 7.0,
-   "path": "ideas/2026-08-01/003-suri-toothbrush/idea.md"
-  },
-  {
-   "date": "2026-08-02",
-   "slug": "001-pyloric-stenosis-guide",
-   "num": "001",
-   "title": "Pyloric Stenosis Guide — Pediatric Emergency Resource",
-   "score": 8.2,
-   "path": "ideas/2026-08-02/001-pyloric-stenosis-guide/idea.md"
-  },
-  {
-   "date": "2026-08-02",
-   "slug": "002-methylphenidate-side-effects",
-   "num": "002",
-   "title": "Methylphenidate Side Effects — ADHD Medication Companion",
-   "score": 8.0,
-   "path": "ideas/2026-08-02/002-methylphenidate-side-effects/idea.md"
-  },
-  {
-   "date": "2026-08-02",
-   "slug": "003-haraz-coffee-guide",
-   "num": "003",
-   "title": "Haraz Coffee Guide — Ethiopian Coffee Origins",
-   "score": 8.0,
-   "path": "ideas/2026-08-02/003-haraz-coffee-guide/idea.md"
-  },
-  {
-   "date": "2026-08-03",
-   "slug": "001-jumping-spider-enclosure-guide",
-   "num": "001",
-   "title": "Jumping Spider Enclosure Guide — Pet Arachnid Habitat Designer",
-   "score": 8.0,
-   "path": "ideas/2026-08-03/001-jumping-spider-enclosure-guide/idea.md"
-  },
-  {
-   "date": "2026-08-03",
-   "slug": "002-ai-translator-headphones",
-   "num": "002",
-   "title": "AI Translator Headphones — Real-Time Translation Companion",
-   "score": 8.0,
-   "path": "ideas/2026-08-03/002-ai-translator-headphones/idea.md"
-  },
-  {
-   "date": "2026-08-03",
-   "slug": "003-agricultural-marketplace",
-   "num": "003",
-   "title": "Agricultural Marketplace — Farm B2B Supply Hub",
-   "score": 7.8,
-   "path": "ideas/2026-08-03/003-agricultural-marketplace/idea.md"
-  },
-  {
-   "date": "2026-08-12",
-   "slug": "001-prompt-engineering-assistant",
-   "num": "001",
-   "title": "Prompt Engineering Assistant",
-   "score": 8.0,
-   "path": "ideas/2026-08-12/001-prompt-engineering-assistant/idea.md"
-  },
-  {
-   "date": "2026-08-12",
-   "slug": "002-pdrn-skincare-tracker",
-   "num": "002",
-   "title": "PDRN Skincare Tracker",
-   "score": 8.0,
-   "path": "ideas/2026-08-12/002-pdrn-skincare-tracker/idea.md"
-  },
-  {
-   "date": "2026-08-12",
-   "slug": "003-response-ai-optimization",
-   "num": "003",
-   "title": "Response AI Optimization",
-   "score": 8.0,
-   "path": "ideas/2026-08-12/003-response-ai-optimization/idea.md"
-  },
-  {
-   "date": "2026-08-13",
-   "slug": "001-voice-deepfake-detector",
-   "num": "001",
-   "title": "Voice Deepfake Detector",
-   "score": 8.6,
-   "path": "ideas/2026-08-13/001-voice-deepfake-detector/idea.md"
-  },
-  {
-   "date": "2026-08-13",
-   "slug": "002-ethical-ai-compliance",
-   "num": "002",
-   "title": "Ethical AI Compliance",
-   "score": 8.0,
-   "path": "ideas/2026-08-13/002-ethical-ai-compliance/idea.md"
-  },
-  {
-   "date": "2026-08-13",
-   "slug": "003-bio-responsive-beauty",
-   "num": "003",
-   "title": "Bio-responsive Beauty App",
-   "score": 8.2,
-   "path": "ideas/2026-08-13/003-bio-responsive-beauty/idea.md"
-  },
-  {
-   "date": "2026-08-15",
-   "slug": "001-ai-ethics-compliance-checker",
-   "num": "001",
-   "title": "AI Ethics Compliance Checker",
-   "score": 8.1,
-   "path": "ideas/2026-08-15/001-ai-ethics-compliance-checker/idea.md"
-  },
-  {
-   "date": "2026-08-15",
-   "slug": "002-allergen-free-feeding-guide",
-   "num": "002",
-   "title": "Allergen-free Feeding Guide",
-   "score": 7.9,
-   "path": "ideas/2026-08-15/002-allergen-free-feeding-guide/idea.md"
-  },
-  {
-   "date": "2026-08-15",
-   "slug": "003-digital-minimalism-planner",
-   "num": "003",
-   "title": "Digital Minimalism Planner",
-   "score": 7.7,
-   "path": "ideas/2026-08-15/003-digital-minimalism-planner/idea.md"
-  },
-  {
-   "date": "2026-08-16",
-   "slug": "001-depuffing-wand-guide",
-   "num": "001",
-   "title": "Depuffing Wand Guide",
-   "score": 8.7,
-   "path": "ideas/2026-08-16/001-depuffing-wand-guide/idea.md"
-  },
-  {
-   "date": "2026-08-16",
-   "slug": "002-shoe-washing-bag-guide",
-   "num": "002",
-   "title": "Shoe Washing Bag Guide",
-   "score": 8.5,
-   "path": "ideas/2026-08-16/002-shoe-washing-bag-guide/idea.md"
-  },
-  {
-   "date": "2026-08-16",
-   "slug": "003-parasocial-journal",
-   "num": "003",
-   "title": "Parasocial Journal",
-   "score": 8.3,
-   "path": "ideas/2026-08-16/003-parasocial-journal/idea.md"
-  },
-  {
-   "date": "2026-08-17",
-   "slug": "001-pdrn",
-   "num": "001",
-   "title": "PDRN",
-   "score": 8.0,
-   "path": "ideas/2026-08-17/001-pdrn/idea.md"
-  },
-  {
-   "date": "2026-08-17",
-   "slug": "002-hypochlorous-acid-spray",
-   "num": "002",
-   "title": "Hypochlorous Acid Spray",
-   "score": 7.8,
-   "path": "ideas/2026-08-17/002-hypochlorous-acid-spray/idea.md"
-  },
-  {
-   "date": "2026-08-17",
-   "slug": "003-farming-robot",
-   "num": "003",
-   "title": "Farming Robot",
-   "score": 7.4,
-   "path": "ideas/2026-08-17/003-farming-robot/idea.md"
-  },
-  {
-   "date": "2026-08-21",
-   "slug": "001-baselane",
-   "num": "001",
-   "title": "Baselane",
-   "score": 6.8,
-   "path": "ideas/2026-08-21/001-baselane/idea.md"
-  },
-  {
-   "date": "2026-08-21",
-   "slug": "002-owala",
-   "num": "002",
-   "title": "Owala",
-   "score": 6.8,
-   "path": "ideas/2026-08-21/002-owala/idea.md"
-  },
-  {
-   "date": "2026-08-21",
-   "slug": "003-wolverine-peptide",
-   "num": "003",
-   "title": "Wolverine Peptide",
-   "score": 6.6,
-   "path": "ideas/2026-08-21/003-wolverine-peptide/idea.md"
-  },
-  {
-   "date": "2026-08-22",
-   "slug": "001-carsize-compare",
-   "num": "001",
-   "title": "CarSize Compare",
-   "score": 8.3,
-   "path": "ideas/2026-08-22/001-carsize-compare/idea.md"
-  },
-  {
-   "date": "2026-08-22",
-   "slug": "002-barefoot-ready",
-   "num": "002",
-   "title": "Barefoot Ready",
-   "score": 8.0,
-   "path": "ideas/2026-08-22/002-barefoot-ready/idea.md"
-  },
-  {
-   "date": "2026-08-22",
-   "slug": "003-clean-girl-playbook",
-   "num": "003",
-   "title": "Clean Girl Playbook",
-   "score": 7.6,
-   "path": "ideas/2026-08-22/003-clean-girl-playbook/idea.md"
-  }
- ],
- "last_updated": "2026-08-22",
- "total": 192
+  "ideas": [
+    {
+      "date": "2026-05-26",
+      "slug": "001-focus-sleeper",
+      "num": "001",
+      "title": "Focus Sleeper — AI Sleep & Focus Sound Mixer",
+      "score": 8.2,
+      "path": "ideas/2026-05-26/001-focus-sleeper/idea.md"
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "002-splitsheet",
+      "num": "002",
+      "title": "Splitsheet — Beautiful Expense Splitting with Receipt OCR",
+      "score": 7.6,
+      "path": "ideas/2026-05-26/002-splitsheet/idea.md"
+    },
+    {
+      "date": "2026-05-26",
+      "slug": "003-interval",
+      "num": "003",
+      "title": "Interval — Smart Workout Timer with Progressive Overload",
+      "score": 7.4,
+      "path": "ideas/2026-05-26/003-interval/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "001-pasta-shapes-guide",
+      "num": "001",
+      "title": "Pasta Shapes Guide",
+      "score": 8.4,
+      "path": "ideas/2026-05-27/001-pasta-shapes-guide/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "002-scoville-heat-guide",
+      "num": "002",
+      "title": "Scoville Heat Guide",
+      "score": 8.0,
+      "path": "ideas/2026-05-27/002-scoville-heat-guide/idea.md"
+    },
+    {
+      "date": "2026-05-27",
+      "slug": "003-spice-substitution-guide",
+      "num": "003",
+      "title": "Spice Substitution Guide",
+      "score": 7.8,
+      "path": "ideas/2026-05-27/003-spice-substitution-guide/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "001-sleep-hygiene-guide",
+      "num": "001",
+      "title": "Sleep Hygiene Guide",
+      "score": 8.4,
+      "path": "ideas/2026-05-30/001-sleep-hygiene-guide/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "002-contrast-therapy-protocol",
+      "num": "002",
+      "title": "Contrast Therapy Protocol",
+      "score": 7.6,
+      "path": "ideas/2026-05-30/002-contrast-therapy-protocol/idea.md"
+    },
+    {
+      "date": "2026-05-30",
+      "slug": "003-food-shelf-life-guide",
+      "num": "003",
+      "title": "Food Shelf Life Guide",
+      "score": 7.6,
+      "path": "ideas/2026-05-30/003-food-shelf-life-guide/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "001-privacy-rights-tracker",
+      "num": "001",
+      "title": "Privacy Rights Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-05-31/001-privacy-rights-tracker/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "002-lunar-calendar-guide",
+      "num": "002",
+      "title": "Moon Phase — Lunar Calendar Guide",
+      "score": 7.4,
+      "path": "ideas/2026-05-31/002-lunar-calendar-guide/idea.md"
+    },
+    {
+      "date": "2026-05-31",
+      "slug": "003-digital-wellness-score",
+      "num": "003",
+      "title": "Screen sober — Digital Wellness Score",
+      "score": 7.6,
+      "path": "ideas/2026-05-31/003-digital-wellness-score/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "001-creatine-tracker",
+      "num": "001",
+      "title": "CreatineTracker",
+      "score": 8.2,
+      "path": "ideas/2026-06-02/001-creatine-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "002-seed-oil-scanner",
+      "num": "002",
+      "title": "SeedOilScan",
+      "score": 8.0,
+      "path": "ideas/2026-06-02/002-seed-oil-scanner/idea.md"
+    },
+    {
+      "date": "2026-06-02",
+      "slug": "003-walking-pad-log",
+      "num": "003",
+      "title": "WalkDesk — Under-Desk Walk Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-02/003-walking-pad-log/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "001-food-holiday-guide",
+      "num": "001",
+      "title": "Food Holiday Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-03/001-food-holiday-guide/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "002-love-island-companion",
+      "num": "002",
+      "title": "Love Island USA S8 Companion",
+      "score": 7.4,
+      "path": "ideas/2026-06-03/002-love-island-companion/idea.md"
+    },
+    {
+      "date": "2026-06-03",
+      "slug": "003-gaming-event-tracker",
+      "num": "003",
+      "title": "Gaming Event Tracker",
+      "score": 7.2,
+      "path": "ideas/2026-06-03/003-gaming-event-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "001-screwworm-watch",
+      "num": "001",
+      "title": "Screwworm Watch — Outbreak Guide & Safety Checklist",
+      "score": 7.6,
+      "path": "ideas/2026-06-04/001-screwworm-watch/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "002-aurora-photo-guide",
+      "num": "002",
+      "title": "Aurora Photo Guide — iPhone Northern Lights Photography",
+      "score": 7.2,
+      "path": "ideas/2026-06-04/002-aurora-photo-guide/idea.md"
+    },
+    {
+      "date": "2026-06-04",
+      "slug": "003-world-cup-meals-tracker",
+      "num": "003",
+      "title": "World Cup Meals Tracker — McDonald's FIFA Collectibles",
+      "score": 7.0,
+      "path": "ideas/2026-06-04/003-world-cup-meals-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "001-food-holiday-calendar",
+      "num": "001",
+      "title": "Food Holiday Calendar — Daily Food Celebrations & Deals",
+      "score": 8.0,
+      "path": "ideas/2026-06-05/001-food-holiday-calendar/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "002-persepolis-companion",
+      "num": "002",
+      "title": "Persepolis Companion — The Definitive Graphic Novel Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-05/002-persepolis-companion/idea.md"
+    },
+    {
+      "date": "2026-06-05",
+      "slug": "003-architecture-wonder-guide",
+      "num": "003",
+      "title": "Wonders — Interactive Architecture Guide to the World's Most Amazing Buildings",
+      "score": 7.4,
+      "path": "ideas/2026-06-05/003-architecture-wonder-guide/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "001-ringwise",
+      "num": "001",
+      "title": "Ringwise — Your Oura Ring Companion",
+      "score": 8.2,
+      "path": "ideas/2026-06-06/001-ringwise/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "002-sober-sips",
+      "num": "002",
+      "title": "Sober Sips — Discover Non-Alcoholic Drinks",
+      "score": 7.6,
+      "path": "ideas/2026-06-06/002-sober-sips/idea.md"
+    },
+    {
+      "date": "2026-06-06",
+      "slug": "003-pawplate",
+      "num": "003",
+      "title": "PawPlate — Dog Dental Health Tracker",
+      "score": 7.4,
+      "path": "ideas/2026-06-06/003-pawplate/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "001-belmont-stakes-guide",
+      "num": "001",
+      "title": "Belmont Stakes Guide 2026",
+      "score": 7.8,
+      "path": "ideas/2026-06-07/001-belmont-stakes-guide/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "002-love-island-tracker",
+      "num": "002",
+      "title": "Love Island USA Season 8 Tracker",
+      "score": 7.4,
+      "path": "ideas/2026-06-07/002-love-island-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-07",
+      "slug": "003-caffeine-tracker",
+      "num": "003",
+      "title": "Caffeine Tracker — Daily Intake Monitor",
+      "score": 7.2,
+      "path": "ideas/2026-06-07/003-caffeine-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "001-persona-6-guide",
+      "num": "001",
+      "title": "Persona 6 Guide & Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-08/001-persona-6-guide/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "002-broadway-tony-guide",
+      "num": "002",
+      "title": "Broadway Season Guide 2026 — Tony Awards Edition",
+      "score": 7.4,
+      "path": "ideas/2026-06-08/002-broadway-tony-guide/idea.md"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "003-reptile-id-field-guide",
+      "num": "003",
+      "title": "Reptile ID — Herpetology Field Guide",
+      "score": 7.2,
+      "path": "ideas/2026-06-08/003-reptile-id-field-guide/idea.md"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "001-air-fryer-recipe-cards",
+      "num": "001",
+      "title": "Air Fryer Recipe Cards",
+      "score": 7.8,
+      "path": "ideas/2026-06-09/001-air-fryer-recipe-cards/idea.md"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "002-pickleball-score-keeper",
+      "num": "002",
+      "title": "Pickleball Scorekeeper & Drills",
+      "score": 7.4,
+      "path": "ideas/2026-06-09/002-pickleball-score-keeper/idea.md"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "003-petlife-journal",
+      "num": "003",
+      "title": "PetLife — Pet Journal & Health Tracker",
+      "score": 7.2,
+      "path": "ideas/2026-06-09/003-petlife-journal/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "001-head-spa-guide",
+      "num": "001",
+      "title": "Head Spa — Japanese Scalp Treatment Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-10/001-head-spa-guide/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "002-creatrack-gummy-tracker",
+      "num": "002",
+      "title": "CreatiTrack — Creatine & Fitness Gummies Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-06-10/002-creatrack-gummy-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-10",
+      "slug": "003-padel-101-guide",
+      "num": "003",
+      "title": "Padel 101 — Rules, Drills & Court Guide",
+      "score": 7.4,
+      "path": "ideas/2026-06-10/003-padel-101-guide/idea.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "001-magnesium-tracker",
+      "num": "001",
+      "title": "Magnesium Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-06-16/001-magnesium-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "002-ai-teacher-assistant",
+      "num": "002",
+      "title": "TeachAI — AI Teacher Assistant",
+      "score": 7.2,
+      "path": "ideas/2026-06-16/002-ai-teacher-assistant/idea.md"
+    },
+    {
+      "date": "2026-06-16",
+      "slug": "003-travel-packing-checklist",
+      "num": "003",
+      "title": "PackPal — Smart Travel Packing Checklist",
+      "score": 7.0,
+      "path": "ideas/2026-06-16/003-travel-packing-checklist/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "001-microhabit-tiny-habits-tracker",
+      "num": "001",
+      "title": "MicroHabit — Tiny Habits Tracker",
+      "score": 8.2,
+      "path": "ideas/2026-06-17/001-microhabit-tiny-habits-tracker/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "002-prompt-craft-ai-prompt-library",
+      "num": "002",
+      "title": "Prompt Craft — AI Prompt Library",
+      "score": 7.8,
+      "path": "ideas/2026-06-17/002-prompt-craft-ai-prompt-library/idea.md"
+    },
+    {
+      "date": "2026-06-17",
+      "slug": "003-vaccinelog-vaccination-schedule",
+      "num": "003",
+      "title": "VaccineLog — Vaccination Schedule Reference",
+      "score": 7.4,
+      "path": "ideas/2026-06-17/003-vaccinelog-vaccination-schedule/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "001-contrast-therapy-guide",
+      "num": "001",
+      "title": "Contrast Therapy Protocol Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-18/001-contrast-therapy-guide/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "002-car-seat-safety-guide",
+      "num": "002",
+      "title": "Car Seat Safety Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-18/002-car-seat-safety-guide/idea.md"
+    },
+    {
+      "date": "2026-06-18",
+      "slug": "003-baby-reflux-guide",
+      "num": "003",
+      "title": "Baby Reflux Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-18/003-baby-reflux-guide/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "001-scent-safe",
+      "num": "001",
+      "title": "ScentSafe — Fragrance Ingredient Safety Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-19/001-scent-safe/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "002-synstack",
+      "num": "002",
+      "title": "SynStack — Supplement Interaction Checker",
+      "score": 7.4,
+      "path": "ideas/2026-06-19/002-synstack/idea.md"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "003-pupprep",
+      "num": "003",
+      "title": "PupPrep — Puppy Training & Care Guide",
+      "score": 7.1,
+      "path": "ideas/2026-06-19/003-pupprep/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "001-bottle-hygiene-guide",
+      "num": "001",
+      "title": "Baby Bottle Hygiene Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-20/001-bottle-hygiene-guide/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "002-baby-first-foods-guide",
+      "num": "002",
+      "title": "Baby First Foods Guide",
+      "score": 7.4,
+      "path": "ideas/2026-06-20/002-baby-first-foods-guide/idea.md"
+    },
+    {
+      "date": "2026-06-20",
+      "slug": "003-probiotic-soda-guide",
+      "num": "003",
+      "title": "Probiotic Soda Guide",
+      "score": 7.2,
+      "path": "ideas/2026-06-20/003-probiotic-soda-guide/idea.md"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "001-ai-ethics-guide",
+      "num": "001",
+      "title": "AI Ethics Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-21/001-ai-ethics-guide/idea.md"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "002-red-light-therapy-guide",
+      "num": "002",
+      "title": "Red Light Therapy Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-21/002-red-light-therapy-guide/idea.md"
+    },
+    {
+      "date": "2026-06-21",
+      "slug": "003-deepvoice-ai-voice-detector",
+      "num": "003",
+      "title": "DeepVoice — AI Voice Detector",
+      "score": 7.6,
+      "path": "ideas/2026-06-21/003-deepvoice-ai-voice-detector/idea.md"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "001-creatine-gummies-guide",
+      "num": "001",
+      "title": "🦦 App Idea: Creatine Gummies Guide",
+      "score": 8.6,
+      "path": "ideas/2026-06-22/001-creatine-gummies-guide/idea.md"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "002-ai-air-fryer-recipes",
+      "num": "002",
+      "title": "AirFryer AI — Smart Air Fryer Recipes",
+      "score": 8.0,
+      "path": "ideas/2026-06-22/002-ai-air-fryer-recipes/idea.md"
+    },
+    {
+      "date": "2026-06-22",
+      "slug": "003-magnesium-glycinate-guide",
+      "num": "003",
+      "title": "MagnesiCalm — Magnesium Glycinate Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-22/003-magnesium-glycinate-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "001-pdrn-skincare-guide",
+      "num": "001",
+      "title": "PDRN Skincare Guide",
+      "score": 8.0,
+      "path": "ideas/2026-06-23/001-pdrn-skincare-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "002-nmn-supplement-guide",
+      "num": "002",
+      "title": "NMN Supplement Guide",
+      "score": 7.8,
+      "path": "ideas/2026-06-23/002-nmn-supplement-guide/idea.md"
+    },
+    {
+      "date": "2026-06-23",
+      "slug": "003-peptide-lip-balm-guide",
+      "num": "003",
+      "title": "Peptide Lip Balm Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-23/003-peptide-lip-balm-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "001-hair-dryer-guide",
+      "num": "001",
+      "title": "HairDry — High Speed Hair Dryer Buying Guide",
+      "score": 8.6,
+      "path": "ideas/2026-06-24/001-hair-dryer-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "002-microcurrent-device-guide",
+      "num": "002",
+      "title": "FaceLift Guide — Microcurrent Facial Device Comparison",
+      "score": 8.4,
+      "path": "ideas/2026-06-24/002-microcurrent-device-guide/idea.md"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "003-lash-cluster-guide",
+      "num": "003",
+      "title": "LashMap — Lash Cluster Guide & Eye Mapping",
+      "score": 7.6,
+      "path": "ideas/2026-06-24/003-lash-cluster-guide/idea.md"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "001-color-drenching-hair-guide",
+      "num": "001",
+      "title": "Color Drenching Hair Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-25/001-color-drenching-hair-guide/idea.md"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "002-shoe-care-guide",
+      "num": "002",
+      "title": "Shoe Care Guide",
+      "score": 8.2,
+      "path": "ideas/2026-06-25/002-shoe-care-guide/idea.md"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "003-webclip",
+      "num": "003",
+      "title": "WebClip — Web Clipper & Reader",
+      "score": 8.2,
+      "path": "ideas/2026-06-25/003-webclip/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "001-suri-toothbrush-guide",
+      "num": "001",
+      "title": "Suri Toothbrush Guide — Sustainable Oral CareBuying Guide",
+      "score": 7.0,
+      "path": "ideas/2026-06-26/001-suri-toothbrush-guide/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "002-non-slip-shoes-guide",
+      "num": "002",
+      "title": "Non-Slip Shoes Guide — Find the Right Slip-Resistant Footwear",
+      "score": 7.0,
+      "path": "ideas/2026-06-26/002-non-slip-shoes-guide/idea.md"
+    },
+    {
+      "date": "2026-06-26",
+      "slug": "003-ai-earbuds-guide",
+      "num": "003",
+      "title": "AI Earbuds Guide — Find the Perfect Smart Earbuds",
+      "score": 7.0,
+      "path": "ideas/2026-06-26/003-ai-earbuds-guide/idea.md"
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "001-carbon-plated-shoes",
+      "num": "001",
+      "title": "CarbonPlate — Running Shoe Finder",
+      "score": 8.2,
+      "path": "ideas/2026-06-27/001-carbon-plated-shoes/idea.md"
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "002-magnetic-power-bank",
+      "num": "002",
+      "title": "MagBank — Magnetic Power Bank Finder",
+      "score": 8.0,
+      "path": "ideas/2026-06-27/002-magnetic-power-bank/idea.md"
+    },
+    {
+      "date": "2026-06-27",
+      "slug": "003-airplane-phone-holder",
+      "num": "003",
+      "title": "FlyMount — Airplane Phone Holder Guide",
+      "score": 7.6,
+      "path": "ideas/2026-06-27/003-airplane-phone-holder/idea.md"
+    },
+    {
+      "date": "2026-06-28",
+      "slug": "001-eyegym-vision-training",
+      "num": "001",
+      "title": "🦦 App Idea: EyeGym — Daily Vision Training",
+      "score": 7.8,
+      "path": "ideas/2026-06-28/001-eyegym-vision-training/idea.md"
+    },
+    {
+      "date": "2026-06-28",
+      "slug": "002-stretchdesk-desk-stretch-routines",
+      "num": "002",
+      "title": "StretchDesk — Guided Desk Stretch Routines",
+      "score": 7.4,
+      "path": "ideas/2026-06-28/002-stretchdesk-desk-stretch-routines/idea.md"
+    },
+    {
+      "date": "2026-06-28",
+      "slug": "003-blueray-screen-coach",
+      "num": "003",
+      "title": "BlueRay — Evening Wind-Down Coach",
+      "score": 7.6,
+      "path": "ideas/2026-06-28/003-blueray-screen-coach/idea.md"
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "001-pouch-pal",
+      "num": "001",
+      "title": "PouchPal — Nicotine Pouch Tracker",
+      "score": 7.0,
+      "path": "ideas/2026-06-29/001-pouch-pal/idea.md"
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "002-solecare",
+      "num": "002",
+      "title": "SoleCare — Sneaker Cleaning & Shoe Care Guide",
+      "score": 7.0,
+      "path": "ideas/2026-06-29/002-solecare/idea.md"
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "003-sunguard",
+      "num": "003",
+      "title": "SunGuard — Sunscreen Guide & SPF Coach",
+      "score": 7.0,
+      "path": "ideas/2026-06-29/003-sunguard/idea.md"
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "001-scent-safe",
+      "num": "001",
+      "title": "ScentSafe — Non-Toxic Perfume & Ingredient Safety Guide",
+      "score": 8.1,
+      "path": "ideas/2026-06-30/001-scent-safe/idea.md"
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "002-mossarium",
+      "num": "002",
+      "title": "Mossarium — Indoor Moss Garden Guide & Care Tracker",
+      "score": 7.8,
+      "path": "ideas/2026-06-30/002-mossarium/idea.md"
+    },
+    {
+      "date": "2026-06-30",
+      "slug": "003-ledmask",
+      "num": "003",
+      "title": "LEDmask — LED Face Mask Treatment Guide & Timer",
+      "score": 7.5,
+      "path": "ideas/2026-06-30/003-ledmask/idea.md"
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "001-luxury-bag-charm-guide",
+      "num": "001",
+      "title": "CharmCraft — Luxury Bag Charm Guide",
+      "score": 8.4,
+      "path": "ideas/2026-07-04/001-luxury-bag-charm-guide/idea.md"
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "002-viwoods-eink-companion",
+      "num": "002",
+      "title": "ViReader — Viwoods E-ink Companion",
+      "score": 8.2,
+      "path": "ideas/2026-07-04/002-viwoods-eink-companion/idea.md"
+    },
+    {
+      "date": "2026-07-04",
+      "slug": "003-color-drenching-paint-guide",
+      "num": "003",
+      "title": "ColorDrench — Paint Color Drenching Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-04/003-color-drenching-paint-guide/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "001-ai-earbuds-companion",
+      "num": "001",
+      "title": "AI Earbuds Companion App — Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-05/001-ai-earbuds-companion/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "002-smart-toothbrush-tracker",
+      "num": "002",
+      "title": "Smart Toothbrush Tracker — Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-05/002-smart-toothbrush-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "003-workwhile-tracker",
+      "num": "003",
+      "title": "Workwhile Remote Work Tracker — Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-05/003-workwhile-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "001-biopsy-report-generator",
+      "num": "001",
+      "title": "Biopsy Report Generator",
+      "score": 7.4,
+      "path": "ideas/2026-07-06/001-biopsy-report-generator/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "002-dermatology-history-generator",
+      "num": "002",
+      "title": "Dermatology History Generator",
+      "score": 7.4,
+      "path": "ideas/2026-07-06/002-dermatology-history-generator/idea.md"
+    },
+    {
+      "date": "2026-07-06",
+      "slug": "003-panthenol-moisturizer-guide",
+      "num": "003",
+      "title": "Panthenol Moisturizer Guide",
+      "score": 7.2,
+      "path": "ideas/2026-07-06/003-panthenol-moisturizer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "001-prompt-engineering",
+      "num": "001",
+      "title": "Prompt Engineering",
+      "score": 8.0,
+      "path": "ideas/2026-07-07/001-prompt-engineering/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "002-cold-plunge-sauna",
+      "num": "002",
+      "title": "Cold Plunge Sauna",
+      "score": 7.0,
+      "path": "ideas/2026-07-07/002-cold-plunge-sauna/idea.md"
+    },
+    {
+      "date": "2026-07-07",
+      "slug": "003-plaud-note",
+      "num": "003",
+      "title": "Plaud Note",
+      "score": 7.0,
+      "path": "ideas/2026-07-07/003-plaud-note/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "001-osint-tool",
+      "num": "001",
+      "title": "OSINT Tool — Open Source Intelligence Companion",
+      "score": 7.0,
+      "path": "ideas/2026-07-08/001-osint-tool/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "002-cold-plunge-tracker",
+      "num": "002",
+      "title": "Cold Plunge Tracker — Hydrotherapy Session Manager",
+      "score": 8.2,
+      "path": "ideas/2026-07-08/002-cold-plunge-tracker/idea.md"
+    },
+    {
+      "date": "2026-07-08",
+      "slug": "003-boneless-couch-guide",
+      "num": "003",
+      "title": "Boneless Couch — Space-Saving Furniture Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-08/003-boneless-couch-guide/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "001-pet-care-ai",
+      "num": "001",
+      "title": "Pet Care AI — AI-Powered Pet Health & Care Companion",
+      "score": 7.0,
+      "path": "ideas/2026-07-10/001-pet-care-ai/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "002-osint-tool",
+      "num": "002",
+      "title": "OSINT Tool — Open Source Intelligence Companion",
+      "score": 7.0,
+      "path": "ideas/2026-07-10/002-osint-tool/idea.md"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "003-high-speed-hair-dryer-guide",
+      "num": "003",
+      "title": "High Speed Hair Dryer Guide — Buying Guide & Product Finder",
+      "score": 7.0,
+      "path": "ideas/2026-07-10/003-high-speed-hair-dryer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "001-milky-toner-guide",
+      "num": "001",
+      "title": "Milky Toner Guide",
+      "score": 9.0,
+      "path": "ideas/2026-07-11/001-milky-toner-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "002-baby-bottle-washer-guide",
+      "num": "002",
+      "title": "Baby Bottle Washer Guide",
+      "score": 8.8,
+      "path": "ideas/2026-07-11/002-baby-bottle-washer-guide/idea.md"
+    },
+    {
+      "date": "2026-07-11",
+      "slug": "003-wifi-7-router-guide",
+      "num": "003",
+      "title": "Wifi 7 Router Guide",
+      "score": 8.6,
+      "path": "ideas/2026-07-11/003-wifi-7-router-guide/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "001-cold-plunge-protocol",
+      "num": "001",
+      "title": "Cold Plunge Protocol — Hydrotherapy Session Guide",
+      "score": 7.0,
+      "path": "ideas/2026-07-12/001-cold-plunge-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "002-ai-video-generator",
+      "num": "002",
+      "title": "AI Video Generator — Mobile Video Creation App",
+      "score": 7.0,
+      "path": "ideas/2026-07-12/002-ai-video-generator/idea.md"
+    },
+    {
+      "date": "2026-07-12",
+      "slug": "003-cryotherapy-protocol",
+      "num": "003",
+      "title": "Cryotherapy Protocol — Cold Therapy Guide & Tracker",
+      "score": 7.0,
+      "path": "ideas/2026-07-12/003-cryotherapy-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "001-ai-voice-detector",
+      "num": "001",
+      "title": "AI Voice Detector",
+      "score": 8.6,
+      "path": "ideas/2026-07-13/001-ai-voice-detector/idea.md"
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "002-gender-affirming-care-guide",
+      "num": "002",
+      "title": "Gender Affirming Care Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-13/002-gender-affirming-care-guide/idea.md"
+    },
+    {
+      "date": "2026-07-13",
+      "slug": "003-deepfake-audio-detector",
+      "num": "003",
+      "title": "Deepfake Audio Detector",
+      "score": 7.8,
+      "path": "ideas/2026-07-13/003-deepfake-audio-detector/idea.md"
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "001-ai-observability-platform",
+      "num": "001",
+      "title": "AI Observability Platform",
+      "score": 8.2,
+      "path": "ideas/2026-07-14/001-ai-observability-platform/idea.md"
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "002-agentic-orchestration",
+      "num": "002",
+      "title": "Agentic Orchestration",
+      "score": 7.6,
+      "path": "ideas/2026-07-14/002-agentic-orchestration/idea.md"
+    },
+    {
+      "date": "2026-07-14",
+      "slug": "003-ai-toy-companion",
+      "num": "003",
+      "title": "AI Toy Companion",
+      "score": 7.6,
+      "path": "ideas/2026-07-14/003-ai-toy-companion/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "001-ai-token-usage-monitor",
+      "num": "001",
+      "title": "AI Token Usage Monitor — AI Cost Tracker",
+      "score": 7.0,
+      "path": "ideas/2026-07-15/001-ai-token-usage-monitor/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "002-fractional-coo-kit",
+      "num": "002",
+      "title": "Fractional COO Onboarding Kit — Executive Operations Guide",
+      "score": 7.0,
+      "path": "ideas/2026-07-15/002-fractional-coo-kit/idea.md"
+    },
+    {
+      "date": "2026-07-15",
+      "slug": "003-growthbook-dashboard",
+      "num": "003",
+      "title": "Growthbook Analytics Dashboard — Feature Flag Companion",
+      "score": 7.0,
+      "path": "ideas/2026-07-15/003-growthbook-dashboard/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "001-answer-engine-optimizer",
+      "num": "001",
+      "title": "Answer Engine Optimizer — AI Search Ranking Tool",
+      "score": 7.0,
+      "path": "ideas/2026-07-16/001-answer-engine-optimizer/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "001-ghana-login-hub",
+      "num": "001",
+      "title": "Ghana Login Hub — Unified Authentication for Ghana's Digital Ecosystem",
+      "score": 7.0,
+      "path": "ideas/2026-07-16/001-ghana-login-hub/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "001-login-orchestrator",
+      "num": "001",
+      "title": "Login Orchestrator — Intelligent Multi-Account Manager",
+      "score": 7.0,
+      "path": "ideas/2026-07-16/001-login-orchestrator/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "002-morelogin",
+      "num": "002",
+      "title": "MoreLogin - Multi-Account Browser Manager",
+      "score": 7.0,
+      "path": "ideas/2026-07-16/002-morelogin/idea.md"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "003-antidetect-browser",
+      "num": "003",
+      "title": "Antidetect Browser - Privacy-First Multi-Login",
+      "score": 7.0,
+      "path": "ideas/2026-07-16/003-antidetect-browser/idea.md"
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "001-ugc-creator",
+      "num": "001",
+      "title": "UGC Creator — User-Generated Content Campaign Manager",
+      "score": 8.2,
+      "path": "ideas/2026-07-17/001-ugc-creator/idea.md"
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "002-zebra-design-guide",
+      "num": "002",
+      "title": "Zebra Design Guide — Interior Stripe Pattern Reference",
+      "score": 7.8,
+      "path": "ideas/2026-07-17/002-zebra-design-guide/idea.md"
+    },
+    {
+      "date": "2026-07-17",
+      "slug": "003-toaster-guide",
+      "num": "003",
+      "title": "Toaster Guide — Slim & Cordless Appliance Companion",
+      "score": 7.8,
+      "path": "ideas/2026-07-17/003-toaster-guide/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "001-shoe-care-guide",
+      "num": "001",
+      "title": "Shoe Care Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-19/001-shoe-care-guide/idea.md"
+    },
+    {
+      "date": "2026-07-19",
+      "slug": "002-fashion-lifestyle",
+      "num": "002",
+      "title": "Fashion Lifestyle Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-19/002-fashion-lifestyle/idea.md"
+    },
+    {
+      "date": "2026-07-20",
+      "slug": "003-electric-shaver-guide",
+      "num": "003",
+      "title": "Electric Shaver Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-20/003-electric-shaver-guide/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "001-ai-personal-assistant",
+      "num": "001",
+      "title": "AI Personal Assistant",
+      "score": 7.8,
+      "path": "ideas/2026-07-21/001-ai-personal-assistant/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "002-responsible-ai",
+      "num": "002",
+      "title": "ResponsibleAI - Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-21/002-responsible-ai/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "003-ai-seo",
+      "num": "003",
+      "title": "AISEO - Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-21/003-ai-seo/idea.md"
+    },
+    {
+      "date": "2026-07-21",
+      "slug": "004-ai-robot-dog",
+      "num": "004",
+      "title": "AIRobotDog - Requirements Document",
+      "score": 7.0,
+      "path": "ideas/2026-07-21/004-ai-robot-dog/idea.md"
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "001-backlink-strategy",
+      "num": "001",
+      "title": "Backlink Strategy Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-22/001-backlink-strategy/idea.md"
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "002-seo-tools-comparison",
+      "num": "002",
+      "title": "SEO Tools Comparison",
+      "score": 7.4,
+      "path": "ideas/2026-07-22/002-seo-tools-comparison/idea.md"
+    },
+    {
+      "date": "2026-07-22",
+      "slug": "003-seo-audit-template",
+      "num": "003",
+      "title": "SEO Audit Template",
+      "score": 7.2,
+      "path": "ideas/2026-07-22/003-seo-audit-template/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "001-cold-plunge-sauna",
+      "num": "001",
+      "title": "Cold Plunge Sauna Protocol",
+      "score": 7.6,
+      "path": "ideas/2026-07-23/001-cold-plunge-sauna/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "002-sauna-protocol",
+      "num": "002",
+      "title": "Sauna Protocol Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-23/002-sauna-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-23",
+      "slug": "003-hydrotherapy-protocol",
+      "num": "003",
+      "title": "Hydrotherapy Protocol",
+      "score": 7.2,
+      "path": "ideas/2026-07-23/003-hydrotherapy-protocol/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "001-cold-plunge-burner",
+      "num": "001",
+      "title": "Cold Plunge Burner Protocol",
+      "score": 7.8,
+      "path": "ideas/2026-07-24/001-cold-plunge-burner/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "002-sauna-temperature",
+      "num": "002",
+      "title": "Sauna Temperature Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-24/002-sauna-temperature/idea.md"
+    },
+    {
+      "date": "2026-07-24",
+      "slug": "003-hydrocoach-app",
+      "num": "003",
+      "title": "HydroCoach App",
+      "score": 7.4,
+      "path": "ideas/2026-07-24/003-hydrocoach-app/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "001-walking-pad-workout",
+      "num": "001",
+      "title": "Walking Pad Workout",
+      "score": 7.8,
+      "path": "ideas/2026-07-25/001-walking-pad-workout/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "002-treadmill-desk",
+      "num": "002",
+      "title": "Treadmill Desk Routine",
+      "score": 7.6,
+      "path": "ideas/2026-07-25/002-treadmill-desk/idea.md"
+    },
+    {
+      "date": "2026-07-25",
+      "slug": "003-fitness-walking",
+      "num": "003",
+      "title": "Fitness Walking Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-25/003-fitness-walking/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "001-electrical-diagnostic",
+      "num": "001",
+      "title": "Electrical Diagnostic Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-26/001-electrical-diagnostic/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "002-oil-gas-safety",
+      "num": "002",
+      "title": "Oil Gas Safety Protocols",
+      "score": 7.8,
+      "path": "ideas/2026-07-26/002-oil-gas-safety/idea.md"
+    },
+    {
+      "date": "2026-07-26",
+      "slug": "003-plumbing-troubleshooting",
+      "num": "003",
+      "title": "Plumbing Troubleshooting Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-26/003-plumbing-troubleshooting/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "001-furnace-maintenance",
+      "num": "001",
+      "title": "Furnace Maintenance Checklist",
+      "score": 8.0,
+      "path": "ideas/2026-07-27/001-furnace-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "002-roof-inspection",
+      "num": "002",
+      "title": "Roof Inspection Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-27/002-roof-inspection/idea.md"
+    },
+    {
+      "date": "2026-07-27",
+      "slug": "003-hvac-repair",
+      "num": "003",
+      "title": "HVAC Repair Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-27/003-hvac-repair/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "001-water-heater-guide",
+      "num": "001",
+      "title": "Water Heater Troubleshooting",
+      "score": 8.2,
+      "path": "ideas/2026-07-28/001-water-heater-guide/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "002-garage-door-repair",
+      "num": "002",
+      "title": "Garage Door Repair Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-28/002-garage-door-repair/idea.md"
+    },
+    {
+      "date": "2026-07-28",
+      "slug": "003-dryer-repair",
+      "num": "003",
+      "title": "Dryer Repair Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-28/003-dryer-repair/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "001-lawn-mower-maintenance",
+      "num": "001",
+      "title": "Lawn Mower Maintenance Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-29/001-lawn-mower-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "002-garden-tool-maintenance",
+      "num": "002",
+      "title": "Garden Tool Maintenance",
+      "score": 7.6,
+      "path": "ideas/2026-07-29/002-garden-tool-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-29",
+      "slug": "003-chainsaw-safety",
+      "num": "003",
+      "title": "Chainsaw Safety Guide",
+      "score": 7.4,
+      "path": "ideas/2026-07-29/003-chainsaw-safety/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "001-well-pump-maintenance",
+      "num": "001",
+      "title": "Well Pump Maintenance Guide",
+      "score": 8.0,
+      "path": "ideas/2026-07-30/001-well-pump-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "002-point-of-entry-filter",
+      "num": "002",
+      "title": "Point of Entry Water Filter Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-30/002-point-of-entry-filter/idea.md"
+    },
+    {
+      "date": "2026-07-30",
+      "slug": "003-septic-tank-maintenance",
+      "num": "003",
+      "title": "Septic Tank Maintenance Guide",
+      "score": 7.6,
+      "path": "ideas/2026-07-30/003-septic-tank-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "001-pool-filter-cleaning",
+      "num": "001",
+      "title": "Pool Filter Cleaning Guide",
+      "score": 8.2,
+      "path": "ideas/2026-07-31/001-pool-filter-cleaning/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "002-spa-equipment-maintenance",
+      "num": "002",
+      "title": "Spa Equipment Maintenance",
+      "score": 8.0,
+      "path": "ideas/2026-07-31/002-spa-equipment-maintenance/idea.md"
+    },
+    {
+      "date": "2026-07-31",
+      "slug": "003-hot-tub-chemistry",
+      "num": "003",
+      "title": "Hot Tub Chemistry Guide",
+      "score": 7.8,
+      "path": "ideas/2026-07-31/003-hot-tub-chemistry/idea.md"
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "001-qamaria-yemeni-coffee",
+      "num": "001",
+      "title": "Qamaria Yemeni Coffee",
+      "score": 7.0,
+      "path": "ideas/2026-08-01/001-qamaria-yemeni-coffee/idea.md"
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "002-fastmoss",
+      "num": "002",
+      "title": "Fastmoss",
+      "score": 7.0,
+      "path": "ideas/2026-08-01/002-fastmoss/idea.md"
+    },
+    {
+      "date": "2026-08-01",
+      "slug": "003-suri-toothbrush",
+      "num": "003",
+      "title": "Suri Toothbrush",
+      "score": 7.0,
+      "path": "ideas/2026-08-01/003-suri-toothbrush/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "001-pyloric-stenosis-guide",
+      "num": "001",
+      "title": "Pyloric Stenosis Guide — Pediatric Emergency Resource",
+      "score": 8.2,
+      "path": "ideas/2026-08-02/001-pyloric-stenosis-guide/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "002-methylphenidate-side-effects",
+      "num": "002",
+      "title": "Methylphenidate Side Effects — ADHD Medication Companion",
+      "score": 8.0,
+      "path": "ideas/2026-08-02/002-methylphenidate-side-effects/idea.md"
+    },
+    {
+      "date": "2026-08-02",
+      "slug": "003-haraz-coffee-guide",
+      "num": "003",
+      "title": "Haraz Coffee Guide — Ethiopian Coffee Origins",
+      "score": 8.0,
+      "path": "ideas/2026-08-02/003-haraz-coffee-guide/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "001-jumping-spider-enclosure-guide",
+      "num": "001",
+      "title": "Jumping Spider Enclosure Guide — Pet Arachnid Habitat Designer",
+      "score": 8.0,
+      "path": "ideas/2026-08-03/001-jumping-spider-enclosure-guide/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "002-ai-translator-headphones",
+      "num": "002",
+      "title": "AI Translator Headphones — Real-Time Translation Companion",
+      "score": 8.0,
+      "path": "ideas/2026-08-03/002-ai-translator-headphones/idea.md"
+    },
+    {
+      "date": "2026-08-03",
+      "slug": "003-agricultural-marketplace",
+      "num": "003",
+      "title": "Agricultural Marketplace — Farm B2B Supply Hub",
+      "score": 7.8,
+      "path": "ideas/2026-08-03/003-agricultural-marketplace/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "001-prompt-engineering-assistant",
+      "num": "001",
+      "title": "Prompt Engineering Assistant",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/001-prompt-engineering-assistant/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "002-pdrn-skincare-tracker",
+      "num": "002",
+      "title": "PDRN Skincare Tracker",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/002-pdrn-skincare-tracker/idea.md"
+    },
+    {
+      "date": "2026-08-12",
+      "slug": "003-response-ai-optimization",
+      "num": "003",
+      "title": "Response AI Optimization",
+      "score": 8.0,
+      "path": "ideas/2026-08-12/003-response-ai-optimization/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "001-voice-deepfake-detector",
+      "num": "001",
+      "title": "Voice Deepfake Detector",
+      "score": 8.6,
+      "path": "ideas/2026-08-13/001-voice-deepfake-detector/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "002-ethical-ai-compliance",
+      "num": "002",
+      "title": "Ethical AI Compliance",
+      "score": 8.0,
+      "path": "ideas/2026-08-13/002-ethical-ai-compliance/idea.md"
+    },
+    {
+      "date": "2026-08-13",
+      "slug": "003-bio-responsive-beauty",
+      "num": "003",
+      "title": "Bio-responsive Beauty App",
+      "score": 8.2,
+      "path": "ideas/2026-08-13/003-bio-responsive-beauty/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "001-ai-ethics-compliance-checker",
+      "num": "001",
+      "title": "AI Ethics Compliance Checker",
+      "score": 8.1,
+      "path": "ideas/2026-08-15/001-ai-ethics-compliance-checker/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "002-allergen-free-feeding-guide",
+      "num": "002",
+      "title": "Allergen-free Feeding Guide",
+      "score": 7.9,
+      "path": "ideas/2026-08-15/002-allergen-free-feeding-guide/idea.md"
+    },
+    {
+      "date": "2026-08-15",
+      "slug": "003-digital-minimalism-planner",
+      "num": "003",
+      "title": "Digital Minimalism Planner",
+      "score": 7.7,
+      "path": "ideas/2026-08-15/003-digital-minimalism-planner/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "001-depuffing-wand-guide",
+      "num": "001",
+      "title": "Depuffing Wand Guide",
+      "score": 8.7,
+      "path": "ideas/2026-08-16/001-depuffing-wand-guide/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "002-shoe-washing-bag-guide",
+      "num": "002",
+      "title": "Shoe Washing Bag Guide",
+      "score": 8.5,
+      "path": "ideas/2026-08-16/002-shoe-washing-bag-guide/idea.md"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "003-parasocial-journal",
+      "num": "003",
+      "title": "Parasocial Journal",
+      "score": 8.3,
+      "path": "ideas/2026-08-16/003-parasocial-journal/idea.md"
+    },
+    {
+      "date": "2026-08-17",
+      "slug": "001-pdrn",
+      "num": "001",
+      "title": "PDRN",
+      "score": 8.0,
+      "path": "ideas/2026-08-17/001-pdrn/idea.md"
+    },
+    {
+      "date": "2026-08-17",
+      "slug": "002-hypochlorous-acid-spray",
+      "num": "002",
+      "title": "Hypochlorous Acid Spray",
+      "score": 7.8,
+      "path": "ideas/2026-08-17/002-hypochlorous-acid-spray/idea.md"
+    },
+    {
+      "date": "2026-08-17",
+      "slug": "003-farming-robot",
+      "num": "003",
+      "title": "Farming Robot",
+      "score": 7.4,
+      "path": "ideas/2026-08-17/003-farming-robot/idea.md"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "001-baselane",
+      "num": "001",
+      "title": "Baselane",
+      "score": 6.8,
+      "path": "ideas/2026-08-21/001-baselane/idea.md"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "002-owala",
+      "num": "002",
+      "title": "Owala",
+      "score": 6.8,
+      "path": "ideas/2026-08-21/002-owala/idea.md"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "003-wolverine-peptide",
+      "num": "003",
+      "title": "Wolverine Peptide",
+      "score": 6.6,
+      "path": "ideas/2026-08-21/003-wolverine-peptide/idea.md"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "001-carsize-compare",
+      "num": "001",
+      "title": "CarSize Compare",
+      "score": 8.3,
+      "path": "ideas/2026-08-22/001-carsize-compare/idea.md"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "002-barefoot-ready",
+      "num": "002",
+      "title": "Barefoot Ready",
+      "score": 8.0,
+      "path": "ideas/2026-08-22/002-barefoot-ready/idea.md"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "003-clean-girl-playbook",
+      "num": "003",
+      "title": "Clean Girl Playbook",
+      "score": 7.6,
+      "path": "ideas/2026-08-22/003-clean-girl-playbook/idea.md"
+    },
+    {
+      "date": "2026-08-23",
+      "slug": "001-balletcore-wardrobe-guide",
+      "num": "001",
+      "title": "Balletcore Wardrobe Guide",
+      "score": 7.8,
+      "path": "ideas/2026-08-23/001-balletcore-wardrobe-guide/idea.md"
+    },
+    {
+      "date": "2026-08-23",
+      "slug": "002-raw-milk-field-guide",
+      "num": "002",
+      "title": "Raw Milk Field Guide",
+      "score": 7.8,
+      "path": "ideas/2026-08-23/002-raw-milk-field-guide/idea.md"
+    },
+    {
+      "date": "2026-08-23",
+      "slug": "003-glowplan-ipl-tracker",
+      "num": "003",
+      "title": "GlowPlan — IPL Hair Tracker",
+      "score": 7.6,
+      "path": "ideas/2026-08-23/003-glowplan-ipl-tracker/idea.md"
+    }
+  ],
+  "last_updated": "2026-08-23",
+  "total": 195
 }
