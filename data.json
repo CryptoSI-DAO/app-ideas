@@ -1607,8 +1607,24 @@
       "title": "VoiceProof — Scam Call Shield",
       "score": 8.0,
       "path": "ideas/2026-08-26/001-voiceproof-scam-call-shield/idea.md"
+    },
+    {
+      "date": "2026-08-27",
+      "slug": "001-passkey-guide",
+      "num": "001",
+      "title": "PassKey Companion — Passwordless Consumer Guide",
+      "score": 8.0,
+      "path": "ideas/2026-08-27/001-passkey-guide/001-passwordless-consumer-guide/idea.md"
+    },
+    {
+      "date": "2026-08-27",
+      "slug": "002-coffee-soap-guide",
+      "num": "002",
+      "title": "ScreenExtend — Laptop Screen Extender Buying Guide",
+      "score": 7.6,
+      "path": "ideas/2026-08-27/002-coffee-soap-guide/002-screen-extender-buying-guide/idea.md"
     }
   ],
-  "last_updated": "2026-08-26",
-  "total": 201
+  "last_updated": "2026-08-29",
+  "total": 203
 }
