@@ -1647,8 +1647,32 @@
       "title": "Tangle \u2014 Ionic Thermal Hair Brush Buying Guide",
       "score": 7.3,
       "path": "ideas/2026-08-29/003-ionic-thermal-brush-guide/idea.md"
+    },
+    {
+      "date": "2026-08-30",
+      "slug": "001-boneless-couch-guide",
+      "num": "001",
+      "title": "Boneless Couch Guide \u2014 Modular Couch Buying Guide",
+      "score": 7.6,
+      "path": "ideas/2026-08-30/001-boneless-couch-guide/idea.md"
+    },
+    {
+      "date": "2026-08-30",
+      "slug": "002-walking-pad-guide",
+      "num": "002",
+      "title": "Walking Pad Guide \u2014 Under-Desk Treadmill Finder",
+      "score": 7.8,
+      "path": "ideas/2026-08-30/002-walking-pad-guide/idea.md"
+    },
+    {
+      "date": "2026-08-30",
+      "slug": "003-airplane-phone-holder-guide",
+      "num": "003",
+      "title": "Airplane Phone Holder Guide \u2014 Travel Phone Mount Finder",
+      "score": 7.8,
+      "path": "ideas/2026-08-30/003-airplane-phone-holder-guide/idea.md"
     }
   ],
-  "last_updated": "2026-08-29",
-  "total": 206
+  "last_updated": "2026-08-30",
+  "total": 209
 }
