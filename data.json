@@ -1711,8 +1711,56 @@
       "title": "MagTrack \u2014 Magnesium Bisglycinate Guide & Tracker",
       "score": 7.2,
       "path": "ideas/2026-09-01/002-magtrack/idea.md"
+    },
+    {
+      "date": "2026-09-02",
+      "slug": "001-lactoferrin-guide",
+      "num": "001",
+      "title": "Lactoferrin Guide \u2014 Immune Support & Iron Absorption Supplement",
+      "score": 7.2,
+      "path": "ideas/2026-09-02/001-lactoferrin-guide/idea.md"
+    },
+    {
+      "date": "2026-09-02",
+      "slug": "002-satin-bonnet-guide",
+      "num": "002",
+      "title": "SatinBonnet \u2014 Satin & Silk Bonnet Guide",
+      "score": 7.6,
+      "path": "ideas/2026-09-02/002-satin-bonnet-guide/idea.md"
+    },
+    {
+      "date": "2026-09-02",
+      "slug": "003-pistachio-perfume-guide",
+      "num": "003",
+      "title": "PistachioPerfume \u2014 Pistachio Fragrance Guide",
+      "score": 7.0,
+      "path": "ideas/2026-09-02/003-pistachio-perfume-guide/idea.md"
+    },
+    {
+      "date": "2026-09-03",
+      "slug": "001-low-rise-sweatpants-finder",
+      "num": "001",
+      "title": "LowRise \u2014 Low Rise Sweatpants Finder",
+      "score": 7.8,
+      "path": "ideas/2026-09-03/001-low-rise-sweatpants-finder/idea.md"
+    },
+    {
+      "date": "2026-09-03",
+      "slug": "002-cargo-capris-finder",
+      "num": "002",
+      "title": "CapriFind \u2014 Cargo Capris Finder",
+      "score": 7.6,
+      "path": "ideas/2026-09-03/002-cargo-capris-finder/idea.md"
+    },
+    {
+      "date": "2026-09-03",
+      "slug": "003-360-car-seat-finder",
+      "num": "003",
+      "title": "Seat360 \u2014 360 Car Seat Finder & Safety Guide",
+      "score": 7.4,
+      "path": "ideas/2026-09-03/003-360-car-seat-finder/idea.md"
     }
   ],
-  "last_updated": "2026-08-31",
-  "total": 212
+  "last_updated": "2026-09-03",
+  "total": 220
 }
