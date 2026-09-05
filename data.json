@@ -1783,8 +1783,32 @@
       "title": "BirchShield — Birch Juice Sunscreen Guide",
       "score": 7.2,
       "path": "ideas/2026-09-04/003-birch-sunscreen-guide/idea.md"
+    },
+    {
+      "date": "2026-09-05",
+      "slug": "001-pupsicle-paw-guide",
+      "num": "001",
+      "title": "Pupsicle — Frozen Dog Treat Guide & Finder",
+      "score": 7.4,
+      "path": "ideas/2026-09-05/001-pupsicle-paw-guide/idea.md"
+    },
+    {
+      "date": "2026-09-05",
+      "slug": "002-banana-matcha-guide",
+      "num": "002",
+      "title": "BananaMatcha — Banana Matcha Latte Guide & Recipe Finder",
+      "score": 7.2,
+      "path": "ideas/2026-09-05/002-banana-matcha-guide/idea.md"
+    },
+    {
+      "date": "2026-09-05",
+      "slug": "003-bond-repair-shampoo-guide",
+      "num": "003",
+      "title": "BondRepair — Hair Bond Repair Guide & Product Finder",
+      "score": 7.0,
+      "path": "ideas/2026-09-05/003-bond-repair-shampoo-guide/idea.md"
     }
   ],
-  "last_updated": "2026-09-04",
-  "total": 223
+  "last_updated": "2026-09-05",
+  "total": 226
 }
