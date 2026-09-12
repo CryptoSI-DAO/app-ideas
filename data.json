@@ -1301,16 +1301,18 @@
       "slug": "001-qamaria-yemeni-coffee",
       "num": "001",
       "title": "Qamaria Yemeni Coffee",
-      "score": 7.0,
-      "path": "ideas/2026-08-01/001-qamaria-yemeni-coffee/idea.md"
+      "score": 7.6,
+      "path": "ideas/2026-08-01/001-qamaria-yemeni-coffee/idea.md",
+      "updated": "2026-09-12T03:15:40.233045"
     },
     {
       "date": "2026-08-01",
       "slug": "002-fastmoss",
       "num": "002",
       "title": "Fastmoss",
-      "score": 7.0,
-      "path": "ideas/2026-08-01/002-fastmoss/idea.md"
+      "score": 7.4,
+      "path": "ideas/2026-08-01/002-fastmoss/idea.md",
+      "updated": "2026-09-12T03:15:40.233067"
     },
     {
       "date": "2026-08-01",
@@ -1477,8 +1479,9 @@
       "slug": "002-hypochlorous-acid-spray",
       "num": "002",
       "title": "Hypochlorous Acid Spray",
-      "score": 7.8,
-      "path": "ideas/2026-08-17/002-hypochlorous-acid-spray/idea.md"
+      "score": 8.2,
+      "path": "ideas/2026-08-17/002-hypochlorous-acid-spray/idea.md",
+      "updated": "2026-09-12T03:15:40.233078"
     },
     {
       "date": "2026-08-17",
@@ -1833,6 +1836,6 @@
       "path": "ideas/2026-09-08/003-fastmoss/idea.md"
     }
   ],
-  "last_updated": "2026-09-05",
-  "total": 226
+  "last_updated": "2026-09-12T03:00:00.000000Z",
+  "total": 229
 }
