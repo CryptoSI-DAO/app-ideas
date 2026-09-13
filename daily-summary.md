@@ -1,4 +1,4 @@
-# Daily Summary — 2026-09-12
+# Daily Summary — 2026-09-13
 
 ## Top 2 App Ideas
 
@@ -34,14 +34,14 @@
 ---
 
 ## Rejected Candidates
-- **Wolverine Peptide** (6.4): Saturated gap — 49 apps, 11,253 reviews. Existing peptide guide apps already cover this space.
-- **Walk While Working** (6.4): Saturated gap — 49 apps, 688,509 reviews. Walking pad market already has many apps.
-- **AI Observability** (6.0): Saturated gap — 50 apps, 831,956 reviews. Enterprise tool, too complex for ≤3h build.
-- **Baselane** (6.0): Saturated gap — 43 apps, 8,696 reviews. Fintech/B2B, high complexity.
-- **MoreLogin** (6.0): Saturated gap — 28 apps, 103,301 reviews. Password manager space is dominated.
-- **UGC Creator** (6.0): Saturated gap — 48 apps, 704,631 reviews. Creator tools space is crowded.
-- **Owala** (6.0): Saturated gap — 41 apps, 27,296,069 reviews. Water bottle retail, not an app opportunity.
-- **Answer Engine Optimization** (6.0): Saturated gap — 48 apps, 110,249 reviews. SEO tooling, too complex.
+- **Wolverine Peptide** (6.4): Saturated gap — 49 apps, 6,102 reviews. Existing peptide guide apps already cover this space.
+- **Walk While Working** (6.4): Saturated gap — 49 apps, 1,168,254 reviews. Walking pad market already has many apps.
+- **AI Observability** (6.0): Saturated gap — 50 apps, 834,103 reviews. Enterprise tool, too complex for ≤3h build.
+- **Baselane** (6.0): Saturated gap — 43 apps, 8,752 reviews. Fintech/B2B, high complexity.
+- **MoreLogin** (6.0): Saturated gap — 29 apps, 103,301 reviews. Password manager space is dominated.
+- **UGC Creator** (6.0): Saturated gap — 48 apps, 704,882 reviews. Creator tools space is crowded.
+- **Owala** (6.0): Saturated gap — 42 apps, 27,321,507 reviews. Water bottle retail, not an app opportunity.
+- **Answer Engine Optimization** (6.0): Saturated gap — 48 apps, 110,271 reviews. SEO tooling, too complex.
 
 ---
 
