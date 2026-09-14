@@ -1866,8 +1866,28 @@
       "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
       "score": 7.2,
       "path": "ideas/2026-09-13/002-fractional-coo/idea.md"
+    },
+    {
+      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
+      "date": "2026-09-14",
+      "score": 8.0,
+      "path": "ideas/2026-09-14/001-depuffing-wand/idea.md",
+      "category": "health",
+      "growth": 7800,
+      "gap_signal": "pollution",
+      "build_time": 2
+    },
+    {
+      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
+      "date": "2026-09-14",
+      "score": 7.2,
+      "path": "ideas/2026-09-14/002-fractional-coo/idea.md",
+      "category": "business",
+      "growth": 7600,
+      "gap_signal": "low_competition",
+      "build_time": 3
     }
   ],
   "last_updated": "2026-09-14T04:00:00.000000Z",
-  "total": 233
+  "total": 235
 }
