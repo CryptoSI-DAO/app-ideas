@@ -1404,8 +1404,28 @@
       "path": "ideas/2026-09-17/003-hair-glossing/idea.md",
       "pitch": "A guided app for hair glossing \u2014 the trending at-home hair treatment that adds shine, depth, and color refresh between salon visits. Features a treatment guide, product recommendations, and step-by-step tutorial.",
       "status": "shipped"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
+      "score": 8.0,
+      "path": "ideas/2026-09-18/001-depuffing-wand/idea.md",
+      "category": "health",
+      "growth": 7800,
+      "gap_signal": "pollution",
+      "build_time": 2
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-09-18/002-fractional-coo/idea.md",
+      "category": "business",
+      "growth": 7600,
+      "gap_signal": "low_competition",
+      "build_time": 3
     }
   ],
-  "last_updated": "2026-09-18T03:00:00.000000Z",
-  "total": 229
+  "last_updated": "2026-09-18T04:00:00.000000Z",
+  "total": 231
 }

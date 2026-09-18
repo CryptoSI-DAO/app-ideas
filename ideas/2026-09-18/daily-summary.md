@@ -1,63 +1,54 @@
-# Daily Summary — 2026-09-17
+# Daily Summary — 2026-09-18
 
-## Top 3 App Ideas
+## Top 2 App Ideas
 
-### 🥇 #1: Cherry Bag Charm — Score: 8.0/10
-- **Pitch**: A guided shopping app for cherry bag charms — the trending fruit-inspired accessory taking over handbag styling. Features a style guide, charm pairing recommendations, and a curated product finder with affiliate links.
-- **Why**: Explosive growth (6,300%) in a niche fashion accessory category with confirmed app gap: iTunes search pollution signal (2 results, both completely irrelevant — Cherry Stickers [Food & Drink] and The Silver Goose [Shopping]). Zero dedicated cherry bag charm apps exist. Simple guide + finder build fits the ≤3h threshold.
-- **Build Time**: ~1.5 hours
-- **Pricing**: Free with affiliate ($1.99 optional premium)
-
-### 🥈 #2: Prequel Skincare — Score: 7.2/10
-- **Pitch**: A dedicated skincare guide and product finder for Prequel — the rapidly growing clean skincare brand. Features a routine builder, product comparison tool, and affiliate-linked shopping guide for all Prequel skincare products.
-- **Why**: 6,900% growth in a clean beauty niche with confirmed app gap: iTunes search pollution signal (9 results, all from wrong categories — Shopping, Medical, Health & Fitness). No dedicated Prequel skincare app exists. Simple guide + routine builder fits the ≤3h threshold.
+### 🥇 #1: Depuffing Wand — Score: 8.0/10
+- **Pitch**: A guided skincare app that helps users understand and use depuffing wands — cooling facial tools for reducing puffiness — with tutorials, usage tracking, and product recommendations.
+- **Why**: Explosive growth (7,800%) in a niche beauty tool category with confirmed app gap: iTunes search pollution signal (8 results, all wrong categories) means no dedicated app exists. Simple guide + tracker build fits the ≤3h threshold.
 - **Build Time**: ~2 hours
-- **Pricing**: Free with affiliate ($2.99 optional premium)
+- **Pricing**: Free with optional premium ($2.99)
 
-### 🥉 #3: Hair Glossing — Score: 7.0/10
-- **Pitch**: A guided app for hair glossing — the trending at-home hair treatment that adds shine, depth, and color refresh between salon visits. Features a treatment guide, product recommendations, and step-by-step tutorial.
-- **Why**: 386% growth in a hair care niche with confirmed app gap: iTunes search pollution signal (8 results, all from wrong categories — Business, Shopping, Entertainment). No dedicated hair glossing app exists. Simple guide + product finder fits the ≤3h threshold.
-- **Build Time**: ~2 hours
-- **Pricing**: Free with affiliate ($1.99 optional premium)
+### 🥈 #2: Fractional COO — Score: 7.2/10
+- **Pitch**: An operations toolkit for fractional COOs and small business owners — templates, checklists, and tools to manage business operations without a full team.
+- **Why**: 7,600% growth in a B2B/professional services niche with low competition (12 apps, 231 combined reviews). Evergreen business tool with premium monetization path.
+- **Build Time**: ~3 hours
+- **Pricing**: Free with optional premium ($4.99)
 
 ---
 
 ## All Ideas Scored Today
 
-|| # | Idea | Trend | Gap | Build | Evergreen | Money | Avg |
+| # | Idea | Trend | Gap | Build | Evergreen | Money | Avg |
 |---|------|-------|-----|-------|-----------|-------|-----|
-| 1 | Cherry Bag Charm | 10 | 10 | 8 | 7 | 7 | **8.0** |
-| 2 | Prequel Skincare | 10 | 10 | 7 | 7 | 7 | **7.2** |
-| 3 | Hair Glossing | 8 | 10 | 8 | 6 | 6 | **7.0** |
-| 4 | Milky Toner | 7 | 5 | 7 | 7 | 6 | **6.4** |
-| 5 | Sleep Bonnet | 7 | 4 | 7 | 7 | 6 | **6.2** |
-| 6 | Pistachio Perfume | 7 | 4 | 7 | 7 | 6 | **6.2** |
-| 7 | Barrel Leg Pants | 7 | 4 | 7 | 6 | 6 | **6.0** |
-| 8 | Yuzu Peel | 6 | 6 | 7 | 6 | 6 | **6.2** |
+| 1 | Depuffing Wand | 10 | 9 | 6 | 8 | 7 | **8.0** |
+| 2 | Fractional COO | 10 | 8 | 6 | 6 | 6 | **7.2** |
+| 3 | Wolverine Peptide | 10 | 3 | 4 | 8 | 7 | **6.4** |
+| 4 | Walk While Working | 10 | 3 | 4 | 8 | 7 | **6.4** |
+| 5 | AI Observability | 10 | 3 | 5 | 6 | 6 | **6.0** |
+| 6 | Baselane | 10 | 3 | 5 | 6 | 6 | **6.0** |
+| 7 | MoreLogin | 10 | 3 | 5 | 6 | 6 | **6.0** |
+| 8 | UGC Creator | 10 | 3 | 5 | 6 | 6 | **6.0** |
+| 9 | Owala | 10 | 3 | 5 | 6 | 6 | **6.0** |
+| 10 | Answer Engine Optimization | 10 | 3 | 5 | 6 | 6 | **6.0** |
 
 ---
 
 ## Rejected Candidates
-- **Milky Toner** (6.4): Already tracked (2026-07-11, score 9.0). Saturated gap — existing Milky Toner Guide app covers this space.
-- **Sleep Bonnet** (6.2): Already tracked (2026-09-02 SatinBonnet, score 7.6). Adjacent/similar concept — satin/silk bonnet guide already covers this.
-- **Pistachio Perfume** (6.2): Already tracked (2026-09-02, score 7.0). Same core concept — existing Pistachio Fragrance Guide covers this.
-- **Barrel Leg Pants** (6.0): Already tracked (2026-09-03 LowRise, score 7.8). Adjacent fashion finder category — overlapping with existing pants finder apps.
-- **Yuzu Peel** (6.2): Low trend signal (261% growth) and saturated cooking app market (10 results, 183K reviews, all Games). Not a viable app opportunity.
-- **Perimenopause** (6.0): Saturated gap — 10 results, 1.97M reviews. Existing period/health trackers (Flo, Clue) already cover this space.
-- **Passwordless** (6.0): Saturated gap — 9 results, 398 reviews. Enterprise security space, too complex for ≤3h build.
-- **AI for Teachers** (6.0): Saturated gap — 9 results, 120 reviews. Education tools space is dominated by giants (Answer.AI, etc.).
-- **Candlelight Concert** (6.0): Saturated gap — 10 results, 234K reviews. Event discovery space dominated by Fever, Bandsintown, Songkick.
-- **Partiful** (6.0): Saturated gap — 7 results, 958K reviews. Party invitation space dominated by Evite, Paperless Post.
-- **AI Guardrails** (6.0): Saturated gap — 10 results, 285K reviews. Enterprise AI governance, too complex for ≤3h build.
-- **Resume Screening** (6.0): Saturated gap — 10 results, 117K reviews. HR tools space dominated by resume builders.
-- **Cold Plunge Sauna** (6.0): Already tracked (contrast therapy protocol, cold plunge tracker). Saturated gap — 10 results, 2.6K reviews. Existing apps cover this.
+- **Wolverine Peptide** (6.4): Saturated gap — 49 apps, 6,102 reviews. Existing peptide guide apps already cover this space.
+- **Walk While Working** (6.4): Saturated gap — 49 apps, 1,168,254 reviews. Walking pad market already has many apps.
+- **AI Observability** (6.0): Saturated gap — 50 apps, 834,103 reviews. Enterprise tool, too complex for ≤3h build.
+- **Baselane** (6.0): Saturated gap — 43 apps, 8,752 reviews. Fintech/B2B, high complexity.
+- **MoreLogin** (6.0): Saturated gap — 29 apps, 103,301 reviews. Password manager space is dominated.
+- **UGC Creator** (6.0): Saturated gap — 48 apps, 704,882 reviews. Creator tools space is crowded.
+- **Owala** (6.0): Saturated gap — 42 apps, 27,321,507 reviews. Water bottle retail, not an app opportunity.
+- **Answer Engine Optimization** (6.0): Saturated gap — 48 apps, 110,271 reviews. SEO tooling, too complex.
 
 ---
 
 ## Trends Watched
-- **Cherry Bag Charm**: Rapid growth in fashion accessory category; 6,300% growth on Exploding Topics, confirmed green field via iTunes pollution signal (2 results, both wrong categories).
-- **Prequel Skincare**: Explosive clean beauty trend; 6,900% growth, confirmed green field via iTunes pollution signal (9 results, all wrong categories).
-- **Hair Glossing**: Growing hair care trend; 386% growth, confirmed green field via iTunes pollution signal (8 results, all wrong categories).
+- **Depuffing Wand**: Rapid growth in beauty/skincare tool category; 7,800% growth on Exploding Topics, confirmed green field via iTunes pollution signal.
+- **Fractional COO**: Explosive B2B trend; 7,600% growth, low app competition (12 apps, 231 reviews), strong evergreen potential.
+- **AI Observability**: 9,300% growth but saturated app market and enterprise complexity — rejected.
 
 ## Sources Checked
 - [x] Exploding Topics (US, via Jina Reader) — primary source
@@ -66,6 +57,7 @@
 - [x] App Store gap analysis (iTunes Search API) — used for App Gap scoring
 
 ## Archive Notes
-- 3 ideas shipped today (3/8 candidates passed the ≥7.0 threshold)
-- 10 candidates rejected due to saturated app gaps, existing tracking, or build complexity
+- 2 ideas shipped today (2/10 candidates passed the ≥7.0 threshold)
+- 8 candidates rejected due to saturated app gaps or build complexity
 - No previously tracked ideas declining
+- **Note**: This is a re-run for 2026-09-18 — the original pipeline run on 09-16 produced these same two ideas (Depuffing Wand 8.0, Fractional COO 7.2) which were committed under the 09-16 date. The 09-18 date folder was empty (only a stale daily-summary.md from a prior interrupted run). This run properly created idea folders and date-specific summary.
