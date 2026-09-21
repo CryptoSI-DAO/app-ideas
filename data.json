@@ -1444,8 +1444,20 @@
       "growth": 1400,
       "gap_signal": "low_competition",
       "build_time": 3
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
+      "score": 8.0,
+      "path": "ideas/2026-09-21/001-depuffing-wand-guide/idea.md"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-09-21/002-fractional-coo-operations-toolkit/idea.md"
     }
   ],
   "last_updated": "2026-09-21T03:00:00.000000Z",
-  "total": 233
+  "total": 235
 }
