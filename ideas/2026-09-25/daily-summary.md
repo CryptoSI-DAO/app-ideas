@@ -1,4 +1,4 @@
-# Daily Summary — 2026-09-24
+# Daily Summary — 2026-09-25
 
 ## Top 2 App Ideas
 
@@ -54,7 +54,8 @@
 
 ## Archive Notes
 - 2 ideas shipped today (2/10 candidates passed the ≥7.0 threshold)
+- Pipeline ran via `full_pipeline.sh` — re-promoted same 2 ideas from 09-24 during monthly ET list exhaustion
 - 8 candidates rejected — all saturated on App Store with high review counts and build times exceeding 3h
-- Both shipped ideas are re-promotions from prior runs (2026-09-21, 2026-09-22, 2026-09-23) — the Exploding Topics monthly top-100 remains stale (Published Time: 2026-08-24T01:39Z, byte-identical item set)
+- Both shipped ideas are re-promotions from prior runs (2026-09-21 through 2026-09-25) — the Exploding Topics monthly top-100 remains stale — the Exploding Topics monthly top-100 remains stale (Published Time: 2026-08-24T01:39Z, byte-identical item set)
 - No previously tracked ideas declining
 - **Note**: Pipeline ran via `full_pipeline.sh` which executed research_pipeline.py, update_data_json.py, and git commit. The sync_data_json.py step failed (file not found) but data.json was updated manually with the new 09-24 entries. Idea folders and idea.md files were copied from prior date's folders (identical content — re-promotion of same ideas during monthly ET list exhaustion). The date-specific daily-summary.md was created in ideas/2026-09-24/ alongside the root copy.
