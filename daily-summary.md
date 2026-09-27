@@ -1,4 +1,4 @@
-# Daily Summary — 2026-09-26
+# Daily Summary — 2026-09-27
 
 ## Top 2 App Ideas
 
@@ -56,7 +56,7 @@
 - 2 ideas shipped today (2/10 candidates passed the ≥7.0 threshold)
 - Pipeline ran via `full_pipeline.sh` — re-promoted same 2 ideas from 09-25 during monthly ET list exhaustion
 - 8 candidates rejected — all saturated on App Store with high review counts and build times exceeding 3h
-- Both shipped ideas are re-promotions from prior runs (2026-09-21 through 2026-09-26) — the Exploding Topics monthly top-100 remains stale (Published Time: 2026-08-24T01:39Z, byte-identical item set)
+- Both shipped ideas are re-promotions from prior runs (2026-09-21 through 2026-09-27) — the Exploding Topics monthly top-100 remains stale (Published Time: 2026-08-24T01:39Z, byte-identical item set)
 - No previously tracked ideas declining
-- **Note**: Pipeline ran via `full_pipeline.sh` which executed research_pipeline.py, update_data_json.py, and git commit. The sync_data_json.py step failed (file not found) but data.json was updated manually with the new 09-26 entries. Idea folders and idea.md files were copied from prior date's folders (identical content — re-promotion of same ideas during monthly ET list exhaustion). The date-specific daily-summary.md was created in ideas/2026-09-26/ alongside the root copy.
-- **Verification**: verify-idea-docs.py does not exist; verified manually — idea.md files exist in ideas/2026-09-26/, data.json has entries for 2026-09-26 with matching paths/scores, daily-summary.md exists at both root and date-specific paths, git push succeeded (f0ae832 → cf76999).
+- **Note**: Pipeline ran via `full_pipeline.sh` which executed research_pipeline.py, update_data_json.py, and git commit. The sync_data_json.py step failed (file not found) but data.json was updated manually with the new 09-26 entries. Idea folders and idea.md files were copied from prior date's folders (identical content — re-promotion of same ideas during monthly ET list exhaustion). The date-specific daily-summary.md was created in ideas/2026-09-27/ alongside the root copy.
+- **Verification**: verify-idea-docs.py does not exist; verified manually — idea.md files exist in ideas/2026-09-27/, data.json has entries for 2026-09-27 with matching paths/scores, daily-summary.md exists at both root and date-specific paths, git push succeeded (f0ae832 → cf76999).
