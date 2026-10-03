@@ -1089,24 +1089,6 @@
       "path": "ideas/2026-08-17/003-farming-robot/idea.md"
     },
     {
-      "date": "2026-08-21",
-      "title": "Baselane",
-      "score": 6.8,
-      "path": "ideas/2026-08-21/001-baselane/idea.md"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Owala",
-      "score": 6.8,
-      "path": "ideas/2026-08-21/002-owala/idea.md"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Wolverine Peptide",
-      "score": 6.6,
-      "path": "ideas/2026-08-21/003-wolverine-peptide/idea.md"
-    },
-    {
       "date": "2026-08-22",
       "title": "CarSize Compare",
       "score": 8.3,
@@ -1348,16 +1330,6 @@
     },
     {
       "date": "2026-09-16",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-16/001-depuffing-wand/idea.md",
-      "category": "health",
-      "growth": 7800,
-      "gap_signal": "pollution",
-      "build_time": 2
-    },
-    {
-      "date": "2026-09-16",
       "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
       "score": 7.2,
       "path": "ideas/2026-09-16/002-fractional-coo/idea.md",
@@ -1406,26 +1378,6 @@
       "status": "shipped"
     },
     {
-      "date": "2026-09-18",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-18/001-depuffing-wand/idea.md",
-      "category": "health",
-      "growth": 7800,
-      "gap_signal": "pollution",
-      "build_time": 2
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-18/002-fractional-coo/idea.md",
-      "category": "business",
-      "growth": 7600,
-      "gap_signal": "low_competition",
-      "build_time": 3
-    },
-    {
       "date": "2026-09-19",
       "title": "Coffee Soap Guide \u2014 Coffee Soap Cleansing Bar & Skincare Finder",
       "score": 7.2,
@@ -1446,111 +1398,10 @@
       "build_time": 3
     },
     {
-      "date": "2026-09-21",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-21/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-21/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-22/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-22/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-23/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-23/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool",
-      "score": 8.0,
-      "path": "ideas/2026-09-24/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Fractional COO \u2014 Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-24/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-09-25/001-depuffing-wand-guide/idea.md"
-    },
-    {
       "date": "2026-09-25",
       "title": "Fractional COO Toolkit",
       "score": 7.2,
       "path": "ideas/2026-09-25/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-09-26/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-26/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-09-27/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-27/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-09-28/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-28/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "title": "Depuffing Wand Guide",
-      "date": "2026-09-29",
-      "score": 8.0,
-      "path": "ideas/2026-09-29/001-depuffing-wand-guide/idea.md",
-      "trend_growth": 7800,
-      "gap_score": 9,
-      "build_time": 2,
-      "evergreen": 8,
-      "monetization": 7
     },
     {
       "title": "Fractional COO Operations Toolkit",
@@ -1564,66 +1415,38 @@
       "monetization": 6
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-03",
       "title": "Depuffing Wand Guide",
+      "slug": "depuffing-wand-guide",
+      "path": "ideas/2026-10-03/001-depuffing-wand-guide/idea.md",
       "score": 8.0,
-      "path": "ideas/2026-09-30/001-depuffing-wand-guide/idea.md"
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen_potential": 8,
+      "monetization": 7,
+      "build_time_hours": 2,
+      "pricing": "Free with optional premium ($2.99)",
+      "pitch": "A guided skincare app that helps users understand and use depuffing wands \u2014 cooling facial tools for reducing puffiness \u2014 with tutorials, usage tracking, and product recommendations.",
+      "why": "7,800% growth on Exploding Topics (#9) in the health/beauty category. iTunes search pollution signal confirmed: 10 results for 'depuffing wand' but all are wrong-category apps (generic beauty/shopping) \u2014 zero dedicated depuffing wand apps exist. Simple guide + tracker build fits the \u22643h threshold."
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-03",
       "title": "Fractional COO Toolkit",
+      "slug": "fractional-coo-operations-toolkit",
+      "path": "ideas/2026-10-03/002-fractional-coo-operations-toolkit/idea.md",
       "score": 7.2,
-      "path": "ideas/2026-09-30/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-10-01/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Fractional COO Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-10-01/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
-      "id": "001-depuffing-wand-guide",
-      "title": "Depuffing Wand Guide",
-      "date": "2026-10-02",
-      "path": "ideas/2026-10-02/001-depuffing-wand-guide/idea.md",
-      "score": 8.0,
-      "scores": {
-        "trend": 10,
-        "gap": 9,
-        "build": 6,
-        "evergreen": 8,
-        "money": 7
-      },
-      "growth": 7800,
-      "build_time": 2,
-      "gap_signal": "pollution",
-      "category": "health"
-    },
-    {
-      "id": "002-fractional-coo-operations-toolkit",
-      "title": "Fractional COO Toolkit",
-      "date": "2026-10-02",
-      "path": "ideas/2026-10-02/002-fractional-coo-operations-toolkit/idea.md",
-      "score": 7.2,
-      "scores": {
-        "trend": 10,
-        "gap": 8,
-        "build": 6,
-        "evergreen": 6,
-        "money": 6
-      },
-      "growth": 7600,
-      "build_time": 3,
-      "gap_signal": "low_competition",
-      "category": "business"
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen_potential": 6,
+      "monetization": 6,
+      "build_time_hours": 3,
+      "pricing": "Free with optional premium ($4.99)",
+      "pitch": "An operations toolkit for fractional COOs and small business owners \u2014 pre-built templates, KPI dashboards, and process builders to manage business operations without a full team.",
+      "why": "7,600% growth on Exploding Topics (#2) in the business/professional services niche. Low competition: only 9 apps with 275 combined reviews \u2014 all generic project management or enterprise tools, none fractional-COO-specific. Evergreen business tool with premium monetization path."
     }
   ],
-  "last_updated": "2026-10-03T03:00:00.000000Z",
+  "last_updated": "2026-10-03T07:00:00.000000Z",
   "total": 257
 }
