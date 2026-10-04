@@ -1445,8 +1445,30 @@
       "pricing": "Free with optional premium ($4.99)",
       "pitch": "An operations toolkit for fractional COOs and small business owners \u2014 pre-built templates, KPI dashboards, and process builders to manage business operations without a full team.",
       "why": "7,600% growth on Exploding Topics (#2) in the business/professional services niche. Low competition: only 9 apps with 275 combined reviews \u2014 all generic project management or enterprise tools, none fractional-COO-specific. Evergreen business tool with premium monetization path."
+    },
+    {
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-04/001-depuffing-wand-guide/idea.md",
+      "date": "2026-10-04",
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen_potential": 8,
+      "monetization": 7
+    },
+    {
+      "title": "Fractional COO Operations Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-04/002-fractional-coo-operations-toolkit/idea.md",
+      "date": "2026-10-04",
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen_potential": 6,
+      "monetization": 6
     }
   ],
-  "last_updated": "2026-10-04T03:00:00.000000Z",
+  "last_updated": "2026-10-04T07:00:00.000000Z",
   "total": 231
 }
