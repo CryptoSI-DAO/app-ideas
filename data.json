@@ -1467,8 +1467,26 @@
       "build_simplicity": 6,
       "evergreen_potential": 6,
       "monetization": 6
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Family Voice-Scam Preparedness",
+      "score": 8.0,
+      "path": "ideas/2026-10-05/001-family-voice-scam-preparedness/idea.md"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Home Battery Technology",
+      "score": 7.6,
+      "path": "ideas/2026-10-05/002-home-battery-technology/idea.md"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Candlelight Concert Experience",
+      "score": 7.2,
+      "path": "ideas/2026-10-05/003-candlelight-concert-experience/idea.md"
     }
   ],
-  "last_updated": "2026-10-04T07:00:00.000000Z",
-  "total": 231
+  "last_updated": "2026-10-05T07:00:00.000000Z",
+  "total": 236
 }
