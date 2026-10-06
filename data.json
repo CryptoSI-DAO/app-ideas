@@ -1485,8 +1485,26 @@
       "title": "Candlelight Concert Experience",
       "score": 7.2,
       "path": "ideas/2026-10-05/003-candlelight-concert-experience/idea.md"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-06/001-depuffing-wand-guide/idea.md",
+      "growth": 7800,
+      "gap": "pollution",
+      "build_time": "2h"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Fractional COO Operations Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-06/002-fractional-coo-operations-toolkit/idea.md",
+      "growth": 7600,
+      "gap": "low_competition",
+      "build_time": "3h"
     }
   ],
-  "last_updated": "2026-10-06T03:00:00.000000Z",
-  "total": 236
+  "last_updated": "2026-10-06T03:20:00.000000Z",
+  "total": 238
 }
