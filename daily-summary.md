@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-06
+# Daily Summary — 2026-10-07
 
 ## Top 3 App Ideas
 
@@ -47,7 +47,7 @@
 - [x] Exploding Topics (US, via Jina Reader) — primary source
 - [x] Google Trends RSS (US) — tertiary source (noise: celebrity/sports/entertainment)
 - [x] App Store gap analysis (iTunes Search API, 10 queries) — used for App Gap scoring
-- [x] Cross-reference against data.json (236 existing entries) — dedup verified
+- [x] Cross-reference against data.json (238 existing entries) — dedup verified
 
 ---
 
@@ -56,4 +56,4 @@
 - Both ideas are re-promotions from prior runs (10-03, 10-04) — monthly ET list remains stale
 - 8 candidates rejected — all saturated on App Store with high review counts and/or build times exceeding 3h
 - No previously tracked ideas declining
-- data.json: 238 entries, 47,260 bytes (under 50KB cap)
+- data.json: 240 entries, 39,218 bytes (under 50KB cap)
