@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-08
+# Daily Summary — 2026-10-09
 
 ## Top 3 App Ideas
 
@@ -53,7 +53,7 @@
 
 ## Archive Notes
 - 2 ideas shipped today (2/10 candidates passed the ≥7.0 threshold)
-- Both ideas are re-promotions from prior runs (10-03, 10-04, 10-07) — monthly ET list remains stale
+- Both ideas are re-promotions from prior runs (10-03, 10-04, 10-07, 10-08) — monthly ET list remains stale
 - 8 candidates rejected — all saturated on App Store with high review counts and/or build times exceeding 3h
 - No previously tracked ideas declining
-- data.json: 240 entries, 39,218 bytes (under 50KB cap)
+- data.json: 242 entries, ~40KB (under 50KB cap)
