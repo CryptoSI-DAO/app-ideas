@@ -1579,8 +1579,20 @@
       "growth": "7600%",
       "build_time": "3h",
       "gap_type": "low_competition"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-10/001-depuffing-wand-guide/idea.md"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Fractional COO Operations Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-10/002-fractional-coo-operations-toolkit/idea.md"
     }
   ],
-  "last_updated": "2026-10-10T03:00:00.000000Z",
-  "total": 244
+  "last_updated": "2026-10-10T07:00:00.000000Z",
+  "total": 246
 }
