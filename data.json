@@ -1477,8 +1477,20 @@
       "title": "Lab Grown Diamond Earrings Guide",
       "score": 7.6,
       "path": "ideas/2026-10-12/003-lab-grown-diamonds-guide/idea.md"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-13/001-depuffing-wand/idea.md"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-13/002-fractional-coo/idea.md"
     }
   ],
-  "last_updated": "2026-10-13T03:00:00.000000Z",
-  "total": 238
+  "last_updated": "2026-10-13T03:52:00.000000Z",
+  "total": 240
 }
