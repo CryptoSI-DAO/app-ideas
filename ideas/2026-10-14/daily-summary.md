@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-13
+# Daily Summary — 2026-10-14
 
 ## Top 3 App Ideas
 
@@ -50,7 +50,7 @@
 - **Depuffing Wand (#9, 7,800% growth)**: New-to-list item. iTunes gap scan confirms green field (8 results, 6,761 reviews, top-5 are all Games = pollution). Promoted to #1.
 - **Fractional COO (#2, 7,600% growth)**: New-to-list item. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Promoted to #2.
 - **AI Observability / Baselane / MoreLogin / Walk While Working / UGC Creator / Owala / Wolverine Peptide / Answer Engine Optimization**: All new-to-list items but saturated on App Store or no consumer app angle.
-- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). Only 2 ideas passed the ≥7.0 threshold — honest count, no inflation.
+- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). Only 2 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 2 ideas re-promoted for 2026-10-14.
 
 ---
 
@@ -58,13 +58,13 @@
 - [x] Exploding Topics (US, via Jina Reader) — primary source, Oct 2026 list (monthly exhaustion detected)
 - [x] Google Trends RSS (US) — tertiary source (noise: celebrity/sports/entertainment)
 - [x] App Store gap analysis (iTunes Search API, 10 queries) — used for App Gap scoring
-- [x] Cross-reference against data.json (238 existing entries) — dedup verified
+- [x] Cross-reference against data.json (240 existing entries) — dedup verified
 - [x] DuckDuckGo Reddit sentiment proxy — not needed (no Reddit-dependent trends)
 
 ---
 
 ## Archive Notes
-- 2 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). Only 2 of 19 candidates passed the ≥7.0 threshold.
-- 17 candidates rejected — 15 saturated on App Store, 2 EXISTS in data.json (dedup)
+- 2 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). Only 2 of 19 candidates passed the ≥7.0 threshold. Same 2 ideas re-promoted (Depuffing Wand, Fractional COO) — monthly list unchanged.
+- 17 candidates rejected — 15 saturated on App Store, 2 EXISTS in data.json (dedup). Re-promoted from 2026-10-13 (monthly ET list exhaustion).
 - No previously tracked ideas declining
-- data.json: 238 entries, ~37.6KB (under 50KB cap)
+- data.json: 240 entries, ~46.4KB (under 50KB cap)
