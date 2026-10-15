@@ -1527,8 +1527,20 @@
         "avg": 7.2,
         "final_avg": 7.2
       }
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-15/001-depuffing-wand/idea.md"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-15/002-fractional-coo/idea.md"
     }
   ],
   "last_updated": "2026-10-15T03:00:00.000000Z",
-  "total": 242
+  "total": 244
 }

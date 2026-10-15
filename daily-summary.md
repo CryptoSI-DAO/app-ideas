@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-14
+# Daily Summary — 2026-10-15
 
 ## Top 3 App Ideas
 
@@ -50,7 +50,7 @@
 - **Depuffing Wand (#9, 7,800% growth)**: New-to-list item. iTunes gap scan confirms green field (8 results, 6,761 reviews, top-5 are all Games = pollution). Promoted to #1.
 - **Fractional COO (#2, 7,600% growth)**: New-to-list item. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Promoted to #2.
 - **AI Observability / Baselane / MoreLogin / Walk While Working / UGC Creator / Owala / Wolverine Peptide / Answer Engine Optimization**: All new-to-list items but saturated on App Store or no consumer app angle.
-- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). Only 2 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 2 ideas re-promoted for 2026-10-14.
+- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). Only 2 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 2 ideas re-promoted for 2026-10-15.
 
 ---
 
