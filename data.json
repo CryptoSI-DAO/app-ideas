@@ -1539,8 +1539,42 @@
       "title": "Fractional COO Toolkit",
       "score": 7.2,
       "path": "ideas/2026-10-15/002-fractional-coo/idea.md"
+    },
+    {
+      "title": "Depuffing Wand Guide",
+      "date": "2026-10-16",
+      "score": 8.0,
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen_potential": 8,
+      "monetization": 7,
+      "idea_md": "ideas/2026-10-16/001-depuffing-wand/idea.md",
+      "summary_md": "ideas/2026-10-16/daily-summary.md",
+      "trend": "Depuffing Wand",
+      "growth": "7800%",
+      "gap_type": "pollution",
+      "build_time": "2h",
+      "pitch": "A curated guide to depuffing wands \u2014 the cooling facial tools trending in skincare for reducing puffiness and improving circulation. Covers what they are, how to use them, skin benefits, product finder, and DIY alternatives. Pure reference/shopping app, no backend needed."
+    },
+    {
+      "title": "Fractional COO Toolkit",
+      "date": "2026-10-16",
+      "score": 7.2,
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen_potential": 6,
+      "monetization": 6,
+      "idea_md": "ideas/2026-10-16/002-fractional-coo/idea.md",
+      "summary_md": "ideas/2026-10-16/daily-summary.md",
+      "trend": "Fractional COO",
+      "growth": "7600%",
+      "gap_type": "low_competition",
+      "build_time": "3h",
+      "pitch": "A curated toolkit for fractional COOs \u2014 the growing trend of part-time Chief Operating Officers serving small businesses. Covers what they do, engagement models, pricing frameworks, ROI calculator, and operational checklists. Pure reference/business app, no backend needed."
     }
   ],
-  "last_updated": "2026-10-16T03:00:00.000000Z",
+  "last_updated": "2026-10-16T07:00:00.000000Z",
   "total": 244
 }
