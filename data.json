@@ -1053,12 +1053,6 @@
     },
     {
       "date": "2026-08-16",
-      "title": "Depuffing Wand Guide",
-      "score": 8.7,
-      "path": "ideas/2026-08-16/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-08-16",
       "title": "Shoe Washing Bag Guide",
       "score": 8.5,
       "path": "ideas/2026-08-16/002-shoe-washing-bag-guide/idea.md"
@@ -1398,12 +1392,6 @@
       "build_time": 3
     },
     {
-      "date": "2026-09-25",
-      "title": "Fractional COO Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-09-25/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
       "title": "Fractional COO Operations Toolkit",
       "date": "2026-09-29",
       "score": 7.2,
@@ -1413,22 +1401,6 @@
       "build_time": 3,
       "evergreen": 6,
       "monetization": 6
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Fractional COO Toolkit",
-      "slug": "fractional-coo-operations-toolkit",
-      "path": "ideas/2026-10-03/002-fractional-coo-operations-toolkit/idea.md",
-      "score": 7.2,
-      "trend_momentum": 10,
-      "app_gap": 8,
-      "build_simplicity": 6,
-      "evergreen_potential": 6,
-      "monetization": 6,
-      "build_time_hours": 3,
-      "pricing": "Free with optional premium ($4.99)",
-      "pitch": "An operations toolkit for fractional COOs and small business owners \u2014 pre-built templates, KPI dashboards, and process builders to manage business operations without a full team.",
-      "why": "7,600% growth on Exploding Topics (#2) in the business/professional services niche. Low competition: only 9 apps with 275 combined reviews \u2014 all generic project management or enterprise tools, none fractional-COO-specific. Evergreen business tool with premium monetization path."
     },
     {
       "date": "2026-10-05",
@@ -1449,18 +1421,6 @@
       "path": "ideas/2026-10-05/003-candlelight-concert-experience/idea.md"
     },
     {
-      "date": "2026-10-11",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-10-11/001-depuffing-wand-guide/idea.md"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Fractional COO Operations Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-10-11/002-fractional-coo-operations-toolkit/idea.md"
-    },
-    {
       "date": "2026-10-12",
       "title": "Persimmon Soap Guide",
       "score": 8.2,
@@ -1479,24 +1439,12 @@
       "path": "ideas/2026-10-12/003-lab-grown-diamonds-guide/idea.md"
     },
     {
-      "date": "2026-10-13",
       "title": "Depuffing Wand Guide",
+      "date": "2026-10-17",
       "score": 8.0,
-      "path": "ideas/2026-10-13/001-depuffing-wand/idea.md"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Fractional COO Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-10-13/002-fractional-coo/idea.md"
-    },
-    {
-      "title": "Depuffing Wand Guide",
-      "date": "2026-10-14",
-      "score": 8.0,
-      "path": "ideas/2026-10-14/001-depuffing-wand/idea.md",
-      "growth": 7800,
+      "path": "ideas/2026-10-17/001-depuffing-wand/idea.md",
       "category": "health",
+      "growth": 7800,
       "build_time": 2,
       "gap_signal": "pollution",
       "scores": {
@@ -1511,11 +1459,11 @@
     },
     {
       "title": "Fractional COO Toolkit",
-      "date": "2026-10-14",
+      "date": "2026-10-17",
       "score": 7.2,
-      "path": "ideas/2026-10-14/002-fractional-coo/idea.md",
-      "growth": 7600,
+      "path": "ideas/2026-10-17/002-fractional-coo/idea.md",
       "category": "business",
+      "growth": 7600,
       "build_time": 3,
       "gap_signal": "low_competition",
       "scores": {
@@ -1529,52 +1477,25 @@
       }
     },
     {
-      "date": "2026-10-15",
-      "title": "Depuffing Wand Guide",
-      "score": 8.0,
-      "path": "ideas/2026-10-15/001-depuffing-wand/idea.md"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Fractional COO Toolkit",
-      "score": 7.2,
-      "path": "ideas/2026-10-15/002-fractional-coo/idea.md"
-    },
-    {
-      "title": "Depuffing Wand Guide",
-      "date": "2026-10-16",
-      "score": 8.0,
-      "trend_momentum": 10,
-      "app_gap": 9,
-      "build_simplicity": 6,
-      "evergreen_potential": 8,
-      "monetization": 7,
-      "idea_md": "ideas/2026-10-16/001-depuffing-wand/idea.md",
-      "summary_md": "ideas/2026-10-16/daily-summary.md",
-      "trend": "Depuffing Wand",
-      "growth": "7800%",
-      "gap_type": "pollution",
-      "build_time": "2h",
-      "pitch": "A curated guide to depuffing wands \u2014 the cooling facial tools trending in skincare for reducing puffiness and improving circulation. Covers what they are, how to use them, skin benefits, product finder, and DIY alternatives. Pure reference/shopping app, no backend needed."
-    },
-    {
-      "title": "Fractional COO Toolkit",
-      "date": "2026-10-16",
-      "score": 7.2,
-      "trend_momentum": 10,
-      "app_gap": 8,
-      "build_simplicity": 6,
-      "evergreen_potential": 6,
-      "monetization": 6,
-      "idea_md": "ideas/2026-10-16/002-fractional-coo/idea.md",
-      "summary_md": "ideas/2026-10-16/daily-summary.md",
-      "trend": "Fractional COO",
-      "growth": "7600%",
-      "gap_type": "low_competition",
-      "build_time": "3h",
-      "pitch": "A curated toolkit for fractional COOs \u2014 the growing trend of part-time Chief Operating Officers serving small businesses. Covers what they do, engagement models, pricing frameworks, ROI calculator, and operational checklists. Pure reference/business app, no backend needed."
+      "title": "Wolverine Peptide Guide",
+      "date": "2026-10-17",
+      "score": 7.0,
+      "path": "ideas/2026-10-17/003-wolverine-peptide/idea.md",
+      "category": "health",
+      "growth": 8500,
+      "build_time": 3,
+      "gap_signal": "competition",
+      "scores": {
+        "trend": 10,
+        "gap": 5,
+        "build": 5,
+        "evergreen": 8,
+        "money": 7,
+        "avg": 7.0,
+        "final_avg": 7.0
+      }
     }
   ],
-  "last_updated": "2026-10-17T03:00:00.000000Z",
+  "last_updated": "2026-10-17T07:00:00.000000Z",
   "total": 246
 }
