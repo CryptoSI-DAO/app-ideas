@@ -1479,7 +1479,7 @@
     {
       "title": "Wolverine Peptide Guide",
       "date": "2026-10-17",
-      "score": 7.0,
+      "score": 8.4,
       "path": "ideas/2026-10-17/003-wolverine-peptide/idea.md",
       "category": "health",
       "growth": 8500,
@@ -1493,9 +1493,10 @@
         "money": 7,
         "avg": 7.0,
         "final_avg": 7.0
-      }
+      },
+      "updated": "2026-10-18T03:15:20.653202"
     }
   ],
-  "last_updated": "2026-10-17T07:00:00.000000Z",
-  "total": 246
+  "last_updated": "2026-10-18T03:00:00.000000Z",
+  "total": 236
 }
