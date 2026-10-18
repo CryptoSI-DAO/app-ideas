@@ -1495,8 +1495,26 @@
         "final_avg": 7.0
       },
       "updated": "2026-10-18T03:15:20.653202"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-18/001-depuffing-wand/idea.md"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-18/002-fractional-coo/idea.md"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Wolverine Peptide Guide",
+      "score": 7.0,
+      "path": "ideas/2026-10-18/003-wolverine-peptide/idea.md"
     }
   ],
-  "last_updated": "2026-10-18T03:00:00.000000Z",
-  "total": 236
+  "last_updated": "2026-10-18T07:00:00.000000Z",
+  "total": 239
 }

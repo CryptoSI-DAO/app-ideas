@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-17
+# Daily Summary — 2026-10-18
 
 ## Top 3 App Ideas
 
@@ -50,7 +50,7 @@
 - **Depuffing Wand (#9, 7,800% growth)**: New-to-list item. iTunes gap scan confirms green field (8 results, 6,761 reviews, top-5 are all Games = pollution). Promoted to #1.
 - **Fractional COO (#2, 7,600% growth)**: New-to-list item. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Promoted to #2.
 - **AI Observability / Baselane / MoreLogin / Walk While Working / UGC Creator / Owala / Wolverine Peptide / Answer Engine Optimization**: All new-to-list items but saturated on App Store or no consumer app angle.
-- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). 3 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 3 ideas re-promoted for 2026-10-17.
+- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). 3 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 3 ideas re-promoted for 2026-10-18.
 
 ---
 
@@ -64,7 +64,7 @@
 ---
 
 ## Archive Notes
-- 3 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). 3 of 19 candidates passed the ≥7.0 threshold. Same 3 ideas re-promoted (Depuffing Wand, Fractional COO, Wolverine Peptide) — monthly list unchanged.
-- 16 candidates rejected — 14 saturated on App Store, 1 EXISTS in data.json (dedup), 1 re-promoted as Wolverine Peptide (7.0). Re-promoted from 2026-10-16 (monthly ET list exhaustion).
+- 3 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). 3 of 19 candidates passed the ≥7.0 threshold. Same 3 ideas re-promoted (Depuffing Wand, Fractional COO, Wolverine Peptide) — monthly list unchanged for 2026-10-18.
+- 16 candidates rejected — 14 saturated on App Store, 1 EXISTS in data.json (dedup), 1 re-promoted as Wolverine Peptide (7.0). Re-promoted from 2026-10-17 (monthly ET list exhaustion).
 - No previously tracked ideas declining
 - data.json: 236 entries, ~45.7KB (under 50KB cap)
