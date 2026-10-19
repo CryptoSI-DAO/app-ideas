@@ -1,6 +1,6 @@
 # Daily Summary — 2026-10-19
 
-## Top 3 App Ideas
+## Top 2 App Ideas
 
 ### 🥇 #1: Depuffing Wand Guide — Score: 8.0/10
 - **Pitch**: A curated guide to depuffing wands — the cooling facial tools trending in skincare for reducing puffiness and improving circulation. Covers what they are, how to use them, skin benefits, product finder, and DIY alternatives. Pure reference/shopping app, no backend needed.
@@ -22,11 +22,11 @@
 |---|------|-------|-----|-------|-----------|-------|-----|
 | 1 | Depuffing Wand Guide | 10 | 9 | 6 | 8 | 7 | **8.0** |
 | 2 | Fractional COO Toolkit | 10 | 8 | 6 | 6 | 6 | **7.2** |
-| 3 | Wolverine Peptide Guide | 10 | 5 | 5 | 8 | 7 | **7.0** |
 
 ---
 
 ## Rejected Candidates
+- **Wolverine Peptide** (6.4) — Below threshold (7.0). Gap score dropped from 8.4 to 5.0 — saturated. NOT re-shipped.
 - **AI Observability** (6.0) — Saturated: 50 apps, 591K+ reviews. Enterprise monitoring space, no consumer app angle. Build time 4h.
 - **Baselane** (6.0) — Saturated: 41 apps, 10K+ reviews. Property management space, no consumer app angle. Build time 4h.
 - **MoreLogin** (6.0) — Saturated: 33 apps, 102K+ reviews. Anti-detect browser space, no consumer app angle. Build time 4h.
@@ -47,10 +47,10 @@
 ---
 
 ## Trends Watched
-- **Depuffing Wand (#9, 7,800% growth)**: New-to-list item. iTunes gap scan confirms green field (8 results, 6,761 reviews, top-5 are all Games = pollution). Promoted to #1.
-- **Fractional COO (#2, 7,600% growth)**: New-to-list item. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Promoted to #2.
-- **AI Observability / Baselane / MoreLogin / Walk While Working / UGC Creator / Owala / Wolverine Peptide / Answer Engine Optimization**: All new-to-list items but saturated on App Store or no consumer app angle.
-- **Monthly ET list refresh**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12 (monthly exhaustion). 3 ideas passed the ≥7.0 threshold — honest count, no inflation. Same 3 ideas re-promoted for 2026-10-19.
+- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-18. iTunes gap scan confirms green field (8 results, 6,761 reviews, top-5 are all Games = pollution). Score stable at 8.0.
+- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-18. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
+- **Wolverine Peptide**: Score dropped from 8.4 to 6.4 — gap score collapsed (saturated). Below 7.0 threshold, NOT re-shipped.
+- **Monthly ET list exhaustion**: Published Time is 2026-10-06T01:39:00Z — same list as 2026-10-12. 2 of 19 candidates passed the ≥7.0 threshold. Same 2 ideas re-promoted for 2026-10-19.
 
 ---
 
@@ -58,13 +58,13 @@
 - [x] Exploding Topics (US, via Jina Reader) — primary source, Oct 2026 list (monthly exhaustion detected)
 - [x] Google Trends RSS (US) — tertiary source (noise: celebrity/sports/entertainment)
 - [x] App Store gap analysis (iTunes Search API, 10 queries) — used for App Gap scoring
-- [x] Cross-reference against data.json (236 existing entries) — dedup verified
+- [x] Cross-reference against data.json (239 existing entries) — dedup verified
 - [x] DuckDuckGo Reddit sentiment proxy — not needed (no Reddit-dependent trends)
 
 ---
 
 ## Archive Notes
-- 3 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). 3 of 19 candidates passed the ≥7.0 threshold. Same 3 ideas re-promoted (Depuffing Wand, Fractional COO, Wolverine Peptide) — monthly list unchanged for 2026-10-19.
-- 16 candidates rejected — 14 saturated on App Store, 1 EXISTS in data.json (dedup), 1 re-promoted as Wolverine Peptide (7.0). Re-promoted from 2026-10-17 (monthly ET list exhaustion).
+- 2 ideas shipped today — monthly ET list exhaustion detected (same list as 2026-10-12). 2 of 19 candidates passed the ≥7.0 threshold. Same 2 ideas re-promoted (Depuffing Wand, Fractional COO) — monthly list unchanged for 2026-10-19.
+- 17 candidates rejected — 14 saturated on App Store, 1 EXISTS in data.json (dedup), 1 below-threshold (Wolverine Peptide 6.4), 1 not scanned (tech category). Wolverine Peptide was NOT re-shipped this run (score dropped from 8.4 to 6.4 due to gap score decline).
 - No previously tracked ideas declining
-- data.json: 236 entries, ~45.7KB (under 50KB cap)
+- data.json: 241 entries, ~38.2KB (under 50KB cap)
