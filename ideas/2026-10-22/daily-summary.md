@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-21
+# Daily Summary — 2026-10-22
 
 ## Top 3 App Ideas
 
@@ -53,10 +53,10 @@
 ---
 
 ## Trends Watched
-- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-20. iTunes gap scan confirms green field (8 results, 6,764 reviews, top-5 are all Games = pollution). Score stable at 8.0.
+- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-21. iTunes gap scan confirms green field (8 results, 6,764 reviews, top-5 are all Games = pollution). Score stable at 8.0.
 - **Wolverine Peptide (#8, 8,500% growth)**: Bench re-validation confirmed gap score recovery from 6.4 → 7.6. 47 apps, 203 combined reviews, top-5 are unrelated categories (math solvers, engine simulators) = pollution signal. Re-shipped at 7.6.
-- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-20. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
-- **Monthly ET list exhaustion**: Same Oct 2026 Exploding Topics list as prior runs. 3 of 19 candidates passed the ≥7.0 threshold (up from 2 — Wolverine Peptide recovered via bench re-validation).
+- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-21. iTunes gap scan confirms green field (12 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
+- **Monthly ET list exhaustion**: Same Oct 2026 Exploding Topics list as prior runs (monthly exhaustion). 3 of 19 candidates passed the ≥7.0 threshold (up from 2 — Wolverine Peptide recovered via bench re-validation).
 
 ---
 
@@ -72,4 +72,4 @@
 ## Archive Notes
 - 3 ideas shipped today — monthly ET list exhaustion detected. Wolverine Peptide recovered from 6.4 to 7.6 after bench re-validation (iTunes gap scan confirmed low competition: 47 apps, 203 reviews, top-5 are unrelated categories). Depuffing Wand and Fractional COO re-promoted with stable scores.
 - 15 candidates rejected — 7 saturated on App Store, 1 EXISTS in data.json (dedup), 7 not scanned (tech/lifestyle categories).
-- data.json: 243 entries, ~47.4KB (under 50KB cap)
+- data.json: 246 entries, ~48.3KB (under 50KB cap)
