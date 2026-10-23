@@ -1593,12 +1593,13 @@
     {
       "title": "Wolverine Peptide Guide",
       "date": "2026-10-22",
-      "score": 7.6,
+      "score": 8.4,
       "path": "ideas/2026-10-22/002-wolverine-peptide/idea.md",
       "growth": 8500,
       "gap_signal": "low_competition",
       "build_time": 3,
-      "category": "health"
+      "category": "health",
+      "updated": "2026-10-23T03:16:19.737091"
     },
     {
       "title": "Fractional COO Toolkit",
@@ -1611,6 +1612,6 @@
       "category": "business"
     }
   ],
-  "last_updated": "2026-10-22T03:00:00.000000Z",
-  "total": 246
+  "last_updated": "2026-10-23T03:00:00.000000Z",
+  "total": 249
 }
