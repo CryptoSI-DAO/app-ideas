@@ -1610,8 +1610,20 @@
       "gap_signal": "low_competition",
       "build_time": 3,
       "category": "business"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-10-23/001-depuffing-wand/idea.md"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-10-23/002-fractional-coo/idea.md"
     }
   ],
   "last_updated": "2026-10-23T03:00:00.000000Z",
-  "total": 249
+  "total": 251
 }
