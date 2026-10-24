@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-23
+# Daily Summary — 2026-10-24
 
 ## Top 3 App Ideas
 
@@ -47,8 +47,8 @@
 ---
 
 ## Trends Watched
-- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-22. iTunes gap scan confirms green field (8 results, 6,764 reviews, top-5 are all Games = pollution). Score stable at 8.0.
-- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-22. iTunes gap scan confirms green field (13 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
+- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-23. iTunes gap scan confirms green field (8 results, 6,764 reviews, top-5 are all Games = pollution). Score stable at 8.0.
+- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-23. iTunes gap scan confirms green field (13 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
 - **Wolverine Peptide (#8, 8,500% growth)**: Fresh scan returned 47 apps with 3,621 reviews (gap saturated, score 6.4). Previously shipped at 7.6 after bench re-validation — today's scan shows higher competition than the prior bench scan. Not selected today.
 - **Monthly ET list exhaustion**: Same Oct 2026 Exploding Topics list as prior runs (monthly exhaustion). 2 of 19 candidates passed the ≥7.0 threshold.
 
