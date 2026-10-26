@@ -1576,6 +1576,34 @@
       "title": "Fractional COO \u2014 Fractional COO Toolkit & Business Operations Guide",
       "score": 7.2,
       "path": "ideas/2026-10-25/002-fractional-coo/idea.md"
+    },
+    {
+      "title": "Depuffing Wand Guide",
+      "date": "2026-10-26",
+      "score": 8.0,
+      "path": "ideas/2026-10-26/001-depuffing-wand/idea.md",
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen_potential": 8,
+      "monetization": 7,
+      "growth": "7800%",
+      "build_time": "2h",
+      "gap_type": "pollution"
+    },
+    {
+      "title": "Fractional COO Toolkit",
+      "date": "2026-10-26",
+      "score": 7.2,
+      "path": "ideas/2026-10-26/002-fractional-coo/idea.md",
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen_potential": 6,
+      "monetization": 6,
+      "growth": "7600%",
+      "build_time": "3h",
+      "gap_type": "low_competition"
     }
   ],
   "last_updated": "2026-10-26T03:00:00.000000Z",
