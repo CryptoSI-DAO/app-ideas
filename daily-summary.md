@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-28
+# Daily Summary — 2026-10-29
 
 ## Top 3 App Ideas
 
@@ -47,8 +47,8 @@
 ---
 
 ## Trends Watched
-- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-27. iTunes gap scan confirms green field (6 results, 2,380 reviews, top-5 are all Games = pollution). Score stable at 8.0.
-- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-27. iTunes gap scan confirms green field (13 results, 232 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
+- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-10-28. iTunes gap scan confirms green field (6 results, 2,380 reviews, top-5 are all Games = pollution). Score stable at 8.0.
+- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-10-28. iTunes gap scan confirms green field (13 results, 232 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
 - **Wolverine Peptide (#8, 8,500% growth)**: Fresh scan returned 48 apps with 3,595 reviews (gap saturated, score 6.4). Previously shipped at 7.6 after bench re-validation — today's scan shows higher competition than the prior bench scan. Not selected today.
 - **Monthly ET list exhaustion**: Same Oct 2026 Exploding Topics list as prior runs (monthly exhaustion). 2 of 19 candidates passed the ≥7.0 threshold.
 
@@ -64,6 +64,6 @@
 ---
 
 ## Archive Notes
-- 2 ideas shipped today (2026-10-28) — monthly ET list exhaustion detected. Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
+- 2 ideas shipped today (2026-10-29) — monthly ET list exhaustion detected. Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
 - 16 candidates rejected — 7 saturated on App Store, 1 EXISTS in data.json (dedup), 8 not scanned (tech/lifestyle categories).
-- data.json trimmed: 249 → 243 entries (removed 6 duplicate middle-occurrence entries), now ~47.6KB (under 50KB cap).
+- data.json trimmed: 247 → 245 entries (removed 4 duplicate middle-occurrence entries), now ~47.3KB (removed 6 duplicate middle-occurrence entries), now ~47.6KB (under 50KB cap).
