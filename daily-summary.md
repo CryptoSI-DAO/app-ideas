@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-30
+# Daily Summary — 2026-10-31
 
 ## Top 3 App Ideas
 
@@ -64,6 +64,6 @@
 ---
 
 ## Archive Notes
-- 2 ideas shipped today (2026-10-30) — monthly ET list exhaustion detected. Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
+- 2 ideas shipped today (2026-10-31) — monthly ET list exhaustion detected. Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
 - 16 candidates rejected — 7 saturated on App Store, 1 EXISTS in data.json (dedup), 8 not scanned (tech/lifestyle categories).
 - data.json trimmed: 247 → 245 entries (removed 4 duplicate middle-occurrence entries), now ~47.3KB (removed 6 duplicate middle-occurrence entries), now ~47.6KB (under 50KB cap).
