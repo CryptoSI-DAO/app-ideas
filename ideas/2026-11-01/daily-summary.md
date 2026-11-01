@@ -1,4 +1,4 @@
-# Daily Summary — 2026-10-31
+# Daily Summary — 2026-11-01
 
 ## Top 3 App Ideas
 
@@ -58,12 +58,12 @@
 - [x] Exploding Topics (US, via Jina Reader) — primary source, Oct 2026 list (monthly exhaustion detected)
 - [x] Google Trends RSS (US) — tertiary source (noise: celebrity/sports/entertainment)
 - [x] App Store gap analysis (iTunes Search API, 10 queries) — used for App Gap scoring
-- [x] Cross-reference against data.json (243 existing entries after trim) — dedup verified
+- [x] Cross-reference against data.json (245 existing entries after trim) — dedup verified
 - [x] DuckDuckGo Reddit sentiment proxy — not needed (no Reddit-dependent trends)
 
 ---
 
 ## Archive Notes
-- 2 ideas shipped today (2026-10-31) — monthly ET list exhaustion detected. Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
+- 2 ideas shipped today (2026-11-01) — monthly ET list exhaustion detected (Nov 2026 run). Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
 - 16 candidates rejected — 7 saturated on App Store, 1 EXISTS in data.json (dedup), 8 not scanned (tech/lifestyle categories).
 - data.json trimmed: 247 → 245 entries (removed 4 duplicate middle-occurrence entries), now ~47.3KB (removed 6 duplicate middle-occurrence entries), now ~47.6KB (under 50KB cap).
