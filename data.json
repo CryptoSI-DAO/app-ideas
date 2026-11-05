@@ -1602,8 +1602,20 @@
       "title": "Fractional COO Toolkit",
       "score": 7.2,
       "path": "ideas/2026-11-04/002-fractional-coo/idea.md"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "path": "ideas/2026-11-05/001-depuffing-wand/idea.md"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "path": "ideas/2026-11-05/002-fractional-coo/idea.md"
     }
   ],
   "last_updated": "2026-11-05T03:00:00.000000Z",
-  "total": 248
+  "total": 250
 }
