@@ -1562,8 +1562,40 @@
       "title": "Fractional COO Toolkit",
       "score": 7.2,
       "path": "ideas/2026-11-05/002-fractional-coo/idea.md"
+    },
+    {
+      "date": "2026-11-06",
+      "path": "ideas/2026-11-06/001-depuffing-wand/idea.md",
+      "slug": "depuffing-wand",
+      "title": "Depuffing Wand Guide",
+      "score": 8.0,
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen_potential": 8,
+      "monetization": 7,
+      "build_time": "2h",
+      "gap_type": "pollution",
+      "growth": "7800%",
+      "notes": "Re-promoted from 2026-11-05. Monthly ET list exhaustion. Green field confirmed."
+    },
+    {
+      "date": "2026-11-06",
+      "path": "ideas/2026-11-06/002-fractional-coo/idea.md",
+      "slug": "fractional-coo",
+      "title": "Fractional COO Toolkit",
+      "score": 7.2,
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen_potential": 6,
+      "monetization": 6,
+      "build_time": "3h",
+      "gap_type": "low_competition",
+      "growth": "7600%",
+      "notes": "Re-promoted from 2026-11-05. Monthly ET list exhaustion. Green field confirmed."
     }
   ],
-  "last_updated": "2026-11-06T03:00:00.000000Z",
-  "total": 244
+  "last_updated": "2026-11-06T07:00:00.000000Z",
+  "total": 246
 }
