@@ -1,4 +1,4 @@
-# Daily Summary — 2026-11-06
+# Daily Summary — 2026-11-07
 
 ## Top 2 App Ideas
 
@@ -48,9 +48,9 @@
 ---
 
 ## Trends Watched
-- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-11-05. iTunes gap scan confirms green field (6 results, 2,380 reviews, top-5 are all Games = pollution). Score stable at 8.0.
-- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-11-05. iTunes gap scan confirms green field (13 results, 232 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
-- **Wolverine Peptide (#8, 8,500% growth)**: Fresh scan returned 48 apps with 3,595 reviews (gap saturated, score 6.4). Previously shipped at 7.6 after bench re-validation — today's scan shows higher competition than the prior bench scan. Not selected today.
+- **Depuffing Wand (#9, 7,800% growth)**: Re-promoted from 2026-11-06. iTunes gap scan confirms green field (7 results, 6,778 reviews, top-5 are all Games = pollution). Score stable at 8.0.
+- **Fractional COO (#2, 7,600% growth)**: Re-promoted from 2026-11-06. iTunes gap scan confirms green field (13 results, 273 reviews, top-5 are fraction calculators = pollution). Score stable at 7.2.
+- **Wolverine Peptide (#8, 8,500% growth)**: Fresh scan returned 39 apps with 1,421 reviews (gap competition, score 6.8). Previously shipped at 7.6 after bench re-validation — today's scan shows lower competition than the prior bench scan. Not selected today.
 - **Monthly ET list exhaustion**: Same Oct 2026 Exploding Topics list as prior runs (monthly exhaustion). 2 of 19 candidates passed the ≥7.0 threshold.
 
 ---
@@ -59,12 +59,12 @@
 - [x] Exploding Topics (US, via Jina Reader) — primary source, Oct 2026 list (monthly exhaustion detected)
 - [x] Google Trends RSS (US) — tertiary source (noise: celebrity/sports/entertainment)
 - [x] App Store gap analysis (iTunes Search API, 10 queries) — used for App Gap scoring
-- [x] Cross-reference against data.json (244 existing entries after trim) — dedup verified
+- [x] Cross-reference against data.json (246 existing entries after trim) — dedup verified
 - [x] DuckDuckGo Reddit sentiment proxy — not needed (no Reddit-dependent trends)
 
 ---
 
 ## Archive Notes
-- 2 ideas shipped today (2026-11-06) — monthly ET list exhaustion detected (Nov 2026 run). Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.4 (gap saturated) and not selected.
+- 2 ideas shipped today (2026-11-07) — monthly ET list exhaustion detected (Nov 2026 run). Depuffing Wand and Fractional COO re-promoted with stable scores. Wolverine Peptide re-scanned at 6.8 (gap competition, not saturated) and not selected.
 - 16 candidates rejected — 7 saturated on App Store, 1 EXISTS in data.json (dedup), 8 not scanned (tech/lifestyle categories).
 - data.json: 246 entries after trim, now ~48KB (under 50KB cap).
