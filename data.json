@@ -1592,8 +1592,50 @@
       "title": "Fractional COO \u2014 Fractional COO Toolkit & Business Operations Guide",
       "score": 7.2,
       "path": "ideas/2026-11-08/003-fractional-coo/idea.md"
+    },
+    {
+      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool Finder",
+      "path": "ideas/2026-11-09/001-depuffing-wand/idea.md",
+      "date": "2026-11-09",
+      "score": 8.0,
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 6,
+      "evergreen": 8,
+      "monetization": 7,
+      "build_time": "2h",
+      "gap_signal": "pollution",
+      "growth": "7800%"
+    },
+    {
+      "title": "Answer Engine Optimization \u2014 AI Search Answer Engine Optimizer",
+      "path": "ideas/2026-11-09/002-answer-engine-optimization/idea.md",
+      "date": "2026-11-09",
+      "score": 7.6,
+      "trend_momentum": 10,
+      "app_gap": 9,
+      "build_simplicity": 7,
+      "evergreen": 6,
+      "monetization": 6,
+      "build_time": "2h",
+      "gap_signal": "pollution",
+      "growth": "7500%"
+    },
+    {
+      "title": "Fractional COO \u2014 Fractional COO Toolkit & Business Operations Guide",
+      "path": "ideas/2026-11-09/003-fractional-coo/idea.md",
+      "date": "2026-11-09",
+      "score": 7.2,
+      "trend_momentum": 10,
+      "app_gap": 8,
+      "build_simplicity": 6,
+      "evergreen": 6,
+      "monetization": 6,
+      "build_time": "3h",
+      "gap_signal": "low_competition",
+      "growth": "7600%"
     }
   ],
   "last_updated": "2026-11-09T03:00:00.000000Z",
-  "total": 245
+  "total": 248
 }

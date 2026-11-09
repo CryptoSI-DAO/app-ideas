@@ -1,4 +1,4 @@
-# Daily Summary — 2026-11-08
+# Daily Summary — 2026-11-09
 
 ## Top 3 App Ideas
 
@@ -68,6 +68,6 @@
 ---
 
 ## Archive Notes
-- 3 ideas shipped today (2026-11-08) — monthly ET list exhaustion detected (Nov 2026 run). Depuffing Wand (8.0), Answer Engine Optimization (7.6), and Fractional COO (7.2) re-promoted with stable scores.
+- 3 ideas shipped today (2026-11-09) — monthly ET list exhaustion detected (Nov 2026 run). Depuffing Wand (8.0), Answer Engine Optimization (7.6), and Fractional COO (7.2) re-promoted with stable scores.
 - 7 candidates rejected — all below 7.0 threshold (saturated/competition gaps).
 - data.json: 244 entries, ~48KB (under 50KB cap).
