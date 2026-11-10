@@ -1577,21 +1577,9 @@
     },
     {
       "date": "2026-11-08",
-      "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool Finder",
-      "score": 8.0,
-      "path": "ideas/2026-11-08/001-depuffing-wand/idea.md"
-    },
-    {
-      "date": "2026-11-08",
       "title": "Answer Engine Optimization \u2014 AI Search Answer Engine Optimizer",
       "score": 7.6,
       "path": "ideas/2026-11-08/002-answer-engine-optimization/idea.md"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Fractional COO \u2014 Fractional COO Toolkit & Business Operations Guide",
-      "score": 7.2,
-      "path": "ideas/2026-11-08/003-fractional-coo/idea.md"
     },
     {
       "title": "Depuffing Wand \u2014 Depuffing Wand Guide & Skincare Tool Finder",
@@ -1636,6 +1624,6 @@
       "growth": "7600%"
     }
   ],
-  "last_updated": "2026-11-09T03:00:00.000000Z",
-  "total": 248
+  "last_updated": "2026-11-10T03:00:00.000000Z",
+  "total": 246
 }
