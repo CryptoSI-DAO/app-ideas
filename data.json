@@ -1548,33 +1548,33 @@
     },
     {
       "date": "2026-11-14",
-      "path": "ideas/2026-11-14/001-ai-observability/idea.md",
-      "title": "AI Observability",
-      "score": 7.0,
-      "growth": 9300,
-      "build_time": 4,
-      "gap_score": 3,
+      "path": "ideas/2026-11-14/001-depuffing-wand/idea.md",
+      "title": "Depuffing Wand",
+      "score": 8.0,
+      "growth": 7800,
+      "build_time": "2h",
+      "gap_score": 9,
+      "category": "health"
+    },
+    {
+      "date": "2026-11-14",
+      "path": "ideas/2026-11-14/002-answer-engine-optimization/idea.md",
+      "title": "Answer Engine Optimization",
+      "score": 7.6,
+      "growth": 7500,
+      "build_time": "2h",
+      "gap_score": 9,
       "category": "tech"
     },
     {
       "date": "2026-11-14",
-      "path": "ideas/2026-11-14/002-baselane/idea.md",
-      "title": "Baselane",
-      "score": 7.0,
-      "growth": 9000,
-      "build_time": 4,
-      "gap_score": 3,
-      "category": "tech"
-    },
-    {
-      "date": "2026-11-14",
-      "path": "ideas/2026-11-14/003-morelogin/idea.md",
-      "title": "MoreLogin",
-      "score": 7.0,
-      "growth": 8900,
-      "build_time": 4,
-      "gap_score": 3,
-      "category": "tech"
+      "path": "ideas/2026-11-14/003-fractional-coo/idea.md",
+      "title": "Fractional COO",
+      "score": 7.2,
+      "growth": 7600,
+      "build_time": "3h",
+      "gap_score": 8,
+      "category": "business"
     }
   ],
   "last_updated": "2026-11-14T03:00:00.000000Z",
