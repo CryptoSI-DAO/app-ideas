@@ -1558,16 +1558,6 @@
     },
     {
       "date": "2026-11-14",
-      "path": "ideas/2026-11-14/002-answer-engine-optimization/idea.md",
-      "title": "Answer Engine Optimization",
-      "score": 7.6,
-      "growth": 7500,
-      "build_time": "2h",
-      "gap_score": 9,
-      "category": "tech"
-    },
-    {
-      "date": "2026-11-14",
       "path": "ideas/2026-11-14/003-fractional-coo/idea.md",
       "title": "Fractional COO",
       "score": 7.2,
@@ -1575,8 +1565,26 @@
       "build_time": "3h",
       "gap_score": 8,
       "category": "business"
+    },
+    {
+      "title": "Depuffing Wand",
+      "score": 8.0,
+      "date": "2026-11-15",
+      "path": "ideas/2026-11-15/001-depuffing-wand/idea.md"
+    },
+    {
+      "title": "Answer Engine Optimization",
+      "score": 7.6,
+      "date": "2026-11-15",
+      "path": "ideas/2026-11-15/002-answer-engine-optimization/idea.md"
+    },
+    {
+      "title": "Fractional COO",
+      "score": 7.2,
+      "date": "2026-11-15",
+      "path": "ideas/2026-11-15/003-fractional-coo/idea.md"
     }
   ],
   "last_updated": "2026-11-15T03:00:00.000000Z",
-  "total": 245
+  "total": 247
 }
